@@ -1,0 +1,1051 @@
+hotel name --- Mee Homes Madhapur Family Stay Fully Furnished 2 BHK Premium Flats 201, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lavish premium 2bhk jublee hills Apollo, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Melody 2 Bedroom Apartment in Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SRR Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Maya HomeStay -2BHK Flat near US Counsulate, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Fargo Valley, key -- paymenttype, error -- list index out of range 
+hotel name --- Fargo Valley, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lemon drop farmstay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Avasa Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at AJ House with Pvt Pool & Projector Set-up, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at AJ House with Pvt Pool & Projector Set-up, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Changemaker’s Oasis, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- TheReefApartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BKs Den, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay 14 Bhk Fully Furnished in Hafeezpet with Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay Kukatpally Spacious 5 BHK Duplex in Vivekananda Nagar with Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VISTA Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Row House 4 BHK - 4 balconies-Near AIG Hospital, Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Row House 4 BHK - 4 balconies-Near AIG Hospital, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 5 bhk plush independent bungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Altruist One Continent, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Radhe Pride Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- THE CENT HOTEL, key -- paymenttype, error -- list index out of range 
+hotel name --- THE CENT HOTEL, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Serene Retreat by StayJadePoolBasketball Court, key -- paymenttype, error -- list index out of range 
+hotel name --- Serene Retreat by StayJadePoolBasketball Court, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Let Home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mudita Layout, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious Garden view Duplex, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious Garden view Duplex in Hyderabad, key -- cancelType, error -- list index out of range 
+hotel name --- Luxurious Garden view Duplex in Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxurious Garden view Duplex in Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Radhe Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Click Hotel Shamshabad - Hyderabad Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- LA CASA Premium Villa & Pool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious 4BHK Apartment at Golden heights colonyS, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- DestinationHomes-LiveScreen-Ameerpet, key -- paymenttype, error -- list index out of range 
+hotel name --- DestinationHomes-LiveScreen-Ameerpet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxury homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Modern 4 BHK, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- A convenient home stay in city centre, key -- cancelType, error -- list index out of range 
+hotel name --- A convenient home stay in city centre, key -- paymenttype, error -- list index out of range 
+hotel name --- A convenient home stay in city centre, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Veetil 3BHK AC, Kukatpally, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Veetil 3BHK AC, Kukatpally, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Willow the Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Windsor Plaza, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- White Teak Suites 3BHK Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dcasa Apartment Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious Duplex Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Noah Suits-2BHK NearUSCONSULATE, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Brand new premium penthouse, key -- cancelType, error -- list index out of range 
+hotel name --- Brand new premium penthouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Brand new premium penthouse, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Premium 3Bhk Appartment 201, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Landmark Banjara Hills - Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hogar stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cosy nest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Firdous Manzil, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious Independent 3bhk villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Prashanth kuteer, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Chic Suite Banjara Hills, key -- cancelType, error -- list index out of range 
+hotel name --- Chic Suite Banjara Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- Chic Suite Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bigson Service Apartments Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rustic Farm House by the Lake, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- NK Homes - 2BHK Serviced Apartments - Full Furnished & Full Kitchen, WiFi & Balcony, key -- cancelType, error -- list index out of range 
+hotel name --- NK Homes - 2BHK Serviced Apartments - Full Furnished & Full Kitchen, WiFi & Balcony, key -- paymenttype, error -- list index out of range 
+hotel name --- NK Homes - 2BHK Serviced Apartments - Full Furnished & Full Kitchen, WiFi & Balcony, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Orchid Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cabana Eden - Cabin in the woods with splash pool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cloud9Homes Serviced Apartments, key -- cancelType, error -- list index out of range 
+hotel name --- Cloud9Homes Serviced Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Cloud9Homes Serviced Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Viera Elite - Jubilee Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aavasam - 3BHK- Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Aavasam - 3BHK- Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vazeer Residancy, key -- paymenttype, error -- list index out of range 
+hotel name --- Vazeer Residancy, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aavasam - 3BHK- Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Aavasam - 3BHK- Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Veetil-PentHouse, 2BHK, KPHB, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Veetil-PentHouse, 2BHK, KPHB, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- NK Homes - Urban Apartments, key -- cancelType, error -- list index out of range 
+hotel name --- NK Homes - Urban Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- NK Homes - Urban Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay - Just Launched 3 BHK Near Madhapur With Private Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- NK Homes - Full Furnished Serviced Flats, key -- cancelType, error -- list index out of range 
+hotel name --- NK Homes - Full Furnished Serviced Flats, key -- paymenttype, error -- list index out of range 
+hotel name --- NK Homes - Full Furnished Serviced Flats, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Charming Beautiful 2bhk Jublee hills Apollo, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Live Inn Banjara, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ultra-Modern Fullt Furnished 2BHK Near JNTU Metro - Launched Just Now, key -- cancelType, error -- list index out of range 
+hotel name --- Ultra-Modern Fullt Furnished 2BHK Near JNTU Metro - Launched Just Now, key -- paymenttype, error -- list index out of range 
+hotel name --- Ultra-Modern Fullt Furnished 2BHK Near JNTU Metro - Launched Just Now, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FOURTH FLOOR OF SRi GOWRI RESIDENCY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tulip Garden Farm House, key -- cancelType, error -- list index out of range 
+hotel name --- Tulip Garden Farm House, key -- paymenttype, error -- list index out of range 
+hotel name --- Tulip Garden Farm House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- JLR Farm Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- JLR Farm Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Homely 3BHK apartment in the heart of the city, key -- cancelType, error -- list index out of range 
+hotel name --- Homely 3BHK apartment in the heart of the city, key -- paymenttype, error -- list index out of range 
+hotel name --- Homely 3BHK apartment in the heart of the city, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Skyline View Suite, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Serenity Skyline by WELIVING, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Taj Mahal Hotel Abids, key -- cancelType, error -- list index out of range 
+hotel name --- Taj Mahal Hotel Abids, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Mahal Hotel Abids, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Elite By Signature Group, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Housr 43 Gachibowli Hyderabad Near DLF Cybercity, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Upscale 2BHK IN DOWNTOWN HYDERABAD, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Viola Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Elegant 3BHK Apt near Gachibowli with All Amenities, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Elegant 3BHK Fully Furnished and Equipped Apt near Hitec City by EVARA SUITES, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 3rd Floor, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 3rd Floor, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 3rd Floor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Balcony Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay KPHB Phase 15 New Stunning 15 BHKs Full Building with Terrace & Parking, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 15 BHKs Full Building with Terrace & Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 15 BHKs Full Building with Terrace & Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Evara Luxury Living Central 3BHK near HITEC City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 1st Floor, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 1st Floor, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 1st Floor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Delightful 3 Bed holiday home with AC Near US Embassy, Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Delightful 3 Bed holiday home with AC Near US Embassy, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Comfy Abode Banjara Hills Road No 1, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 2nd Floor, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 2nd Floor, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 2nd Floor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 3BHK Gachibowli - Kitchen, Lift, Parking, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 3BHK Gachibowli - Kitchen, Lift, Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 3BHK Gachibowli - Kitchen, Lift, Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- LOFTEL STAYS, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- KR homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 4th Floor, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 4th Floor, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay KPHB Phase 15 New Stunning 3 BHK - 4th Floor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Near to Hyderabad Airport, just 10 minutes away, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Evara Urban Oasis - Luxury 3BHK Apt near AIG Hospital, key -- cancelType, error -- list index out of range 
+hotel name --- Evara Urban Oasis - Luxury 3BHK Apt near AIG Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- Evara Urban Oasis - Luxury 3BHK Apt near AIG Hospital, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- N Cube Serviced Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- N Cube Serviced Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Evara Bliss - 3BHK Apartment Near Hitec City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Praana Service Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Praana Service Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Westin Serviced apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Evara Tranquil 3BHK Retreat Near Hitec City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Evara Grand Vista - Fully Equipped 3BHK near AMB, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Evara Hitec Escape - Luxury 3BHK Apt Near HitecCity, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SS KC Rockside Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Eeshu Stays, key -- cancelType, error -- list index out of range 
+hotel name --- Eeshu Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Eeshu Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel A&M - Nr LV Prasad Institute, Banjara Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel A&M - Nr LV Prasad Institute, Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cityscape Comfort - Stylish 3BHK Central Getaway, key -- cancelType, error -- list index out of range 
+hotel name --- Cityscape Comfort - Stylish 3BHK Central Getaway, key -- paymenttype, error -- list index out of range 
+hotel name --- Cityscape Comfort - Stylish 3BHK Central Getaway, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Viswanadhuni's Antilia Comfort Stay Inn 3BHK, key -- cancelType, error -- list index out of range 
+hotel name --- Viswanadhuni's Antilia Comfort Stay Inn 3BHK, key -- paymenttype, error -- list index out of range 
+hotel name --- Viswanadhuni's Antilia Comfort Stay Inn 3BHK, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Uma Dream Reality, key -- cancelType, error -- list index out of range 
+hotel name --- Uma Dream Reality, key -- paymenttype, error -- list index out of range 
+hotel name --- Uma Dream Reality, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Suprahbat Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Suprahbat Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Suprahbat Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel La Sky Boutique, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3 BHK Flat in LB Nagar Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Entire 3bhk centrally located in Kukatpally Y Jn., key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mee Homes Madhapur Family Stay Luxury Fully Furnished 2 BHK Flats, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SRT HOMELY STAY 3BHK With All Amenities, key -- paymenttype, error -- list index out of range 
+hotel name --- SRT HOMELY STAY 3BHK With All Amenities, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3BHK Fully Furnished In Kphb Phase 15, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 2BHK Gachibowli - Kitchen, Lift, Parking, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 2BHK Gachibowli - Kitchen, Lift, Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 2BHK Gachibowli - Kitchen, Lift, Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Golden Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The HoMe-II, 2BHK, Gachibowli, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- The HoMe-II, 2BHK, Gachibowli, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mee Homes Madhapur Family Stay Fully Furnished 2 BHK Premium Flats 401, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- apple bliss parties, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PENTHOUSE FOURTH FLOOR OF SRi GOWRI RESIDENCY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SRi GOWRI RESIDENCY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Harmony Suites 3BR Mehdipatnam By Homeyhuts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Peaceful Home Stay with Fitness Center, key -- paymenttype, error -- list index out of range 
+hotel name --- Peaceful Home Stay with Fitness Center, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Srinivas Nilayam, key -- paymenttype, error -- list index out of range 
+hotel name --- Srinivas Nilayam, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mee Homes Madhapur Family Stay Fully Furnished 2 BHK Premium Flats 302, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SHAAKYA Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Huma Grand - Cozy lake view stay in the city, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3 BHK Luxury Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Elite Swagath Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Airport Stay Inn - Nr Hyderabad International Airport, Shamshabad, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Airport Stay Inn - Nr Hyderabad International Airport, Shamshabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 1 BHK Penthouse at SV Serenity, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Verde - 2BHK,Near US Embassy, Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Verde - 2BHK,Near US Embassy, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- KesarHomes-HomeStay- FLT202-2nd Flr-2BHK-APT-AC-Lift-Kukatpally, key -- cancelType, error -- list index out of range 
+hotel name --- KesarHomes-HomeStay- FLT202-2nd Flr-2BHK-APT-AC-Lift-Kukatpally, key -- paymenttype, error -- list index out of range 
+hotel name --- KesarHomes-HomeStay- FLT202-2nd Flr-2BHK-APT-AC-Lift-Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mee Homes Madhapur Family Stay Fully Furnished 2 BHK Premium Flats, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Flat in Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VK Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VK Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Home Stay in Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Spacious and Comfortable 3BHK No-AC for Travellers, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2BHK Flat in Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lovely 2 BHK house Near US Embassy at Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Lovely 2 BHK house Near US Embassy at Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay 2 BHK Fully Furnished in Kukatpally #201, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay 2 BHK Fully Furnished in Kukatpally #201, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay 2 BHK Fully Furnished in Kukatpally #201, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay 2 BHK in Kukatpally in Prime Location #202, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay 2 BHK in Kukatpally in Prime Location #202, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay 2 BHK in Kukatpally in Prime Location #202, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mythri Retreat Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Private pool 3bhk wooden cottage Moinabad Kuku farm stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stylish Penthouse Apartment - ATITHI ESTATE, key -- cancelType, error -- list index out of range 
+hotel name --- Stylish Penthouse Apartment - ATITHI ESTATE, key -- paymenttype, error -- list index out of range 
+hotel name --- Stylish Penthouse Apartment - ATITHI ESTATE, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2 Bhk Apartment in Gachibowli, key -- cancelType, error -- list index out of range 
+hotel name --- 2 Bhk Apartment in Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- 2 Bhk Apartment in Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Z-One Serviced Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ashoka Vanam, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Zenith Paradise-Luxurious 3BR Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Zenith Paradise-Luxurious 3BR Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Zenith Paradise-Luxurious 3BR Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Global Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Central 2BHK Premium Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Central 2BHK Premium Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Central 2BHK Premium Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #202, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #202, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #202, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #301, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay Hafeezpet - 2 Bhk Fully Furnished Flat at Ground Floor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #302, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #302, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Naseem heights, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay Fully Furnished 2 BHK in Hafeezpet #102, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay Fully Furnished 2 BHK in Hafeezpet #102, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay Fully Furnished 2 BHK in Hafeezpet #102, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #201, key -- cancelType, error -- list index out of range 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #201, key -- paymenttype, error -- list index out of range 
+hotel name --- Servostay 2 Bhk Fully Furnished in Hafeezpet #201, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- A to Z Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pearl Homes Hyd, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Angirasa Luxury Camping, key -- paymenttype, error -- list index out of range 
+hotel name --- Angirasa Luxury Camping, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MyHaus Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- MyHaus Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Clapping Leaves Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Clapping Leaves Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dar E Noor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Fully Furnished 2BHK In Hafeezpet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious 2BHK Near HITEX Exhibition Center, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious 2BHK in Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Enjoy a homely atmosphere flat in Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hazel View Royal Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 2BHK Hitech City - Gym, Terrace Garden, Lift, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 2BHK Hitech City - Gym, Terrace Garden, Lift, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 2BHK Hitech City - Gym, Terrace Garden, Lift, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Marriott Executive Apartments Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shreshtam Apart Hotel, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Modern New 2 BHK Studios in Kondapur Near Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stylish 1.5 BHK A/C at BanjaraHills Near CareHospitals, key -- paymenttype, error -- list index out of range 
+hotel name --- Stylish 1.5 BHK A/C at BanjaraHills Near CareHospitals, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MK SUITES, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Room in Banjara Hills, key -- cancelType, error -- list index out of range 
+hotel name --- Room in Banjara Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- Room in Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Deccan Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Deccan Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cozy Corner #2BHK Near AIG & US Embassy gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Cozy Corner #2BHK Near AIG & US Embassy gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel M Hyatt, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel M Hyatt, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel M Hyatt, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SKYLA Studios & Suites - Kondapur, key -- paymenttype, error -- list index out of range 
+hotel name --- SKYLA Studios & Suites - Kondapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Feels like home, key -- paymenttype, error -- list index out of range 
+hotel name --- Feels like home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Abode Stayz Service Apartments, key -- cancelType, error -- list index out of range 
+hotel name --- Abode Stayz Service Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Abode Stayz Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dpinn Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Taj Falaknuma Palace, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Falaknuma Palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Olive Service Apartments Gachibowli, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Service Apartments Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Service Apartments Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEl EUPHORIA AIRPORT Zone, key -- cancelType, error -- list index out of range 
+hotel name --- HOTEl EUPHORIA AIRPORT Zone, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEl EUPHORIA AIRPORT Zone, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 1BHK Hitech City - Gym, TT, Terrace Garden, Lift, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Aaranya Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 1BHK Suite Gachibowli - Terrace Garden, Lift, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 1BHK Gachibowli - Terrace Garden, Lift, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 1BHK Gachibowli - Terrace Garden, Lift, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 1BHK Gachibowli - Terrace Garden, Lift, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BedChambers Serviced Apartments, Hyderabad, key -- cancelType, error -- list index out of range 
+hotel name --- BedChambers Serviced Apartments, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- BedChambers Serviced Apartments, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO Penthouse Gachibowli - Terrace Garden, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Penthouse Gachibowli - Terrace Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Penthouse Gachibowli - Terrace Garden, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO Penthouse - Terrace Garden Gachibowli, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Penthouse - Terrace Garden Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Penthouse - Terrace Garden Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Brown Town Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Brown Town Resort & Spa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lemon Tree Hotel, Gachibowli, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemon Tree Hotel, Gachibowli, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ITC Kohenur, a Luxury Collection Hotel, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Fairfield by Marriott Hyderabad Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 5 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- 5 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 6 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- 6 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Atlas Homes 1BHK HomeStays, key -- paymenttype, error -- list index out of range 
+hotel name --- Atlas Homes 1BHK HomeStays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- 3 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 8 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- 8 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 4 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- 4 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 9 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- 9 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- 2 MidTown-1BHK, Near AIG Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Park Hyatt Hotel and Residences, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Radisson Blu Plaza Hotel Hyderabad Banjara Hills, key -- cancelType, error -- list index out of range 
+hotel name --- Radisson Blu Plaza Hotel Hyderabad Banjara Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- Radisson Blu Plaza Hotel Hyderabad Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Royalton Hyderabad Abids, key -- cancelType, error -- list index out of range 
+hotel name --- Royalton Hyderabad Abids, key -- paymenttype, error -- list index out of range 
+hotel name --- Royalton Hyderabad Abids, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Olive Service Apartments Hitech City, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Service Apartments Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Service Apartments Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VOILA AT NEST, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BedChambers Serviced Apartment, Jubilee Hills, key -- cancelType, error -- list index out of range 
+hotel name --- BedChambers Serviced Apartment, Jubilee Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- BedChambers Serviced Apartment, Jubilee Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Elysium Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Fortune Hyderabad Airport Zone, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Trident Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Trident Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MangoHut Farmhouse Pool Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- MangoHut Farmhouse Pool Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Leela Hyderabad Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Golkonda Resort and Spa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL V, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL V, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 6BHK AC Home for families in Prime Loc Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO Studio Gachibowli - Terrace Garden, Lift, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Studio Gachibowli - Terrace Garden, Lift, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Studio Gachibowli - Terrace Garden, Lift, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Oakwood Residence Kapil Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Oakwood Residence Kapil Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Avasa Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Avasa Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Taj Krishna, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Krishna, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Radisson Hyderabad Hitec City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vivanta Hyderabad, Begumpet, key -- paymenttype, error -- list index out of range 
+hotel name --- Vivanta Hyderabad, Begumpet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sheraton Hyderabad Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Westin Hyderabad Mindspace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Taj Deccan, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Deccan, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Courtyard by Marriott Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Priya Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ITC Kakatiya, a Luxury Collection Hotel, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- ITC Kakatiya, a Luxury Collection Hotel, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le Meridien Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hyatt Place Hyderabad Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Deccan Serai Grande, Gachibowli, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Deccan Serai Grande, Gachibowli, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Golkonda Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- The Golkonda Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Central Court, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Eastin Hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lemonridge Hotels KPHB, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Hotel, Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hyderabad Marriott Hotel & Convention Centre, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Park Hyderabad, Banjara Hills near Hussain Sagar Lake, key -- paymenttype, error -- list index out of range 
+hotel name --- The Park Hyderabad, Banjara Hills near Hussain Sagar Lake, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Clarion Hotel Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Manohar Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- The Manohar Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bloom Hotel - HITEC City, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - HITEC City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Taj Mahal Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Taj Mahal Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Mahal Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mercure Hyderabad KCP Banjara Hills, An Accor Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Mercure Hyderabad KCP Banjara Hills, An Accor Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Mercure Hyderabad KCP Banjara Hills, An Accor Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Novotel Hyderabad Convention Centre, key -- cancelType, error -- list index out of range 
+hotel name --- Novotel Hyderabad Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Novotel Hyderabad Convention Centre, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Marigold Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Marigold Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stae Hotel-Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Ranjit Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Citadel Hotel By Vinnca, key -- paymenttype, error -- list index out of range 
+hotel name --- Citadel Hotel By Vinnca, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ellaa Hotel Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Fort Club, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Crescent Stays Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Hotel Suhail, key -- paymenttype, error -- list index out of range 
+hotel name --- New Hotel Suhail, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Hotel & Suites, Gachibowli, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Hotel & Suites, Gachibowli, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bloom Hotel Financial District, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel Financial District, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Novotel Hyderabad Airport, key -- cancelType, error -- list index out of range 
+hotel name --- Novotel Hyderabad Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Novotel Hyderabad Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- W Hotel Shamshabad Hyderabad Airport Zone, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sharan's Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aditya Park-A Sarovar Portico Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel The Prime, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Zibe Luxe Hyderabad by GRT Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Zibe Luxe Hyderabad by GRT Hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Peerless Hotel Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Peerless Hotel Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo SY Inn, Gachibowli DLF, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Greenpark Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Greenpark Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lemon Tree Hotel, Banjara Hills, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemon Tree Hotel, Banjara Hills, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Red Fox by Lemon Tree Hotels, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Red Fox by Lemon Tree Hotels, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Athome , Whitefields, Kondapur, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Athome , Whitefields, Kondapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Vaarahi Chanda Nagar, Near Miraj Cinemas Geeta Theatre, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Clarks Inn Suites Hyderabad Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Balcony Suites I Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Tulips Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gis Select Banjara Hill, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Farm life, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wild Wings Premium Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Wild Wings Premium Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Wild Wings Premium Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Royal Residency II - Nr Lakdikapul Metro Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal Residency II - Nr Lakdikapul Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Deccan Heritage - Nr ISKON TEMPLE , ABIDS, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Deccan Heritage - Nr ISKON TEMPLE , ABIDS, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mango Suites Viera, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Dolce Vita Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel New Maruthi Inn, LB Nagar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Silver Clé, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hampshire Plaza, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Delphi Grand Hyderabad - Hi-Tech City, Perfect for Business & Comfort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Siliconville, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Vantage Inn, near US Consulate Gachibowli Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Deccan Serai, HITEC CITY, HYDERABAD, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Deccan Serai, HITEC CITY, HYDERABAD, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Prime Jubilee, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Prime Jubilee, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bloom Hotel - DLF Cyber City, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - DLF Cyber City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lemon Tree Premier Hitec City Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemon Tree Premier Hitec City Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- R S Living, key -- cancelType, error -- list index out of range 
+hotel name --- R S Living, key -- paymenttype, error -- list index out of range 
+hotel name --- R S Living, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Address Inn, Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lemonridge Hotels Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hitech Shilparamam Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Destination Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dolphin Residency Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bloom Hotel - Jubilee Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shree Kanha Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Royal Grand Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Royal Grand Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Royal Grand Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- RK Serenity Guest rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Emerald, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Oriva Vinflora Residency - Nr LV Prasad Hospital, Banjara Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- Oriva Vinflora Residency - Nr LV Prasad Hospital, Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Quality Inn Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La Serene, key -- paymenttype, error -- list index out of range 
+hotel name --- La Serene, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Varsha Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SK FIRST TRANSIT HOTEL Shamshabad, key -- cancelType, error -- list index out of range 
+hotel name --- SK FIRST TRANSIT HOTEL Shamshabad, key -- paymenttype, error -- list index out of range 
+hotel name --- SK FIRST TRANSIT HOTEL Shamshabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Serenity La Vista, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- NRr, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ibis Hyderabad Hitec City - An Accor Brand, key -- cancelType, error -- list index out of range 
+hotel name --- ibis Hyderabad Hitec City - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Hyderabad Hitec City - An Accor Brand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel B plus L, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Pride Inn Botanica, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Deccan Comforts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Srico, Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Kyzen Smartstays - Smart, Reliable, Kyzen, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel VGR Comforts - Nr Khairtabad Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Elegance - Nr U S Consulate, Financial District, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Elegance - Nr U S Consulate, Financial District, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Aditya Homes - Nr ISB, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dream Suites Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Tee, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel White Fields Hitec City, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel White Fields Hitec City, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Eminent Suites Banjara Hills - Nr LV Prasad Institute, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Eminent Suites Banjara Hills - Nr LV Prasad Institute, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Direct Checkin - Nr Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Direct Checkin - Nr Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Arastu Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Haven, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Haven, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Haven, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- THE SUPERB HOTEL PVT LTD, key -- paymenttype, error -- list index out of range 
+hotel name --- THE SUPERB HOTEL PVT LTD, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mount Meadows Farms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dash Hotels - Affordable Luxury, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Whiteridge Premium Banjarahills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Gayathri, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Gayathri, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- GAYATHRI HEIGHTS SERVICED APARTMENTS & APARTMENT HOTEL In HYDERABAD, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sakala - Sundari Fully Furnished Spacious 2BHK, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Imperial Classic, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Fabhotel Prime Cozy - Nr Hitech City Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Premium Metropolis, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Kruthika Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Premium D Consulate, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Itsy Hotels J A Royal Suites Manikonda, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress The Dream Elite - Nr Golconda Fort, Manikonda, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress The Dream Elite - Nr Golconda Fort, Manikonda, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prime AM Suites - Nr Yashoda Hospitals - Secunderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime AM Suites - Nr Yashoda Hospitals - Secunderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Q Suites - Nr Kavuri Hills, Madhapur, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Q Suites - Nr Kavuri Hills, Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Taj Tristar, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Tristar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- KSR INN Luxury Suites & Service Appartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Lio7 Grand - Vanasthalipuram, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Lio7 Grand - Vanasthalipuram, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Lexus Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Reef Terrace Unit, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Stay Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Stay Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Stay Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Pearl City - Nr Jubilee Enclave,Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Pearl City - Nr Jubilee Enclave,Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Broholic Suites- U S Consulate, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Broholic Suites- U S Consulate, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Broholic Suites - Nr JNTU Kukatpally, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Broholic Suites - Nr JNTU Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Broholic - 200M from CARE Hospitals - Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Broholic - 200M from CARE Hospitals - Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Golden Hitech - Nr Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Golden Hitech - Nr Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Rooms 27 - Nr Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Rooms 27 - Nr Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Grand Broholic - Nr Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Grand Broholic - Nr Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prime Prowell Apex - Nr KIMS Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Prowell Apex - Nr KIMS Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel SSR Ikon Suites - Nr Hyderabad Central University, Kondapur, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel SSR Ikon Suites - Nr Hyderabad Central University, Kondapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo De Alphabet Kondapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prime Srishoin - Nr TCS Deccan Park, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Srishoin - Nr TCS Deccan Park, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Tals Hitech - Nr Jubliee Enclave, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Tals Hitech - Nr Jubliee Enclave, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Navya The Park, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Aamantran & Banquet Halls - Nr RTC X Roads Metro Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Aamantran & Banquet Halls - Nr RTC X Roads Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Sri Karthikeya Grand - Nr Nexus Mall, Kukatpally, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Sri Karthikeya Grand - Nr Nexus Mall, Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Limestone Suites - 750M from Yashoda Hospitals, Somajiguda, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Limestone Suites - 750M from Yashoda Hospitals, Somajiguda, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Big Daddy Suites - Nr Nexus Mall, Kukatpally, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Big Daddy Suites - Nr Nexus Mall, Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prestige Castle, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress D Grand - Nr JNTU College Metro Station, Kukatpally, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress D Grand - Nr JNTU College Metro Station, Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Golden Gate - Nr Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Golden Gate - Nr Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Joy Stayz - Nr Yashoda Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Joy Stayz - Nr Yashoda Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Itsy Hotels Kruthika Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel VKs - Nr UMCC Shahpur, Jeedimetla, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel VKs - Nr UMCC Shahpur, Jeedimetla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Pride Inn Financia - Nr DLF Cyber City, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel WR Grand - Nr RENOVA Hospital, Banjara Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel WR Grand - Nr RENOVA Hospital, Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel L Grand - Nr Secunderabad Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel L Grand - Nr Secunderabad Railway Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Midtown Begumpet, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Midtown Begumpet, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Midtown Begumpet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Air Live - Nr Ameerpet metro station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel RK Residency - Nr SR Nagar Metro Station, Ameerpet, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel RK Residency - Nr SR Nagar Metro Station, Ameerpet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel De Alphabet II - Nr Ameerpet Metro Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel De Alphabet II - Nr Ameerpet Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel dolphin, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Itsy Hotels Sunrise Grand, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel N Residency, Hitech City - 350M from Yashoda Hospital, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel N Residency, Hitech City - 350M from Yashoda Hospital, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Seri - Nr KIMS Hospital, Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Seri - Nr KIMS Hospital, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Maski Suites - Nr KIMS Hospital, Kondapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Casa Grand Inn - Nr US Consulate, Financial District, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Casa Grand Inn - Nr US Consulate, Financial District, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Dream Connect - Nr Narsingi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Dream Connect - Nr Narsingi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prime Adhirath Grand - 400M from Durgam Cheruvu Metro Station, Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Unnam, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel SRH Pride - Nr Nexus Mall, Kukatpally, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel SRH Pride - Nr Nexus Mall, Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Narsingi - Nr Global Eye Hospital, Narsingi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Narsingi - Nr Global Eye Hospital, Narsingi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel AIG Broholic - 250M from AIG Hospital, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel SRS Grand - Nr Mahindra University, Gandi Maisamma, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel SRS Grand - Nr Mahindra University, Gandi Maisamma, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Kings Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Kings Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 6E Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel VK Luxury Room's - Nr UMCC Shahpur, Jeedimetla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Premimum penthouse, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel NS Royal Emirates With 3Hr Early check in, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel NS Royal Emirates With 3Hr Early check in, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Itsy Hotels Infinity, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Virat Residency, US Consulate, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Pride Inn - Nr TCS Deccan Park, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Pride Inn - Nr TCS Deccan Park, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Acsys, Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prime Prowell Crown - Nr TCS Deccan Park, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Prowell Crown - Nr TCS Deccan Park, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Key Suites Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel The Cinco Primera - Nr KBR Park, Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Address Inn Jubilee Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hiwa Boutique Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Hamsa The Right Choice - Nr Lanco Hills, Manikonda, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Hamsa The Right Choice - Nr Lanco Hills, Manikonda, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Namaha Suites - Nr Hyderabad International Airport, Shamshabad, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Namaha Suites - Nr Hyderabad International Airport, Shamshabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Fortune Grand - Nr Lakdikapul Metro Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Fortune Grand - Nr Lakdikapul Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Hydotel Kompally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Seventh Heaven Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo De Alphabet Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hasinihomes 3bhk brand new new service apartment JNTU nizampet pragathi nagar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Borcelle Home Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Apex Inn Hyderabad Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Verizon Stays Single Deluxe Rooms @Bachupally, key -- cancelType, error -- list index out of range 
+hotel name --- Verizon Stays Single Deluxe Rooms @Bachupally, key -- paymenttype, error -- list index out of range 
+hotel name --- Verizon Stays Single Deluxe Rooms @Bachupally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress RS Living - Nr TCS Deccan Park, Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress RS Living - Nr TCS Deccan Park, Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Coral Furnished Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Itsy Hotels D'Comfort Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- KesarHomes 2BHK FlatNo201 2FLR 2BR AC Lift Kukatpally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- DR Dwell hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- sucasa homes (home away from home guest services pvt ltd), key -- paymenttype, error -- list index out of range 
+hotel name --- sucasa homes (home away from home guest services pvt ltd), key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Collection O LB Nagar Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O GK Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- THE METRO INTERNATIONAL HOTEL, key -- cancelType, error -- list index out of range 
+hotel name --- THE METRO INTERNATIONAL HOTEL, key -- paymenttype, error -- list index out of range 
+hotel name --- THE METRO INTERNATIONAL HOTEL, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cosy Banjara Guest House, key -- cancelType, error -- list index out of range 
+hotel name --- Cosy Banjara Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Cosy Banjara Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Priyadarshini Park Saroornagar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse Mailardevpally Near Owaisi Hospital Formerly Tolkanti Arcade, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Mailardevpally Near Owaisi Hospital Formerly Tolkanti Arcade, key -- cancelType, error -- list index out of range 
+hotel name --- Townhouse Mailardevpally Near Owaisi Hospital Formerly Tolkanti Arcade, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Mailardevpally Near Owaisi Hospital Formerly Tolkanti Arcade, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Mailardevpally Near Owaisi Hospital Formerly Tolkanti Arcade, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Mailardevpally Near Owaisi Hospital Formerly Tolkanti Arcade, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse Oak Nagaram Lake Hyderabad, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Oak Nagaram Lake Hyderabad, key -- cancelType, error -- list index out of range 
+hotel name --- Townhouse Oak Nagaram Lake Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Oak Nagaram Lake Hyderabad, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Oak Nagaram Lake Hyderabad, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Oak Nagaram Lake Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse Oak Lb Nagar Near Kamineni Hospital Formerly Sunil arcade, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Oak Lb Nagar Near Kamineni Hospital Formerly Sunil arcade, key -- cancelType, error -- list index out of range 
+hotel name --- Townhouse Oak Lb Nagar Near Kamineni Hospital Formerly Sunil arcade, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Oak Lb Nagar Near Kamineni Hospital Formerly Sunil arcade, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Oak Lb Nagar Near Kamineni Hospital Formerly Sunil arcade, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Oak Lb Nagar Near Kamineni Hospital Formerly Sunil arcade, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse Chakripuram Near Khusaiguda Bus Stop, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Chakripuram Near Khusaiguda Bus Stop, key -- cancelType, error -- list index out of range 
+hotel name --- Townhouse Chakripuram Near Khusaiguda Bus Stop, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Chakripuram Near Khusaiguda Bus Stop, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Chakripuram Near Khusaiguda Bus Stop, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Chakripuram Near Khusaiguda Bus Stop, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Rarola Stay, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Rarola Stay, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel O Rarola Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Rarola Stay, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Rarola Stay, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Rarola Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- OYO 89590 GS International, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- OYO 89590 GS International, key -- cancelType, error -- list index out of range 
+hotel name --- OYO 89590 GS International, key -- paymenttype, error -- list index out of range 
+hotel name --- OYO 89590 GS International, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- OYO 89590 GS International, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- OYO 89590 GS International, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Titiksha Residency, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Titiksha Residency, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel O Titiksha Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Titiksha Residency, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Titiksha Residency, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Titiksha Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Merit ph2, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Merit ph2, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Merit ph2, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Merit ph2, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Merit ph2, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Merit ph2, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Shresta Luxury Rooms - Nizampet Hightension line Rd, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Shresta Luxury Rooms - Nizampet Hightension line Rd, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Shresta Luxury Rooms - Nizampet Hightension line Rd, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Shresta Luxury Rooms - Nizampet Hightension line Rd, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Shresta Luxury Rooms - Nizampet Hightension line Rd, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Shresta Luxury Rooms - Nizampet Hightension line Rd, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- RAJ iNTERNATIONAL HOTEL, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RAJ iNTERNATIONAL HOTEL, key -- cancelType, error -- list index out of range 
+hotel name --- RAJ iNTERNATIONAL HOTEL, key -- paymenttype, error -- list index out of range 
+hotel name --- RAJ iNTERNATIONAL HOTEL, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RAJ iNTERNATIONAL HOTEL, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RAJ iNTERNATIONAL HOTEL, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sri Jahnavi group of hotels, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sri Jahnavi group of hotels, key -- cancelType, error -- list index out of range 
+hotel name --- Sri Jahnavi group of hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Sri Jahnavi group of hotels, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sri Jahnavi group of hotels, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sri Jahnavi group of hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel friendly stay inn, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel friendly stay inn, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel friendly stay inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel friendly stay inn, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel friendly stay inn, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel friendly stay inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Best Western Ashoka, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Best Western Ashoka, key -- cancelType, error -- list index out of range 
+hotel name --- Best Western Ashoka, key -- paymenttype, error -- list index out of range 
+hotel name --- Best Western Ashoka, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Best Western Ashoka, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Best Western Ashoka, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Siddi Vinayaka hotel, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Siddi Vinayaka hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Siddi Vinayaka hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Siddi Vinayaka hotel, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Siddi Vinayaka hotel, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Siddi Vinayaka hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- KS Residency - Fully Furnished Flat, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- KS Residency - Fully Furnished Flat, key -- cancelType, error -- list index out of range 
+hotel name --- KS Residency - Fully Furnished Flat, key -- paymenttype, error -- list index out of range 
+hotel name --- KS Residency - Fully Furnished Flat, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- KS Residency - Fully Furnished Flat, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- KS Residency - Fully Furnished Flat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Maritan - Hitech City, Hyderabad, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Maritan - Hitech City, Hyderabad, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Maritan - Hitech City, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Maritan - Hitech City, Hyderabad, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Maritan - Hitech City, Hyderabad, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Maritan - Hitech City, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Melody Mings, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Melody Mings, key -- cancelType, error -- list index out of range 
+hotel name --- Melody Mings, key -- paymenttype, error -- list index out of range 
+hotel name --- Melody Mings, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Melody Mings, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Melody Mings, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mouryas White House 2 Bhk, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mouryas White House 2 Bhk, key -- cancelType, error -- list index out of range 
+hotel name --- Mouryas White House 2 Bhk, key -- paymenttype, error -- list index out of range 
+hotel name --- Mouryas White House 2 Bhk, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mouryas White House 2 Bhk, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mouryas White House 2 Bhk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MouryasWhiteHouse 2 Bhk, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- MouryasWhiteHouse 2 Bhk, key -- cancelType, error -- list index out of range 
+hotel name --- MouryasWhiteHouse 2 Bhk, key -- paymenttype, error -- list index out of range 
+hotel name --- MouryasWhiteHouse 2 Bhk, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- MouryasWhiteHouse 2 Bhk, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- MouryasWhiteHouse 2 Bhk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Deccan Lodging & Boarding, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Deccan Lodging & Boarding, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Deccan Lodging & Boarding, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Deccan Lodging & Boarding, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Deccan Lodging & Boarding, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Deccan Lodging & Boarding, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Occassia Bliss, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Occassia Bliss, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Occassia Bliss, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Occassia Bliss, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Occassia Bliss, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Occassia Bliss, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 1 BHK House with AC fully operational kitchen with wifi, key -- room_type, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1 BHK House with AC fully operational kitchen with wifi, key -- cancelType, error -- list index out of range 
+hotel name --- 1 BHK House with AC fully operational kitchen with wifi, key -- paymenttype, error -- list index out of range 
+hotel name --- 1 BHK House with AC fully operational kitchen with wifi, key -- bedType, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1 BHK House with AC fully operational kitchen with wifi, key -- price, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1 BHK House with AC fully operational kitchen with wifi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3bhk at gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MO Furnished Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mee homes Madhapur 2 bhk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ira Bigson Apart Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SKYLINE Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Swan Suites Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- EZ-stay Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Anagha, Wooden Cabin with Private Pool, key -- cancelType, error -- list index out of range 
+hotel name --- Anagha, Wooden Cabin with Private Pool, key -- paymenttype, error -- list index out of range 
+hotel name --- Anagha, Wooden Cabin with Private Pool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- THE COSY INN, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3 BHK Flat in LB Nagar Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Modern ,Cozy ,Artistic and Green Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Modern ,Cozy ,Artistic and Green Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Modern ,Cozy ,Artistic and Green Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mee homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxury 9BHK AC Entire Building for families in Hyd, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- JB Service Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious 3BHK in Banjara Hills The Sujario Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ira Premium Service Apartments-Apollo, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3BHK Fully Furnished Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 1 BHK Serviced Appartment R101, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lavish 2bhk AIG Hitech city, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Muntaha Enclave, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- EZ-stay Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vishram Guest In, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Royal Suite 1 bhk fully furnished at Banjara Hills Rd 12, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Deccan Delight Home Tolichowki Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lago Vista - Blanca, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Premium 3bhk homestay with ORR view - Nanakramguda, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sri Ramanjaneya Nilayam, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stylish Duplex Lake View 3Bhk flat with Terrace, key -- cancelType, error -- list index out of range 
+hotel name --- Stylish Duplex Lake View 3Bhk flat with Terrace, key -- paymenttype, error -- list index out of range 
+hotel name --- Stylish Duplex Lake View 3Bhk flat with Terrace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Cozy 2bhk AC Flat in main Hyd,15mins from Airport, only for families, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Spacious 2BHK Apartment in the Heart of Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Oasisinn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sector N, Medchal, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nest in Fields, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kyathi guest house, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stellar Skyline Penthouse, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Prakruthi home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jb Living space, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossoms Room - Opp Birla Mandir - Located in City Center, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossoms Room Hotel Raja Bhojanam & Multi-cuisine Restautant- Dlf Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossom Rooms- A Luxury Collection Hotel- Beside Care Hospital- Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossoms Room Hotel Abhi Residency- Opp Hitex Charminar Arch- Free early Check-in, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossoms Rooms Hotel Gp Elite & Multi-Cuisine Restaurant- Lakdikapul, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossom Rooms Hotel Golden Inn- Opp Birla Mandir- Lakdikapul, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossom Rooms Hotel Abhi Residency - Opp Cyber Tower- a Luxury Collection Hotel- Free Early Check-ins, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossoms Rooms Hotel Br Heights- Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- RockLine - stay with comfort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossoms Room M Hotel- Free Early Check in- Opp Hitex Charminar Arch, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossoms Room Hotel Di International- Banjara Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Blossom Rooms- Free Lunch Or Dinner- Lakdikapul, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Chutneys, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Quality inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ikon Stay Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Royal Rose Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Orange Hotel - Narsingi, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Living Homes Azura- Gachibowli, Near DPS Gachibowli, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sree Ganesh, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lepino Resort and Cafe, key -- cancelType, error -- list index out of range 
+hotel name --- Lepino Resort and Cafe, key -- paymenttype, error -- list index out of range 
+hotel name --- Lepino Resort and Cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Kinara Grand Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hacana Millenium Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Moon Star Nearby ECIL,Charlapalli and keesara, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Jaya International, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Jaya International, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Jaya International, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- NH65 Residency An Elite Rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Marigold Kokapet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Grand Continent Apart Hotel- Hitec City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ELLAA RESIDENCES, key -- cancelType, error -- list index out of range 
+hotel name --- ELLAA RESIDENCES, key -- paymenttype, error -- list index out of range 
+hotel name --- ELLAA RESIDENCES, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Residence Retreat Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL VIRAT INN, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HIVEE-1 Rooms & Living AC, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- hotel ankitha grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lovely & Tidy Wooden cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tribeone, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Palladium Luxury Suites Financial District Unit I, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Annapoorna Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Eminent Suites and Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Palladium Luxury Suites Financial District Unit II, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Embassy Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- The Embassy Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL VIRAT GRAND, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Daspalla Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- WESTSIDE HOTEL HiTECH CITY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Westside Hotel Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tribeone Studios, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Tulips Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Maalyasa Hotel and Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Embassy Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Hibiscus Tree- Bachupally, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Hibiscus Tree- Bachupally, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Kyzen HiTech City- Your Zenly Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ashray - Vintage Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Ashray - Vintage Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Trip shelters, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bigson Blissful Studios, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel SSR GRAND, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel SSR GRAND, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Landcorp hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Jubilee Pride, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Hotel 1, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pincode90 Executive Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel TAAR TANGERINE, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lemonridge Hotels IDPL Balanagar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Arrival Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bloom Hotel - Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Krrish Inn - Ameerpet, Hyderabad, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Krrish Inn - Ameerpet, Hyderabad, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Krrish Inn - Ameerpet, Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Way Inns, key -- cancelType, error -- list index out of range 
+hotel name --- Way Inns, key -- paymenttype, error -- list index out of range 
+hotel name --- Way Inns, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Elite Hotel HITECH, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Eastin Dè Royalè, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel metro international, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Landridge - HITECH City Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bloom Hotel - Cyber Towers, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - Cyber Towers, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SwanSuites Gachibowli, key -- cancelType, error -- list index out of range 
+hotel name --- SwanSuites Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- SwanSuites Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sunrise Business Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Naveena Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wildwings hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SKYLA Studios & Suites - Hitech City, key -- paymenttype, error -- list index out of range 
+hotel name --- SKYLA Studios & Suites - Hitech City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Harvey's Hotels - Gowlidoddy - Near US Consulate, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Elite Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- RS hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Madhura Luxury Rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Destino By INR Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hill Street Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel MY Place, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sitara Grand L.B. Nagar, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Sitara Grand L.B. Nagar, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sitara Grand L.B. Nagar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel S L B Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sindhura Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sindhura Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Yellow Bells Gachibowli, key -- cancelType, error -- list index out of range 
+hotel name --- Yellow Bells Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- Yellow Bells Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Everest, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Everest, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Everest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- beestay Hotels Financial District, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gardenia Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Supraja Yellow Bells, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SIRI Tals Hitech, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Village Trails Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Theo Suites Hotel Madhapur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Luxury Resident - Banjara hills city view with complimentary breakfast, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Luxury Resident - Banjara hills city view with complimentary breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Luxury Resident - Banjara hills city view with complimentary breakfast, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Brundavan, key -- cancelType, error -- list index out of range 
+hotel name --- Brundavan, key -- paymenttype, error -- list index out of range 
+hotel name --- Brundavan, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Elite Hotel Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SuLa Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Saiprakash, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- IMPERIAL Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Housr 84 Kondapur Hyderabad Near Botanical Garden, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Story Houz, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL PREMIUM M-N GRAND HYDERABAD Near Airport Road - Restaurant -Lift With Parking Facilities - Fully Air Conditioning Room - Best Hotel In Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL LA SKY BOUTIQUE Near Airport road - Free Wifi & Parking - Fullt Air Conditioning Suite Rooms - Best Hotel In Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Holiday Inn Express Hyderabad HITEC City by IHG, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- White Fern Stays Serviced Apartments - Gachibowli, key -- paymenttype, error -- list index out of range 
+hotel name --- White Fern Stays Serviced Apartments - Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Skymoon Luxury Rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel RK Suites - Nr U S Consulate, Financial District, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel RK Suites - Nr U S Consulate, Financial District, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Grand Plaza Hotel - Nampally - Hyderabad Railway Station - Fish Prasadam 2025 - Free Breakfast - Deccan Railway Station - Lakdikapul, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel DLF Inn - Gachibowli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Holiday Inn Express Hyderabad Banjara Hills by IHG, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Olive Atnest PG, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nectar Living - Iris, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Iris at Nest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Grand Continent Hotel Hitech City Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Grand Manor Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Grand Manor Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SKYLINE CoLive, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel I K London Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StellarSuites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxor Park Service Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Yellow Bells Signature HITEC City, key -- cancelType, error -- list index out of range 
+hotel name --- Yellow Bells Signature HITEC City, key -- paymenttype, error -- list index out of range 
+hotel name --- Yellow Bells Signature HITEC City, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Innzoy Hotels - TNGO Colony, key -- cancelType, error -- list index out of range 
+hotel name --- Innzoy Hotels - TNGO Colony, key -- paymenttype, error -- list index out of range 
+hotel name --- Innzoy Hotels - TNGO Colony, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Novel Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel La Premier, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Deccan Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sai Krupa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Mithra Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Z Inn Gachibowli Hyderabad, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PGR Guest Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- v guest inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nirvana HomeStays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel skycity, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Saaradhi Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VR Ashoka Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Royal stay inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stone rock castle, key -- cancelType, error -- list index out of range 
+hotel name --- Stone rock castle, key -- paymenttype, error -- list index out of range 
+hotel name --- Stone rock castle, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dumzy's Bungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Misty Lake Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Misty Lake Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Saba executive rooms and apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hs Elite Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Elite Enclave, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Fresh Living Prime Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Yellow Bells, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- hotel in nova, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dhruv Elite and Banquets, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rustic Vogue, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Metro Lodge, key -- cancelType, error -- list index out of range 
+hotel name --- Metro Lodge, key -- paymenttype, error -- list index out of range 
+hotel name --- Metro Lodge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Single Suite room, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL STAR In, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sugathi Gardenia Premium Villa Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Happy Living Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ayana Resorts & Convention, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MATAKRUPA BUILDING, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Happy Living, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Z Home Smart Living, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

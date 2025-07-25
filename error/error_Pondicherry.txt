@@ -1,0 +1,289 @@
+hotel name --- Hotel 1Square, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel 1Square, key -- paymenttype, error -- list index out of range 
+hotel name --- Pondicherry Executive Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Santhi Inn - 500 meters from Promenade Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Skyway Rooms, key -- paymenttype, error -- list index out of range 
+hotel name --- Le MIAMI RESORT, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Clarisse Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Ravi Krishna Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- La Ruelle Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- THE JEYAM RESIDENCY - Opp To Mangrove Boating, key -- paymenttype, error -- list index out of range 
+hotel name --- Collection O Puducherry Railway Station Formerly Peace Residecy, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel SSGrand Pondicherry, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel SSGrand Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- The Bull Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- La Maison Radha, key -- paymenttype, error -- list index out of range 
+hotel name --- Grand Hotel D'Europe, key -- paymenttype, error -- list index out of range 
+hotel name --- Mermaid Island Beach Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- The Ocean Edge, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Chenar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le Supreme Inn (the lap of luxury), key -- cancelType, error -- list index out of range 
+hotel name --- Le Supreme Inn (the lap of luxury), key -- paymenttype, error -- list index out of range 
+hotel name --- Mb maison blanche, key -- cancelType, error -- list index out of range 
+hotel name --- Mb maison blanche, key -- paymenttype, error -- list index out of range 
+hotel name --- VMB Residency, key -- cancelType, error -- list index out of range 
+hotel name --- VMB Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Accord Puducherry, key -- paymenttype, error -- list index out of range 
+hotel name --- Palais De Mahe - A CGH Earth Experience, key -- paymenttype, error -- list index out of range 
+hotel name --- Shenbaga Hotel And Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sunlight, key -- paymenttype, error -- list index out of range 
+hotel name --- La Paradise Residency - TIE Hotels & Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Classio Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Treebo Seasons, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- THE LUXE HOTEL, ECR ROAD, NEAR Serenity Beach, Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Shanti - Heritage Hotel for Foodies, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Ecotiva, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Aura by Woco Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Petit Palais, key -- paymenttype, error -- list index out of range 
+hotel name --- Martine's Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Radha Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Helena, key -- paymenttype, error -- list index out of range 
+hotel name --- La Closerie - Bay of Bengal, key -- paymenttype, error -- list index out of range 
+hotel name --- Isai Ambalam guest house, key -- paymenttype, error -- list index out of range 
+hotel name --- PV Cottages - Serenity Beach, key -- cancelType, error -- list index out of range 
+hotel name --- PV Cottages - Serenity Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Holi-Wood Guesthouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Poshe Luxury - TIE Hotels & Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- La Tamara Luxury - TIE Hotels & Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Deer Suites and Spa- Rock Beach White Town Zone , French Quarter, Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- The Nature swimming resort, key -- cancelType, error -- list index out of range 
+hotel name --- The Nature swimming resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Devis Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- pondy Vibes 2bhk home Stay, key -- cancelType, error -- list index out of range 
+hotel name --- pondy Vibes 2bhk home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- The Dune Eco Village and Spa - Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- VILLA SANDRIN-Near White Town and Beach, key -- cancelType, error -- list index out of range 
+hotel name --- VILLA SANDRIN-Near White Town and Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Escape Homey Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Le Escape Homey Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Sapphire Luxury Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Sapphire Luxury Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- La Plage Seaview Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Maison Selva - Near White Town and Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Maison Selva - Near White Town and Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Kadal The Beach House, key -- cancelType, error -- list index out of range 
+hotel name --- Kadal The Beach House, key -- paymenttype, error -- list index out of range 
+hotel name --- Paradisestay Auro Jungle Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Private Villa With Swimming Pool at White Town, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Zia Residency and Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Coral Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Mel Ville, key -- cancelType, error -- list index out of range 
+hotel name --- Mel Ville, key -- paymenttype, error -- list index out of range 
+hotel name --- DAN The Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Royce Private Villa - TIE Hotels & Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Nivaa Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dune de L'orient, key -- paymenttype, error -- list index out of range 
+hotel name --- Courtyard Castle Heritage Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- La Tamara Suite - TIE Hotels & Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Nathan Resort with Swimming Pool, key -- paymenttype, error -- list index out of range 
+hotel name --- Aditya Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Thendralhomestay, key -- paymenttype, error -- list index out of range 
+hotel name --- RKN Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Lotus Bay View Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- La Casona Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- La Casona Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stay in serinity beach 2bhk villa., key -- cancelType, error -- list index out of range 
+hotel name --- Stay in serinity beach 2bhk villa., key -- paymenttype, error -- list index out of range 
+hotel name --- Sri Hari Second Floor Pent House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 4BHK pearl villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La Villa Marseille, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Dupleix, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel soorya international, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Eden Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Aditya- Only 2kms from White Town & Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Aditya- Only 2kms from White Town & Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Kave Hotels - Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- Sweet Spot, key -- paymenttype, error -- list index out of range 
+hotel name --- Auro Maison, key -- paymenttype, error -- list index out of range 
+hotel name --- Bay Homes 2BHK WT Bathtub Near Rock Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Maison Twenty Six by LuxUnlock Private Villas, key -- cancelType, error -- list index out of range 
+hotel name --- Maison Twenty Six by LuxUnlock Private Villas, key -- paymenttype, error -- list index out of range 
+hotel name --- Manora Residency, key -- cancelType, error -- list index out of range 
+hotel name --- Manora Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Vista Bella Spacious 3BR 4BA Duplex Villa Your Oasis in Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- Vista Bella Spacious 3BR 4BA Duplex Villa Your Oasis in Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La Grrande Malar - The Boutique Hotel Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- CASA DEEPAM, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Paradise beach home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- French Breeze Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- 1 BHK VILLA. PRIVATE VILLA. NEAR ROCK BEACH., key -- cancelType, error -- list index out of range 
+hotel name --- 1 BHK VILLA. PRIVATE VILLA. NEAR ROCK BEACH., key -- paymenttype, error -- list index out of range 
+hotel name --- Monisha Luxury Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sylvie Cottage- Near White Town and Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Sylvie Cottage- Near White Town and Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Sunflower Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Mariannie, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Seasons Four Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- homestay for vacation in pondicherry, key -- cancelType, error -- list index out of range 
+hotel name --- homestay for vacation in pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- homestay for vacation in pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Salt life 3 deluxe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Swimming pool villa eden, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Castle 360 Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Grand Sapphire & Elite Suite, key -- paymenttype, error -- list index out of range 
+hotel name --- The Richmond, key -- cancelType, error -- list index out of range 
+hotel name --- The Richmond, key -- paymenttype, error -- list index out of range 
+hotel name --- BrightMoon_Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- BrightMoon_Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Cherry Blossom, key -- paymenttype, error -- list index out of range 
+hotel name --- Eden De Pondy, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Victor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Peaceful Stay in Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Caveman guest house, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- AAHA Serenity Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Chyvic Staycity, key -- paymenttype, error -- list index out of range 
+hotel name --- White Villa Guest House Pondicherry, key -- cancelType, error -- list index out of range 
+hotel name --- White Villa Guest House Pondicherry, key -- paymenttype, error -- list index out of range 
+hotel name --- Deltin Suite, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tere Mere Beach Hotel Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PVR Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse OAK Townhouse Oak Puducherry Airport Formerly Imperial Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- TOWNHOUSE homestay 3rd floor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cosy N Comfy Stay in main town, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Premier Inn -with Swimming Pool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sai Nivas Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sumithra Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Bussy house, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VERY Beautiful whitetown home Arora pvt outdoor dining, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse 1BHK, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Devas Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Arunik Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Chan Maison @ Lakshmi Gardens, key -- paymenttype, error -- list index out of range 
+hotel name --- Bay Stays near white town, key -- paymenttype, error -- list index out of range 
+hotel name --- Chateau petrus inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sri Balaji Villas Pondicherry with Car Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le White Town Villa, key -- cancelType, error -- list index out of range 
+hotel name --- Le White Town Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Sylvie Cottage (SF)- Near White Town & Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Sylvie Cottage (SF)- Near White Town & Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Paradise Sea Wave Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le Suresh Guest House, key -- cancelType, error -- list index out of range 
+hotel name --- Le Suresh Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Paradise Heritage Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bluewaters Whitetown, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Queens Paradise Estate Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Bay Stays 2BHK Near Rock Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Bay Stays 2BHK Near Rock Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le Pondy Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- SELVAS BUDGET STAY, key -- cancelType, error -- list index out of range 
+hotel name --- SELVAS BUDGET STAY, key -- paymenttype, error -- list index out of range 
+hotel name --- BlueBungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sakthi Villa, key -- cancelType, error -- list index out of range 
+hotel name --- Sakthi Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Lee homestay 1bhk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stay L'amour , Entire Place, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Rock Beach Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cozy Cove Whitetown Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Best Home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Merina Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lee Room stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wild Sand Beach Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Reedham home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rémi villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Yaash Villa - 3 BHK, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SALT Life 3, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shanthu sahana 2bhk villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Felicia Maison Home Stay, key -- cancelType, error -- list index out of range 
+hotel name --- Felicia Maison Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Felicia Maison Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Comfort inn home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Beach Bliss Villa 2, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Happy Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa de Sekara Near White Town, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa de Sekara Near White Town, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- GMR homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa De Charm Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Blue Whale - spacious 2-3 BHK Penthouse 8 pax, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ta Cabana Beach house - pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Varnam Private Pool Villa Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lee Villa, key -- cancelType, error -- list index out of range 
+hotel name --- Lee Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Lee Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Amour 2BHK Serenity beach Puducherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Saraz, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Manor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Saravana, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Saravana, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Anna Residency The Quintessential Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Victo home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- DJ residency ,Walk to Serenity Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa de Colas, key -- cancelType, error -- list index out of range 
+hotel name --- Villa de Colas, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa de Colas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bhkko, key -- cancelType, error -- list index out of range 
+hotel name --- Bhkko, key -- paymenttype, error -- list index out of range 
+hotel name --- Paris Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Radhabai Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Garden View Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Happiness - The Private Pool Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PMS Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The studio house, Auroville, key -- cancelType, error -- list index out of range 
+hotel name --- The studio house, Auroville, key -- paymenttype, error -- list index out of range 
+hotel name --- The studio house, Auroville, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Sree Villa Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le Petit Lazare Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa close to Rock beach-Family Room, key -- cancelType, error -- list index out of range 
+hotel name --- Villa close to Rock beach-Family Room, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa close to Rock beach-Family Room, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Du Eden swimming pool villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Harsha Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Chitrita Bhavan by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Rooms at Villa Amour Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La spenz Bungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Radha Inn Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HARI HOME STAY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Vi Park - City Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Happy Square, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Paradise sunrise villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Muthuraj Nivas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa close to Rock beach- Group room, key -- cancelType, error -- list index out of range 
+hotel name --- Villa close to Rock beach- Group room, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa close to Rock beach- Group room, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bamboo BBQ French Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa De Ocean, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VILLA DU OCEAN, key -- paymenttype, error -- list index out of range 
+hotel name --- Anandha Inn Convention Centre and Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Shaman House, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Vedapuri, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Vedapuri, key -- paymenttype, error -- list index out of range 
+hotel name --- Wooden ECR Sea Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Anna Pondy, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Anna Pondy, key -- paymenttype, error -- list index out of range 
+hotel name --- Jerry's Chateau, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Kouga, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Kouga, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Cavi, key -- paymenttype, error -- list index out of range 
+hotel name --- SS Nivas StayHome, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Victoria's Heritage, key -- paymenttype, error -- list index out of range 
+hotel name --- Nalla Eco Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- La Maison Du Bonheur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- TSGrand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ‌‌Florence guest house, key -- cancelType, error -- list index out of range 
+hotel name --- ‌‌Florence guest house, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Gnana S.R.M Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pondy Southern Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Colonial Suites, key -- cancelType, error -- list index out of range 
+hotel name --- Le Colonial Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Rithu Homestay, Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Neithal Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MOHI VILLA, key -- paymenttype, error -- list index out of range 
+hotel name --- Auro Beach Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jp residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dhanas Residency Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pink Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PMS Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le Majestic Business Class Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Oceanview homestay AL, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Riytham Lawns, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La Garden Retreat, key -- cancelType, error -- list index out of range 
+hotel name --- La Garden Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- La Garden Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Oceanview homestay for couple, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rubi Résidence, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Thendral Hostel Monthly Rental, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mayura Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Birds Nest Homestay, Pondicherry, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 1 BHK VILLA IN Rock Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- GKS Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

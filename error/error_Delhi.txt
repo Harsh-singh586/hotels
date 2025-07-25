@@ -1,0 +1,471 @@
+hotel name --- Home Away A Spacious Abode, key -- paymenttype, error -- list index out of range 
+hotel name --- Home Away A Spacious Abode, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Leela Ambience Convention Hotel Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- New South Paradise - C R Park, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Paharganj, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Paharganj, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Hindustan International, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Airport stay Near by international airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Hotel O Rangpuri Mahipalpur, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Paharganj Chuna Mandi near Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- hotel nilamber, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Singh Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Singh Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Anmol Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Novotel New Delhi Aerocity, key -- cancelType, error -- list index out of range 
+hotel name --- Novotel New Delhi Aerocity, key -- paymenttype, error -- list index out of range 
+hotel name --- Hyatt Regency Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Hyatt Regency Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Crown deluxe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Park Plaza Shahdara, key -- paymenttype, error -- list index out of range 
+hotel name --- The Park New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orion - Greater Kailash, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orion Plaza - Nehru Place, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Siya Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vivanta New Delhi, Dwarka, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Marigold, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O New Delhi Railway Station Formerly Le Alfanso, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O New Delhi Railway Station Formerly Le Alfanso, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nestie, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Orion Elite - Green Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Samrat, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Grand Tej Near IGI Airport Delhi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ambassador, New Delhi - IHCL SeleQtions, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O R S Residency, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- The Imperial, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Le Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Palace, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Delhi, Chanakyapuri, key -- cancelType, error -- list index out of range 
+hotel name --- Ginger Delhi, Chanakyapuri, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel EVA TARK Plaza A Family Hotel - IGI Delhi Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Ashok, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Stay Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Jaypee Vasant Continental, key -- paymenttype, error -- list index out of range 
+hotel name --- JRD Pride-Business Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- The Grand Uddhav, key -- paymenttype, error -- list index out of range 
+hotel name --- Hostmystay-2bhk w/t Terrace! Gk1, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Dilshad Garden Near Dilshad Garden Metro Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kerala Home Stay - Near NZMMUDIN Railway Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress The Paradise - Nr Apollo Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- The Leela Palace New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Vista Residences at GK 1 - Air Purifier and Complimentary Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- Bed & Chai Guesthouse, key -- cancelType, error -- list index out of range 
+hotel name --- Bed & Chai Guesthouse, key -- paymenttype, error -- list index out of range 
+hotel name --- bloomrooms @ Janpath, key -- cancelType, error -- list index out of range 
+hotel name --- bloomrooms @ Janpath, key -- paymenttype, error -- list index out of range 
+hotel name --- Hide-In Hostel Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Hide-In Hostel Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxurious modern 2BHK prime location Delhi (13), key -- cancelType, error -- list index out of range 
+hotel name --- Luxurious modern 2BHK prime location Delhi (13), key -- paymenttype, error -- list index out of range 
+hotel name --- Luxurious modern 2BHK prime location Delhi (13), key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel The Stanley, key -- paymenttype, error -- list index out of range 
+hotel name --- Homlee-Heritage 2 Bedroom-Bharat Mandapam- ITO, key -- cancelType, error -- list index out of range 
+hotel name --- Homlee-Heritage 2 Bedroom-Bharat Mandapam- ITO, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Park, East Delhi - Member ITC Hotels' Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Homlee-Vintage 2BHK-NDLS-Lift-Bharat Mandapam, key -- cancelType, error -- list index out of range 
+hotel name --- Homlee-Vintage 2BHK-NDLS-Lift-Bharat Mandapam, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Chhatarpur Near Metro Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ajanta - Free Airport Pick Up Service, key -- paymenttype, error -- list index out of range 
+hotel name --- Bali Mantra, key -- cancelType, error -- list index out of range 
+hotel name --- Bali Mantra, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Sentinel Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Airport Hotel Le Seasons New Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Airport Hotel Le Seasons New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- The Grand New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Chhatarpur Formerly Royal Galaxy, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Chhatarpur Formerly Royal Galaxy, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pride Plaza Hotel, Aerocity New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Glow Inn Paharganj-3 Mins Walk From New Delhi Railway Station, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Glow Inn Paharganj-3 Mins Walk From New Delhi Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Sector 25 Near Iskcon Temple Formerly Hotel Amazing House, key -- paymenttype, error -- list index out of range 
+hotel name --- The Suryaa New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- The Umrao, key -- paymenttype, error -- list index out of range 
+hotel name --- Welcomhotel by ITC Hotels, Dwarka, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- OYO Townhouse Anmol Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Pulse Impulse, key -- paymenttype, error -- list index out of range 
+hotel name --- East Park Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel LUV KUSH INTERNATIONAL, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel Bright, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Townhouse Hotel Silver Saffron, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Lemon Tree Premier, Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ramida Plaza At Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Novotel New Delhi City Centre, key -- cancelType, error -- list index out of range 
+hotel name --- Novotel New Delhi City Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O White Pearl, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ashirwad near New Delhi Railway Station, Paharganj, key -- paymenttype, error -- list index out of range 
+hotel name --- The Hans, New Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- The Hans, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Jukaso Inn Down Town, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Jukaso Inn Down Town, key -- paymenttype, error -- list index out of range 
+hotel name --- The C Park Inn Karol Bagh Homely Atmosphere, key -- paymenttype, error -- list index out of range 
+hotel name --- Prestige Apartments, key -- cancelType, error -- list index out of range 
+hotel name --- Prestige Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress The Premium Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- VM Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- VM Residency, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Aggarwal guest house lajpat nagar, rooms with private kitchen Android tv wifi and fridge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Supernova Noida, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress The Arrow, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Krishna - By RCG Hotels, Centrally Located, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel F9 Pitampura, key -- paymenttype, error -- list index out of range 
+hotel name --- AP Holidays, key -- paymenttype, error -- list index out of range 
+hotel name --- The Castle Green - Supernova Spira, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O CASA BELLA, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shanti Residency, key -- cancelType, error -- list index out of range 
+hotel name --- Shanti Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL RK PLAZA, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Grand City Lite, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- The Gold Regency - 02 Mins from New Delhi Railway Station, key -- cancelType, error -- list index out of range 
+hotel name --- The Gold Regency - 02 Mins from New Delhi Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Goyla Dairy Formerly Osho Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Alpha stays, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Lord Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Jyoti Mahal - A Heritage Hotel - New Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Jyoti Mahal - A Heritage Hotel - New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- The Saga Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel F9 NFC, key -- paymenttype, error -- list index out of range 
+hotel name --- Minimalist One Hauz Khas Village, key -- cancelType, error -- list index out of range 
+hotel name --- Minimalist One Hauz Khas Village, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Prince Palace Deluxe - Paharganj - New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal Touch Patel Nagar, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Yes Please A Budget Friendly Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Global, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Blue Pearl - Free Airport Pick up, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Blue Pearl - Free Airport Pick up, key -- paymenttype, error -- list index out of range 
+hotel name --- Homlee-Excellency Large 4BHK-South Delhi- NFC, key -- cancelType, error -- list index out of range 
+hotel name --- Homlee-Excellency Large 4BHK-South Delhi- NFC, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Krishna Deluxe-By RCG Hotels, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Krishna Deluxe-By RCG Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Mid Town, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Smyle Inn - Best Value Hotel near New Delhi Station, key -- paymenttype, error -- list index out of range 
+hotel name --- 2BHK Stay in Dwarka, key -- paymenttype, error -- list index out of range 
+hotel name --- 2BHK Stay in Dwarka, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel Grey Sky, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Grey Sky, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel La Serene NFC, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Townhouse Shahdara Near Yamuna Sports Complex Formerly Hotel Ipotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Festival Mahipalpur At Delhi Airport "First Choice Hotel of Foreign Guest", key -- paymenttype, error -- list index out of range 
+hotel name --- La Sagrita, key -- cancelType, error -- list index out of range 
+hotel name --- La Sagrita, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel JRD Exotica-Business Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Empire Suites, New Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Empire Suites, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel White Klove Near New Delhi Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- The Grand Vikalp By Saga Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Boutique l GK-1, key -- paymenttype, error -- list index out of range 
+hotel name --- The Claridges New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Sun Moon Residency and Apartments, Hotels in Rohini, key -- paymenttype, error -- list index out of range 
+hotel name --- Homlee-Best Value-1BHK-Dilshad Metro-Kitchen, key -- cancelType, error -- list index out of range 
+hotel name --- Homlee-Best Value-1BHK-Dilshad Metro-Kitchen, key -- paymenttype, error -- list index out of range 
+hotel name --- Cosy Grand, Chanakyapuri by The Cosy Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Nirmal Mahal - Paharganj - New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hostmystay- 2bhk! Lajpat nagar market, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Fringo, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Evergreen 2BHK Service Apartment Vasant Kunj Fortis ILBS, key -- paymenttype, error -- list index out of range 
+hotel name --- Evergreen 2BHK Service Apartment Vasant Kunj Fortis ILBS, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- FabExpress Taj Residency Near Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Citi International, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Citi International, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Moon Light Near Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sapphire House - 3 Mins Walk from Metro and 5 Mins from Rail Station, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Sapphire House - 3 Mins Walk from Metro and 5 Mins from Rail Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Awesome International, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Awesome International, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Stay Happy, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Stay Happy, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel O Shri Sai, key -- paymenttype, error -- list index out of range 
+hotel name --- HAPPY PLAZA -Near Delhi Airport Unit by King, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Gold Inn Janakpuri, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Karlo Kastle - Paharganj - New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Ahuja Residency Sunder Nagar, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Royal - Nr Guru Govind Singh University, key -- paymenttype, error -- list index out of range 
+hotel name --- JRD Luxury-Business Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel La Serene Punjabi Bagh, key -- paymenttype, error -- list index out of range 
+hotel name --- NEW CHANDU In, key -- paymenttype, error -- list index out of range 
+hotel name --- Awasthi Kozi Stays B&B - closest to VFS, key -- cancelType, error -- list index out of range 
+hotel name --- Awasthi Kozi Stays B&B - closest to VFS, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Service Apartments - Green Park, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Service Apartments - Green Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O B & B Vasant, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Moro Paschim Vihar, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Singh Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Silver key inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL ALL IZ WELL-by Haveliya Hotels- Traveller's Choice Award Winner 2025, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Grand Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Happy Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Preet Palace -5 Mints Walk From Nizamuddin Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel BVA TELA Grand Near IGI Delhi Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel The Chaitanyas Rohini sec 18, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Collection O Nirman Vihar, key -- paymenttype, error -- list index out of range 
+hotel name --- The Singh Empire - World Travel Leader 2025, key -- cancelType, error -- list index out of range 
+hotel name --- The Singh Empire - World Travel Leader 2025, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Townhouse Arakashan Road Paharganj formerly Mohan international, key -- paymenttype, error -- list index out of range 
+hotel name --- Collection O West Vinod Nagar Metro Station Formerly Royal Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Manor - New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Premium Luxurious 2BHK w/ huge Livingroom (14), key -- cancelType, error -- list index out of range 
+hotel name --- Premium Luxurious 2BHK w/ huge Livingroom (14), key -- paymenttype, error -- list index out of range 
+hotel name --- Premium Luxurious 2BHK w/ huge Livingroom (14), key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel O Singh, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Skon Boutique by Orion Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Just Inn - Nr Lajpat Nagar Market, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Star Prime-Near Delhi International Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Subh Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Collection O Karkardooma Court Metro Station Formerly Hotel Lotus, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Townhouse Airport Road Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Banz Near Indira Gandhi Airport Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel F9 NSP - Near Pacific Mall Pitampura, key -- paymenttype, error -- list index out of range 
+hotel name --- South Haven Residency Near Hauz Khas New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ishtara Auberge - Nr Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- The Ocean Pearl Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- North india tallest building near airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hyatt Delhi Residences, key -- cancelType, error -- list index out of range 
+hotel name --- Hyatt Delhi Residences, key -- paymenttype, error -- list index out of range 
+hotel name --- Amber Inn by Orion Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O D.S. Tower, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Bawa Guest House, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Silver Palace Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Vaishali Dakshini Pitampura, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Star 17 - Nr Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Godwin Deluxe -Free Airport Pickup -Traveller's Choice Award Winner 2025, key -- paymenttype, error -- list index out of range 
+hotel name --- Opulent by Udman Chhattarpur, key -- paymenttype, error -- list index out of range 
+hotel name --- Wood Castle, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Blue Moon Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Spacious 2BHK prime location with big Livingroom 8, key -- cancelType, error -- list index out of range 
+hotel name --- Spacious 2BHK prime location with big Livingroom 8, key -- paymenttype, error -- list index out of range 
+hotel name --- 76 Friends Colony, key -- cancelType, error -- list index out of range 
+hotel name --- 76 Friends Colony, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel F-Aloyd Lajpat Nagar, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL THE TOURIST MAHIPALPUR IGI New Delhi, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel Samrat Residency 10 Mints Walking Distance Nizamuddin Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orion Express - East of Kailash, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Grand Godwin - Complimentary Airport Pickup -Near NDLS Railway Stn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Apex Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Delhi 55 -City Center, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Delhi 55 -City Center, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Roseman - Pitampura, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Krishna Hotel, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Super Collection O Shalimar Bagh, key -- paymenttype, error -- list index out of range 
+hotel name --- Aggarwal luxury rooms with private kitchen having all utensils, gas and fridge, wifi with android tv, fully air conditioning in cream location of lajpat nagar south delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Aggarwal independent apartments fully ac with private kitchen for self cooking having all utensils and Fridge and washroom along with all facilities of your sweet home, high speed wifi, fridge , smart tv , work desk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Transit International- Aerocity Delhi Airport, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Transit International- Aerocity Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel La Paz Stay B&B, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Blusky, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Dwarka Metro, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Grand King Near Delhi Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sopan Heights, key -- paymenttype, error -- list index out of range 
+hotel name --- B Nineteen, key -- cancelType, error -- list index out of range 
+hotel name --- B Nineteen, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Kular, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Stay Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Hargobind Enclave, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Nirvana Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Pearl - Mahipalpur Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Happy Stay Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ajay Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL THE CUBE STAY, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Worth Newly Bulit - New Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Worth Newly Bulit - New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Collection O Fazalpur, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL SHANDON-2 Mins From Connaught Place, key -- cancelType, error -- list index out of range 
+hotel name --- HOTEL SHANDON-2 Mins From Connaught Place, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Delhi Aerocity, NH 48, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Delhi Aerocity, NH 48, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Premium Room I, key -- paymenttype, error -- list index out of range 
+hotel name --- Collection O Near Kohat Enclave Metro Station, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- The Grand Orion - Kailash Colony, key -- paymenttype, error -- list index out of range 
+hotel name --- Minimalist Haven at 26th floor supernova, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Foxoso Venue Hotel, Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Lazeez, key -- paymenttype, error -- list index out of range 
+hotel name --- Airport Hotel Viraj Palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Aashraye, key -- paymenttype, error -- list index out of range 
+hotel name --- The Oakland Plaza by Orion Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Uttam Nagar Near Akash Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Le Roi Near New Delhi Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Traditional Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Yashobhumi Near Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Dream stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Thikana Delhi ( Boutique B&B), key -- cancelType, error -- list index out of range 
+hotel name --- Thikana Delhi ( Boutique B&B), key -- paymenttype, error -- list index out of range 
+hotel name --- Jasmine Boutique Hotel Jasola, key -- paymenttype, error -- list index out of range 
+hotel name --- Shervani Nehru Place, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Lovely Inn Near Akshardham, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Majestic JPM I, key -- paymenttype, error -- list index out of range 
+hotel name --- Super OYO Townhouse Anmol Residency Near Saket Metro Delhi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Shri Sai DX - Nr Adarsh Nagar Metro, key -- paymenttype, error -- list index out of range 
+hotel name --- The Saina International - New Delhi, Paharganj, key -- cancelType, error -- list index out of range 
+hotel name --- The Saina International - New Delhi, Paharganj, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Prince home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Raveesh E24 - 2BHK Serviced Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxe Lagoon By La Fausto Luxuria, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Homlee-Legacy 3BHK Flat in Central DEL-Lift-Terrace, key -- cancelType, error -- list index out of range 
+hotel name --- Homlee-Legacy 3BHK Flat in Central DEL-Lift-Terrace, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Serviced Apartments - Vasant Vihar, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Serviced Apartments - Vasant Vihar, key -- paymenttype, error -- list index out of range 
+hotel name --- Indus Biznotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Airport homestay by AJ, key -- paymenttype, error -- list index out of range 
+hotel name --- Airport homestay by AJ, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Oppera Mahipalpur - Delhi Airport, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Oppera Mahipalpur - Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Apple Inn & Suites, New Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Apple Inn & Suites, New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Suparnova spira star, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Rivlet Premium - Nr Jama Masjid and Red Fort, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel King Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Kaca Inn-by Haveliya Hotels- Traveller's Choice Award Winner 2025, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Kaca Inn-by Haveliya Hotels- Traveller's Choice Award Winner 2025, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Malbork Inn Rajouri Garden Delhi - Couple Friendly Local IDs Accepted, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Admire Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Golden Eye Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel City -- Near New Delhi Railway Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Novel Suites - Nr Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Collection O New Delhi Railway Station Formerly Le Alfanso, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Peacefulhuts 1BHK nr. Yashobhoomi ICC and Airport, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- FabHotel Urban Residency Model Town, key -- paymenttype, error -- list index out of range 
+hotel name --- KCG Heritage, key -- paymenttype, error -- list index out of range 
+hotel name --- KCG Heritage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel The Kiara Near IGI Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hostmystay-2bhk Amarcolny Market, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Aerosky Deluxe - Nr Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Le Continental Paharganj New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Palette South Delhi Formerly Imperial Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Modern 2BHK Rohini - Parking , Balcony, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Modern 2BHK Rohini - Parking , Balcony, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Modern 2BHK Rohini - Parking , Balcony, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Hotel O Exotica Palace, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- FabHotel Exotica Greenpark, key -- paymenttype, error -- list index out of range 
+hotel name --- Arnav Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Home Service Apartment 3Bhk,J-215 Saket, key -- cancelType, error -- list index out of range 
+hotel name --- Fortune Home Service Apartment 3Bhk,J-215 Saket, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Home Service Apartment 3Bhk,J-215 Saket, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- FabHotel NK Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Royal TeO Near Delhi Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rockland Hotel, C.R Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Supernova Suites Noida, key -- review count, error -- invalid lFiteral for int() with base 10: '1 review' 
+hotel name --- Hotel GRE City Max Plaza Near IGI Delhi Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Giriraj residency, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- FabExpress Yug Villa Karol Bagh, key -- paymenttype, error -- list index out of range 
+hotel name --- Anandit Homes - Elegant 3 bedroom with Lift, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL O BLUE STAR, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Homlee-Classic 4BHK Flat Central DEL-Lift-Parking, key -- cancelType, error -- list index out of range 
+hotel name --- Homlee-Classic 4BHK Flat Central DEL-Lift-Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O DTU Main Gate Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Family 3bhk Home stay!, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Paharganj Near Railway Station Formerly Chand Palace, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ashok Vihar - Nr North Campus, Delhi University, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress PP Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Seven Heaven, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Moro Rohini Sector 4, key -- paymenttype, error -- list index out of range 
+hotel name --- Yash Guest House 01 Minute Walk in Nizamuddin Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Uptown - 1 KM Connaught Place, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Grand Boutique, key -- paymenttype, error -- list index out of range 
+hotel name --- Frangipani Suite, key -- cancelType, error -- list index out of range 
+hotel name --- Frangipani Suite, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Aero Indus Near Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Happy Hours, key -- paymenttype, error -- list index out of range 
+hotel name --- The Metropolis Guest House Near RK Ashram Metro Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ashoka Continental, key -- paymenttype, error -- list index out of range 
+hotel name --- sundae, key -- cancelType, error -- list index out of range 
+hotel name --- sundae, key -- paymenttype, error -- list index out of range 
+hotel name --- sundae, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel The Magic Tree - Paharganj New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Red Crown Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Red Crown Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O Alipur Narela, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Aerocity Purple Orchid, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Aerocity Purple Orchid, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Star City Delhi Airport Free Drop, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- FabHotel Galaxy - Nr Patel Nagar Metro, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Luxury Inn Near Adarsh Nagar Metro, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Grand Golden Prime King Plaza, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Star Recedency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Airport City - Near Delhi international Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Rohini Sector 20 MAIT Formerly Maharaja Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Aries Near IGI Airport New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Sky House Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Olive Serviced Apartments - Defence Colony, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Serviced Apartments - Defence Colony, key -- paymenttype, error -- list index out of range 
+hotel name --- Supernova Spira Noida, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pamposh Guest House GK II Market, key -- cancelType, error -- list index out of range 
+hotel name --- Pamposh Guest House GK II Market, key -- paymenttype, error -- list index out of range 
+hotel name --- Spacious 1BHK Prime Location with 2 restrooms 5, key -- cancelType, error -- list index out of range 
+hotel name --- Spacious 1BHK Prime Location with 2 restrooms 5, key -- paymenttype, error -- list index out of range 
+hotel name --- Wood Castle Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Woodland Deluxe, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Woodland Deluxe, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxury 3BHK Penthouse Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Luxury 3BHK Penthouse Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxury 3BHK Penthouse Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- JMD Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Gera's, key -- cancelType, error -- list index out of range 
+hotel name --- Townhouse Gera's, key -- paymenttype, error -- list index out of range 
+hotel name --- Namastey Homes 3 BHK Service Apartment , Near Max Saket, Delhi, key -- cancelType, error -- list index out of range 
+hotel name --- Namastey Homes 3 BHK Service Apartment , Near Max Saket, Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- Namastey Homes 3 BHK Service Apartment , Near Max Saket, Delhi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Hotel O The Param continental, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Hotel O The Param continental, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel O Airport villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress JPM Harshdeep, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel City Height - Delhi NCR ID not accepted, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel O Sweet Palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse Rohini Sector 24, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel EXPRESS 66, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Mona Continental - Nr Laxmi Nagar IT Hub, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel JPM The Grand Bella - Nr Nehru Place Market, key -- paymenttype, error -- list index out of range 
+hotel name --- Anara Service Apartments - Greater Kailash Part II, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sunlight Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Collection O Palam Near Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Desire Courtyard, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel IVY Plaza, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Greysky, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Goodwill Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Peacefulhuts Premium 2BHK near IGI and Manipal Hospital, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Star Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- hotel City Lite, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- HOTEL O RAJ STAY, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel Florence, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Florence, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Golden Prime Plaza, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Tree House - Nr Yashobhoomi Convention Centre, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Vishal Residency, Mahipalpur Near IGI Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Beautiful Private 1BHK Apartment for all Occasions, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Grand King Plaza A Family Hotel Near IGI Airport Delhi, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Raj niwas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Royal Lacasa Near Delhi Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Lotus Palace, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Palm Emerald A Family Hotel Near Delhi Airport T3, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Collection O Goyla Diary Qutub Vihar Formerly Osho Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Homlee-Green Luxury 3BHK-South DEL-NFC-Lift, key -- cancelType, error -- list index out of range 
+hotel name --- Homlee-Green Luxury 3BHK-South DEL-NFC-Lift, key -- paymenttype, error -- list index out of range 
+hotel name --- Solo Victoria Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Solo Victoria Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel AK Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Fazar Residency Near Hazrat Nizamuddin Dargah, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Gross Inn Suites Near IGI Airport New Delhi, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orion Hotel Era - Delhi Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Ideal 3bhk apartment!Downtown, key -- paymenttype, error -- list index out of range 
+hotel name --- Ideal 3bhk apartment!Downtown, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Palam, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 2BHK - Greater Kailash Lift Balcony Parking, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 2BHK - Greater Kailash Lift Balcony Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 2BHK - Greater Kailash Lift Balcony Parking, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel A10 International, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Serviced Apartments - New Friends Colony, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Serviced Apartments - New Friends Colony, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Heritage, key -- paymenttype, error -- list index out of range 
+hotel name --- Swagatam - DU, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- FabExpress RG Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 2BHK - M Block Mkt Greater Kailash, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 2BHK - M Block Mkt Greater Kailash, key -- paymenttype, error -- list index out of range 
+hotel name --- The Silver Shore Residency, key -- review count, error -- invalid literal for int() with base 10: '1 review' 
+hotel name --- Hotel O Peaceful Paradise, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Prakash Kutir B&B, key -- cancelType, error -- list index out of range 
+hotel name --- Prakash Kutir B&B, key -- paymenttype, error -- list index out of range 
+hotel name --- Sufi Khandar Home Stay, key -- cancelType, error -- list index out of range 
+hotel name --- Sufi Khandar Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O N.K. Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Townhouse Pitampura West Enclave, key -- paymenttype, error -- list index out of range 
+hotel name --- MOYDOM Private Ensuite with Shared Balcony & Kitchen, key -- paymenttype, error -- list index out of range 
+hotel name --- House of Solace at Saket 2bhk Big terrace, key -- paymenttype, error -- list index out of range 
+hotel name --- House of Solace at Saket 2bhk Big terrace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel near Delhi Airport, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

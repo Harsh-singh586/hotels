@@ -1,0 +1,51 @@
+hotel name --- shree katyayani residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Coastal Charm Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Coastal Charm Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Navni Beach View Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Mangrove Ecostay, key -- paymenttype, error -- list index out of range 
+hotel name --- Water Vibes Gokarna, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Coastal Republica, key -- paymenttype, error -- list index out of range 
+hotel name --- Namaste Yoga Farm, key -- cancelType, error -- list index out of range 
+hotel name --- Namaste Yoga Farm, key -- paymenttype, error -- list index out of range 
+hotel name --- Aisiri Rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Arthigamya Spa & Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Arthigamya Spa & Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Kahani Paradise, key -- cancelType, error -- list index out of range 
+hotel name --- Kahani Paradise, key -- paymenttype, error -- list index out of range 
+hotel name --- Nature Inn Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Silver Rooms, key -- cancelType, error -- list index out of range 
+hotel name --- Silver Rooms, key -- paymenttype, error -- list index out of range 
+hotel name --- Gokarna Shantika stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nisarga Homestay and Beach Resort Gokarna, key -- cancelType, error -- list index out of range 
+hotel name --- Nisarga Homestay and Beach Resort Gokarna, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Vatika Nature Nest - Mirjan - Gokarna, key -- paymenttype, error -- list index out of range 
+hotel name --- Vibes and Tides Beach Resort by Enlightened Vagabond, key -- cancelType, error -- list index out of range 
+hotel name --- Vibes and Tides Beach Resort by Enlightened Vagabond, key -- paymenttype, error -- list index out of range 
+hotel name --- Viraz Valley, key -- paymenttype, error -- list index out of range 
+hotel name --- Sea Spray Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- BVB homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mahadevi Guest House, key -- cancelType, error -- list index out of range 
+hotel name --- Mahadevi Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- VENKU AC Homes Stay, key -- cancelType, error -- list index out of range 
+hotel name --- VENKU AC Homes Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- LetsGokarna vacation stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Hanchina Mane, key -- cancelType, error -- list index out of range 
+hotel name --- Vamoose Hanchina Mane, key -- paymenttype, error -- list index out of range 
+hotel name --- Boho Coral Gokarna - II, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Sanskruti, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Hideaway by Enlightened Vagabond, key -- cancelType, error -- list index out of range 
+hotel name --- The Hideaway by Enlightened Vagabond, key -- paymenttype, error -- list index out of range 
+hotel name --- Nimmu Guest House & Restaurant Gokarna, key -- paymenttype, error -- list index out of range 
+hotel name --- ARYA HOMESTAY BOUGAIN VILLA, key -- cancelType, error -- list index out of range 
+hotel name --- ARYA HOMESTAY BOUGAIN VILLA, key -- paymenttype, error -- list index out of range 
+hotel name --- Poornima Beach Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Golden IB'S Gokarna, key -- cancelType, error -- list index out of range 
+hotel name --- Golden IB'S Gokarna, key -- paymenttype, error -- list index out of range 
+hotel name --- Natures Valley Gokarna, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- mrcottagesgokarna, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sri Saii Ram Lodge, key -- cancelType, error -- list index out of range 
+hotel name --- Sri Saii Ram Lodge, key -- paymenttype, error -- list index out of range 
+hotel name --- Sri Saii Ram Lodge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shree Garden Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shiva Moon Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Coconut tree cafe Gokarna, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

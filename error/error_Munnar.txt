@@ -1,0 +1,176 @@
+hotel name --- Pleasant Hill Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Grand Plaza, key -- paymenttype, error -- list index out of range 
+hotel name --- Ayursakthi Riverdale, key -- paymenttype, error -- list index out of range 
+hotel name --- Dew Drops Farm Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel C7 Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Tea Dale - All rooms with Tea Estate view, key -- cancelType, error -- list index out of range 
+hotel name --- Tea Dale - All rooms with Tea Estate view, key -- paymenttype, error -- list index out of range 
+hotel name --- Areva Inn Plantation Resort Munnar with Pool by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Landy Queen, key -- paymenttype, error -- list index out of range 
+hotel name --- Blue Bells Resort By Maat Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Ice Mist Pool Resort Munnar By VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar Hills Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar Days, key -- paymenttype, error -- list index out of range 
+hotel name --- The Lake View Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar Lush Greens, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar Brindavan Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Rijo Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- K Mansion, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar Majestic Resort with Pool, key -- paymenttype, error -- list index out of range 
+hotel name --- Cicily Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Cicily Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sterling Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Viceroy Luxury Mountain Resort and Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Monsoon Grande, key -- cancelType, error -- list index out of range 
+hotel name --- Monsoon Grande, key -- paymenttype, error -- list index out of range 
+hotel name --- Eastend Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- MSP Amma Cottage, key -- cancelType, error -- list index out of range 
+hotel name --- MSP Amma Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- G Mount Budget Stay, key -- cancelType, error -- list index out of range 
+hotel name --- G Mount Budget Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Drizzle Valley Cottage, key -- cancelType, error -- list index out of range 
+hotel name --- Drizzle Valley Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Clouds Valley Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- The Fog Munnar (Resort & Spa), key -- paymenttype, error -- list index out of range 
+hotel name --- Tea Garden Riverside, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Montfort Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Misty Garden Resort and SPA, key -- cancelType, error -- list index out of range 
+hotel name --- Misty Garden Resort and SPA, key -- paymenttype, error -- list index out of range 
+hotel name --- The Panoramic Getaway, key -- paymenttype, error -- list index out of range 
+hotel name --- Forestscape Resort Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Elephant Passage, key -- cancelType, error -- list index out of range 
+hotel name --- Elephant Passage, key -- paymenttype, error -- list index out of range 
+hotel name --- Southern Panorama Indriya Resorts & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Thoppil Homestay Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Deshadan Mountain Resort -The highest resort in Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Deshadan Mountain Resort -The highest resort in Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Vibe Munnar Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Ela Ecoland Nature Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Fragrant Nature Munnar - A Five Star Classified Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Vbrings Oak Village, key -- paymenttype, error -- list index out of range 
+hotel name --- Ragamaya Resort & Spa Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Sprise Munnar Resort and Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- BEAUTY SPOT MUNNAR, key -- paymenttype, error -- list index out of range 
+hotel name --- Green Shades, key -- cancelType, error -- list index out of range 
+hotel name --- Green Shades, key -- paymenttype, error -- list index out of range 
+hotel name --- Tea county, key -- paymenttype, error -- list index out of range 
+hotel name --- Broad Bean Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Palmtree Leaf, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Green Tea View, key -- paymenttype, error -- list index out of range 
+hotel name --- Lockhart Bungalow Munnar - A CGH Earth SAHA Experience, key -- paymenttype, error -- list index out of range 
+hotel name --- The Leaf Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- 31st December Farms And Estates Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Tea Harvester, key -- paymenttype, error -- list index out of range 
+hotel name --- Trivers Resort Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Elephant Village Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- The Mudhouse Marayoor, key -- paymenttype, error -- list index out of range 
+hotel name --- Beyond Eco Living, key -- cancelType, error -- list index out of range 
+hotel name --- Beyond Eco Living, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Montana Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Casa Montana Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Windermere Estate, key -- cancelType, error -- list index out of range 
+hotel name --- Windermere Estate, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL WHITE HOUSE, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Elixir Woods Luxury Resort And Spa, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar Bethel Varkis, key -- cancelType, error -- list index out of range 
+hotel name --- Munnar Bethel Varkis, key -- paymenttype, error -- list index out of range 
+hotel name --- Mannoor Farms Mountain View Stays, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- White Petals -3 BHK Homestay Munnar - Available For Indian Nationals Only, key -- paymenttype, error -- list index out of range 
+hotel name --- The Tall Trees, key -- paymenttype, error -- list index out of range 
+hotel name --- Mistletoe Homestay & Cafe, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal villa Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Eterno Camellia & Elettaria Resort with Pool, key -- paymenttype, error -- list index out of range 
+hotel name --- Orange Valley Farm Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Orange Valley Farm Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Triloka Dorm by The Offbeat Crew, key -- cancelType, error -- list index out of range 
+hotel name --- Triloka Dorm by The Offbeat Crew, key -- paymenttype, error -- list index out of range 
+hotel name --- Triloka Dorm by The Offbeat Crew, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Velvet Revive Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- The Yela Munnar by VOYE HOMES , Nestled in Cardamom Plantation, key -- paymenttype, error -- list index out of range 
+hotel name --- The Nirvana Resort Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Bellavista Resort Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- The Cliff Resort, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar rooms and tent and hut stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Falling Waters Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Half Moon Holiday home - 8bhk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- WILLOW HILL LEISURE HOME, key -- cancelType, error -- list index out of range 
+hotel name --- WILLOW HILL LEISURE HOME, key -- paymenttype, error -- list index out of range 
+hotel name --- Ramee Wolkenburg Resort & Spa, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Misty Lake Resorts, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar heritage bungalow, key -- cancelType, error -- list index out of range 
+hotel name --- Munnar heritage bungalow, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar heritage bungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tea Valley Resort, Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Tea Valley Resort, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Poopada, key -- cancelType, error -- list index out of range 
+hotel name --- Poopada, key -- paymenttype, error -- list index out of range 
+hotel name --- Paradise Valley by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Arabian Nights Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Cinnamon stay, key -- cancelType, error -- list index out of range 
+hotel name --- Cinnamon stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Cinnamon stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Santhi Hill View Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Misty Way, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jays Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Mathikettan Homestay - Pet Friendly & Heater, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Mathikettan Homestay - Pet Friendly & Heater, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rainbow mist Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- GALAXY INTERNATIONAL Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tea Castle Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Tea Castle Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Winter Garden Resorts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Spice Notes - Breakfast Included, key -- paymenttype, error -- list index out of range 
+hotel name --- SpiceTree Rajakumari, key -- cancelType, error -- list index out of range 
+hotel name --- SpiceTree Rajakumari, key -- paymenttype, error -- list index out of range 
+hotel name --- The Arbour Resort Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- The Arbour Resort Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Mist Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Breeze Resort Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Bethel Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Heaven Inn Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Viriparai Tea Bungalow Munnar by VOYE HOMES, key -- cancelType, error -- list index out of range 
+hotel name --- Viriparai Tea Bungalow Munnar by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Viriparai Tea Bungalow Munnar by VOYE HOMES, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pine Tree Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Windy Vibes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Gundumalai Bungalow, Munnar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Riveria Eco-Village Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Riveria Eco-Village Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Riveria Eco-Village Munnar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bamboo Dale Resort, Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Bamboo Dale Resort, Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Bamboo Dale Resort, Munnar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Waterlily homes - The Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Waterlily Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Thottom Stays Private Bungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Red sparrow, key -- cancelType, error -- list index out of range 
+hotel name --- Red sparrow, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Cardamom Casa with Lawn, Terrace & BBQ, key -- paymenttype, error -- list index out of range 
+hotel name --- Edens Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Winter Note Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Skylark Holidays Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Skylark Holidays Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Fab Valley Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Fab Valley Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- CARMEL HOME STAY, key -- paymenttype, error -- list index out of range 
+hotel name --- Jade Munnar Pool Resort by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Munnar Ice Queen Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Camelot Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Ghala Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Las Palmas, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel SN, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel SN, key -- paymenttype, error -- list index out of range 
+hotel name --- Villoonnickal Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Villoonnickal Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Athens Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Grace Inn Munnar Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Grace Inn Munnar Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- ponnus silver star, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Paradise by Prasanth, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Misty Bush Munnar, key -- cancelType, error -- list index out of range 
+hotel name --- Misty Bush Munnar, key -- paymenttype, error -- list index out of range 
+hotel name --- Minnaminni Estates, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Whitetea Estatehouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Bell Vedera Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Bell Vedera Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Cloud Five, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

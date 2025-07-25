@@ -1,0 +1,355 @@
+hotel name --- Himachal Pradesh Inn Pal-ace With mountain view hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Atithi Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow Valley Resorts Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- The Heritage jasmine lodge B&B, key -- paymenttype, error -- list index out of range 
+hotel name --- Mehdudia Guest House, key -- cancelType, error -- list index out of range 
+hotel name --- Mehdudia Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- WoodVista Cottages By Jomotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow Valley Heights, key -- paymenttype, error -- list index out of range 
+hotel name --- The White Haven Homestay (Shimla), key -- paymenttype, error -- list index out of range 
+hotel name --- Rizell Alexis, key -- paymenttype, error -- list index out of range 
+hotel name --- Himalyan roots, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vatsalyam Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Springfields - A Heritage Palace Since 1902, key -- cancelType, error -- list index out of range 
+hotel name --- Springfields - A Heritage Palace Since 1902, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Le Royale Hotel, Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Willow Banks - Boutique 4 star Hotel on the Mall Road Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- The Edgeworth, key -- paymenttype, error -- list index out of range 
+hotel name --- Frosty Woods Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Frosty Woods Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- WelcomHeritage Elysium Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Sai Cottage Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- The Zion Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Marina- Shimla First Designer Boutique Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Marina- Shimla First Designer Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Trimurti Pine Valley Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- The Retreat Mashobra, Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Regenta Hilltop Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orchid Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- The Chalets Naldehra, key -- cancelType, error -- list index out of range 
+hotel name --- The Chalets Naldehra, key -- paymenttype, error -- list index out of range 
+hotel name --- Saanjh - The Musical Sunset, key -- paymenttype, error -- list index out of range 
+hotel name --- Divine Hills Mashobra, key -- paymenttype, error -- list index out of range 
+hotel name --- The Nilaya, key -- paymenttype, error -- list index out of range 
+hotel name --- Glen View Heritage Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain and peace, key -- cancelType, error -- list index out of range 
+hotel name --- Mountain and peace, key -- paymenttype, error -- list index out of range 
+hotel name --- The Jungle View from Balcony in Resort Mashobra - A Relax Retreat away from city, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Yashvi Paradise, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Ashoka B&B, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Ashoka B&B, key -- paymenttype, error -- list index out of range 
+hotel name --- Mystic Hills Retreat, key -- cancelType, error -- list index out of range 
+hotel name --- Mystic Hills Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- The Oaktree House, key -- cancelType, error -- list index out of range 
+hotel name --- The Oaktree House, key -- paymenttype, error -- list index out of range 
+hotel name --- Parimahal Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Parimahal Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- YMCA Tourist Hostel Shimla, key -- cancelType, error -- list index out of range 
+hotel name --- YMCA Tourist Hostel Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Superb Luxury Three Bed Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Sterling Legacy Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Fantastic Three Bedroom Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- La Bamba Homes, key -- cancelType, error -- list index out of range 
+hotel name --- La Bamba Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orchard Green, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Gujral, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Seven Hills Shimla by Him Haults Hospitality, key -- paymenttype, error -- list index out of range 
+hotel name --- Anand Niketan Homestay Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- New Summer Capital, key -- paymenttype, error -- list index out of range 
+hotel name --- The Thistle Lodge, key -- cancelType, error -- list index out of range 
+hotel name --- The Thistle Lodge, key -- paymenttype, error -- list index out of range 
+hotel name --- LivingStone Ojuven Treehouses, key -- cancelType, error -- list index out of range 
+hotel name --- LivingStone Ojuven Treehouses, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Snow Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Superb For Groups, key -- paymenttype, error -- list index out of range 
+hotel name --- Zostel Homes Kotkhai (Shimla), key -- paymenttype, error -- list index out of range 
+hotel name --- Vintage Woods Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Vintage Woods Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Solitude Rooms Parking and Forest View, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Om Niwas Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Zostel Homes Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Park Kufri, Shimla - Member ITC Hotels' Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Prestige, key -- paymenttype, error -- list index out of range 
+hotel name --- Tranquil Inn By Alcor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sunday Premium 5 BHK Villa Mihika, Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Combermere, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Combermere, key -- paymenttype, error -- list index out of range 
+hotel name --- Hostie Mystica-Highest Penthouse with Terrace, Mashobra, key -- cancelType, error -- list index out of range 
+hotel name --- Hostie Mystica-Highest Penthouse with Terrace, Mashobra, key -- paymenttype, error -- list index out of range 
+hotel name --- The Waypoint Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Waypoint Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Valley View 1 BHK Boutique Suite by Hillspeak Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wingait Inn - Hotel Near Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- HEAVEN in HILLTOP, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Alaya Stays 3 BHK Apartment with Scenic views - Cliff Perch, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Wood Winds - A Best Valley View Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel The Twin Towers, key -- paymenttype, error -- list index out of range 
+hotel name --- Hues & Trails Ground Zero, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Getaway, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Royale Retreat Hotel & Spa Near Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Lords Regency, key -- paymenttype, error -- list index out of range 
+hotel name --- The Sukoon Vibes, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Driftwood Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Mashobra Valley with Balcony, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Charvi Mansion I Vacations I Conference I MICE I Family Events I Open Air Terrace I Sky Bonfire I Kufri by Exotic Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tranquility In The Himalayas, key -- paymenttype, error -- list index out of range 
+hotel name --- Tranquility In The Himalayas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Under The Pines, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Orion Villa with Jacuzzi, Mountain View, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel The Golden Paradise, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Peaceful 2BHK Flat at Shogi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Shalli Tribe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Valley View Terrace Apartment by Hillspeak Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sita Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Zazroo Cottages , kufri, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nani House the mall road shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tara Home Shimla Near Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Harmony Heights, key -- paymenttype, error -- list index out of range 
+hotel name --- Himalayan Roots, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Charvi Group I 1 Bed Room With Pvt Balcony l roof top l Good hospitality kufri by Exotic Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Green Valley Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Seobaghcottages, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vatsalyam Serviced Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- AnantVilas Shimla Hills, key -- cancelType, error -- list index out of range 
+hotel name --- AnantVilas Shimla Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- MeenaBagh Homes Ratnari, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Koti Resort Shimla, a member of Radisson Individuals Retreats, key -- cancelType, error -- list index out of range 
+hotel name --- Koti Resort Shimla, a member of Radisson Individuals Retreats, key -- paymenttype, error -- list index out of range 
+hotel name --- Koti Resort Shimla, a member of Radisson Individuals Retreats, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Simla Manor by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Simla Manor by VEO - Part of StayVista, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- hotel Baljees Regency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nau Nabh Cottage by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Northwood Cottage by VEO - 3BR Heritage Villa 100 years old house, key -- cancelType, error -- list index out of range 
+hotel name --- Northwood Cottage by VEO - 3BR Heritage Villa 100 years old house, key -- paymenttype, error -- list index out of range 
+hotel name --- Silver Cedar BnB Sharma Niwas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Teer Bangla 3BHK Elegant Villa on Hilltop with WiFi, Heater, Bonfire, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Teer Bangla 3BHK Elegant Villa on Hilltop with WiFi, Heater, Bonfire, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shimla Mountain View Property Nirvana Rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mahasu House, key -- cancelType, error -- list index out of range 
+hotel name --- Mahasu House, key -- paymenttype, error -- list index out of range 
+hotel name --- Cocoon A Luxury BnB, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Le Boho Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- THE CHARVI RETREAT KUFRi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Sarog Cottage at Daafi With Bonfire, key -- paymenttype, error -- list index out of range 
+hotel name --- Aranyavilas, key -- cancelType, error -- list index out of range 
+hotel name --- Aranyavilas, key -- paymenttype, error -- list index out of range 
+hotel name --- Aranyavilas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Deodar Homestay Dakbangla-kufri, key -- paymenttype, error -- list index out of range 
+hotel name --- Kalta's Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Kalta's Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Kalta's Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MeenaBagh Villa Rooms & Cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hostie Mystica - 3BHK luxury apartment, Mashobra, Shimla, key -- cancelType, error -- list index out of range 
+hotel name --- Hostie Mystica - 3BHK luxury apartment, Mashobra, Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Hostie Mystica - 3BHK luxury apartment, Mashobra, Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- White House Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sharma, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2 Bedrooms Duplex with free parking & wifi, key -- cancelType, error -- list index out of range 
+hotel name --- 2 Bedrooms Duplex with free parking & wifi, key -- paymenttype, error -- list index out of range 
+hotel name --- 2 Bedrooms Duplex with free parking & wifi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Heritage Villas - Shimla British Resort, Near Mall, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Conifer Heights, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Rose Cottage - Bonfire & Scenic View, key -- paymenttype, error -- list index out of range 
+hotel name --- Pine hills nature camp, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamitag Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jungle Heritage Homestays, key -- cancelType, error -- list index out of range 
+hotel name --- Jungle Heritage Homestays, key -- paymenttype, error -- list index out of range 
+hotel name --- Jungle Heritage Homestays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rosastays Aarnalaya, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Family' sweet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel CK International By Pax Hotels, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel CK International By Pax Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- The Maharaja Retreat l Garden & Terrace l Vacations I Couple Friendly l Kufri By ExoticStays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL SAMBIT PALACE STAY Near Mall Road- Best Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Charvi Haven I Bonfire I Forest treks I Memories I Open Air Lawn & Terrace I Kufri By Exotic Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Bliss & Blossom Mansion Kufri I Peaceful Villa I Group of Exotic Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Countryside Mansion I Vacations I Conference I MICE I Couple Friendly I Balcony & Mountains View I By Exotic Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Asha Residency by StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Asha Residency by StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Asha Residency by StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Boom Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Inner Peace Retreat Simla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Boom Getaway, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mountain Haven Retreat, key -- cancelType, error -- list index out of range 
+hotel name --- Mountain Haven Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain Haven Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Alaya Stays 3 BHK With Garden - Evaara Woods Breeze, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- KAMNA HILL RESORT a Boutique cottages, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Chaman Palace, key -- paymenttype, error -- list index out of range 
+hotel name --- Udit,s Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Juniper Whsiper, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL BLUE HAIZON STAY Near Mall Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- White breeze 3bhk flexigo stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Sidhowal Lodge 1BR w Comp Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- SHIVANI HOME STAY, key -- paymenttype, error -- list index out of range 
+hotel name --- Shimla Pines Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Shimla Pines Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Nani House The mall road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Cheerio - Elysium Estate 2BR Cottage with Valley View, key -- paymenttype, error -- list index out of range 
+hotel name --- Himalya Sun-Dawn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sakoon Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manaw Valley Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Alaya Stays 3 BHK Apartment with Hill View - Cliff Trident, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Residences By Tarika by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Alaya Stays Cliff Vallis 3-BHK Hill View Apartment with Balcony & Common Play Zone, key -- paymenttype, error -- list index out of range 
+hotel name --- Alaya Stays Cliff Vallis 3-BHK Hill View Apartment with Balcony & Common Play Zone, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Chandel Home Stay , Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Chandel Home Stay , Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Blue Forest View, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Saraiya House with Bonfire & WiFi, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Saraiya House with Bonfire & WiFi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Countryside Apple orchard by LivingStone, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at The Orchard Song with BBQ, Fireplace, key -- paymenttype, error -- list index out of range 
+hotel name --- Alaya Stays Lafu House Latibule 2 BHK Villa with Garden, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Wood House Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Jais Cottage A Charming Hideaway, key -- cancelType, error -- list index out of range 
+hotel name --- Jais Cottage A Charming Hideaway, key -- paymenttype, error -- list index out of range 
+hotel name --- Jais Cottage A Charming Hideaway, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hill view, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Charvi Hotels I Couple Friendly I Open Air Terrace I Wooden Rooms With Pvt Balconies I Kufri by Exotic Stays, key -- cancelType, error -- list index out of range 
+hotel name --- Charvi Hotels I Couple Friendly I Open Air Terrace I Wooden Rooms With Pvt Balconies I Kufri by Exotic Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Charvi Hotels I Couple Friendly I Open Air Terrace I Wooden Rooms With Pvt Balconies I Kufri by Exotic Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Sunset Abode 4BR With Valley Views, key -- paymenttype, error -- list index out of range 
+hotel name --- Hostie Imperial Chalet-3 BHK Mountain Villa, Chail, key -- cancelType, error -- list index out of range 
+hotel name --- Hostie Imperial Chalet-3 BHK Mountain Villa, Chail, key -- paymenttype, error -- list index out of range 
+hotel name --- Woodsmoke Retreat, key -- cancelType, error -- list index out of range 
+hotel name --- Woodsmoke Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Chhiber Niwas B&B, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Pahadi House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hillspeak Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Staycation, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kalawati Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Kalawati Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Krishna cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hostie AJ's Retreat-3BHK Condo, Naldehra, key -- cancelType, error -- list index out of range 
+hotel name --- Hostie AJ's Retreat-3BHK Condo, Naldehra, key -- paymenttype, error -- list index out of range 
+hotel name --- WoodStock Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Shai Sher Estate with Bonfire, BBQ and Lawn, key -- paymenttype, error -- list index out of range 
+hotel name --- hill view hostel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ELIVAAS 4 BHK with Garden & Sauna - Skylounge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Pine Estate with Outdoor Jacuzzi, key -- paymenttype, error -- list index out of range 
+hotel name --- Devloke Shimla Retreat, key -- cancelType, error -- list index out of range 
+hotel name --- Devloke Shimla Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Devloke Shimla Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pingaksh Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- RKM Biulding Sharma B&B, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Breezedale, key -- cancelType, error -- list index out of range 
+hotel name --- Breezedale, key -- paymenttype, error -- list index out of range 
+hotel name --- Breezedale, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Anastasia, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Anayah B and B, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Dream Mansion Kufri I Party & Music I Sky Bonfire I Group of Exotic Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shri Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Nook - Elysium Estate 2 BR Cottage with Hill View, Lawn, key -- paymenttype, error -- list index out of range 
+hotel name --- Rohit den, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Little House by VEO - 3 BR villa Cozy Villa on Hilltop with valley view, key -- paymenttype, error -- list index out of range 
+hotel name --- Pet Friendly Summer House Cottage, key -- cancelType, error -- list index out of range 
+hotel name --- Pet Friendly Summer House Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Pet Friendly Summer House Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pine View Kunal Home Inn Mashobra, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Auckland Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at The Corner House - Pet Friendly Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- om home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Fair lawns Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Elm - Elysium Estate with Complimentary Hi-Tea, Hill View, Lawn, key -- paymenttype, error -- list index out of range 
+hotel name --- Alaya Stays 6 BHK With Garden - Evaara Woods Hilltop, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Collection O Shimla Bus Terminal, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Townhouse Oak Kachighati ISBT Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Parvata Droni, key -- cancelType, error -- list index out of range 
+hotel name --- Parvata Droni, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Apple Regency, key -- paymenttype, error -- list index out of range 
+hotel name --- Honeymoon Inn Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- B&B Aston Shimla Hill's, key -- cancelType, error -- list index out of range 
+hotel name --- B&B Aston Shimla Hill's, key -- paymenttype, error -- list index out of range 
+hotel name --- Hillside Home, key -- cancelType, error -- list index out of range 
+hotel name --- Hillside Home, key -- paymenttype, error -- list index out of range 
+hotel name --- zoz hd, key -- cancelType, error -- list index out of range 
+hotel name --- zoz hd, key -- paymenttype, error -- list index out of range 
+hotel name --- zoz hd, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shimla Vibes B & B free pick and drop from ISBT Shimla, key -- cancelType, error -- list index out of range 
+hotel name --- Shimla Vibes B & B free pick and drop from ISBT Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Royal Apsara, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BNB ROYAL INN SHIMLA, key -- cancelType, error -- list index out of range 
+hotel name --- BNB ROYAL INN SHIMLA, key -- paymenttype, error -- list index out of range 
+hotel name --- The Boho near Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Sejal Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Him Aaranya Home stay Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shri Radhe BNB, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Avon Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Premium, key -- paymenttype, error -- list index out of range 
+hotel name --- The Premium, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Indu BNB Shimla, key -- cancelType, error -- list index out of range 
+hotel name --- Indu BNB Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- The Boho Shimla, key -- cancelType, error -- list index out of range 
+hotel name --- The Boho Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Kingsway Near Mall Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- zoz sm5, key -- cancelType, error -- list index out of range 
+hotel name --- zoz sm5, key -- paymenttype, error -- list index out of range 
+hotel name --- rudra cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sapphire bnb, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Royal Vista, key -- paymenttype, error -- list index out of range 
+hotel name --- The Royal Vista, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pine Ville Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Solo Home, key -- cancelType, error -- list index out of range 
+hotel name --- Solo Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Solo Home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nirvana Rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- zoz sm7, key -- cancelType, error -- list index out of range 
+hotel name --- zoz sm7, key -- paymenttype, error -- list index out of range 
+hotel name --- Yamunas The Tree View, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Faagu Peaks, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New B&B Near Mall Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- zoz ridge, key -- cancelType, error -- list index out of range 
+hotel name --- zoz ridge, key -- paymenttype, error -- list index out of range 
+hotel name --- The Breeze Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Marc, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel rashik, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Starry Summit Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- yog chhaya hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Anayah B and B, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- zoz sm9, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel tirupati inn hill view, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel White Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Alarks Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wuthering Heights Shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- Wuthering Heights Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ridge Lakkar Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Seo bagh cottages narkanda, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Avadh Palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel rashik, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hill Billy Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Silverine, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL DOEGAR, shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL DOEGAR, shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Hill View a family hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MyHome Staycations, shimla, key -- paymenttype, error -- list index out of range 
+hotel name --- SaffronStays Alpine blue-6 bhk villa with private deck and valley views from each room, key -- paymenttype, error -- list index out of range 
+hotel name --- SaffronStays Alpine blue-6 bhk villa with private deck and valley views from each room, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel AACHMAN SHIMLA, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Regency Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- zoz sm1, key -- cancelType, error -- list index out of range 
+hotel name --- zoz sm1, key -- paymenttype, error -- list index out of range 
+hotel name --- The Tree Lodge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Him Aaranya Home stay Shimla, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Little Chilli Studios, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nature View Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ridhi Sidhi Cottage Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VAN-CHUM, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cuckoo's nest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SIMLA HOTEL A M A R - P A L A C E near temple, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tirupati palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MyHome Staycations, key -- cancelType, error -- list index out of range 
+hotel name --- MyHome Staycations, key -- paymenttype, error -- list index out of range 
+hotel name --- MyHome Staycations, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Heritage Aira Holme Estate, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Uno Prime, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Maa Tara Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Maha Maya B&B Near Kali Bari Temple, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Deepwoods, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gulmarg Height Homestay, Kufri-HP, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Green Mountain View Himachal Pradesh With Restaurant, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Himalayan Cedar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- hari home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Blue Moon, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

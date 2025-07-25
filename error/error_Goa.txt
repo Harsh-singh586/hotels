@@ -1,0 +1,1777 @@
+hotel name --- Zulu Land cottages - near Curlies beach shack and shiva valley - Anjuna beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Summit Calangute Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Calangute Resort & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- BluO Amani Vagator - Boutique Hotel Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Amani Vagator - Boutique Hotel Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Sea Castle, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sea Castle, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lykke Suites- 2-min Drive to Colva Beach-By Goan Felicidade Hospitality PVT LTD, key -- paymenttype, error -- list index out of range 
+hotel name --- Lykke Suites- 2-min Drive to Colva Beach-By Goan Felicidade Hospitality PVT LTD, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Dimaru Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Dimaru Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Grand Continent Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Rock Valley, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Astor - All Suites Hotel Candolim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Astor - All Suites Hotel Candolim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Prime BT Wellness With Swimming Pool, Bar and Spa - Nr Morjim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime BT Wellness With Swimming Pool, Bar and Spa - Nr Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Azora by Ayatana, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Azora by Ayatana, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bliss By Stays, Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Bliss By Stays, Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Sea Sapphire ,Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sea Sapphire ,Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cashew Leaf Resort, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Ivy Anjuna, key -- paymenttype, error -- list index out of range 
+hotel name --- The Ivy Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Acacia Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- The Acacia Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hyatt Centric Candolim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Hyatt Centric Candolim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jungle Hut-Annabelle's Beach Apartments at Bernard Simao,Calangute,Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Jungle Hut-Annabelle's Beach Apartments at Bernard Simao,Calangute,Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vilmaris Luxury Hotel in Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Vilmaris Luxury Hotel in Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Blu Missel By The River, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ronnie's Studio Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Ronnie's Studio Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Alcazar Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- De Alcazar Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Verandah - A Beautiful Story, Near Anjuna Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Verandah - A Beautiful Story, Near Anjuna Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Verandah - A Beautiful Story, Near Anjuna Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fairfield by Marriott Goa Benaulim, key -- paymenttype, error -- list index out of range 
+hotel name --- Fairfield by Marriott Goa Benaulim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Antonios Calangute beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- TATA Rio De Goa - Resort style apt,6 KM from Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- TATA Rio De Goa - Resort style apt,6 KM from Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Tridiva Morjim 150 Meters to Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Jingle Tree Resort, Nr Arambol Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Jingle Tree Resort, Nr Arambol Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fairfield by Marriott Goa Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Prime Emerald Highland - 500M From Candolim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Emerald Highland - 500M From Candolim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Prime Sarala Crown With Pool - Nr Calangute Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Sarala Crown With Pool - Nr Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hyatt Place Goa Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Hyatt Place Goa Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aralea Beach Resort By Stone Wood Premier, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aveeno Resort near Calangute and Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Courtyard by Marriott Goa Colva, key -- paymenttype, error -- list index out of range 
+hotel name --- Courtyard by Marriott Goa Colva, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Perfectstayz Koko Maya 5 mins walk to beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Townhouse Calangute - Baga Circle Formerly Park Avenue, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ibis Styles Goa Calangute - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Styles Goa Calangute - An Accor Brand, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Le Seasons Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Seasons Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mistral Holidays Near Trinity Beach & Benaulim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Mistral Holidays Near Trinity Beach & Benaulim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beleza By The Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Beleza By The Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Omkar wellness inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hyatt Ronil Goa - a JdV by Hyatt Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- YU Hotel Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- YU Hotel Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Olive Hotel Calangute Niwasa by Embassy Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Hotel Calangute Niwasa by Embassy Group, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Westwood Residence Goa - The Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Westwood Residence Goa - The Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Sunshine Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mojigao - Eco Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Mojigao - Eco Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Mojigao - Eco Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa Villagio Resort & Spa - A Unit of IHM, 10 Min Walk from Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Goa Villagio Resort & Spa - A Unit of IHM, 10 Min Walk from Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fortune Resort Benaulim Goa - Member ITC Hotels' Group, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 3 Bedroom Holiday Home near Baga & Calangute, Free Parking & Wi-Fi, key -- paymenttype, error -- list index out of range 
+hotel name --- 3 Bedroom Holiday Home near Baga & Calangute, Free Parking & Wi-Fi, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ritchita Beach way Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Santana Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Santana Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Le Meridien Goa, Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Radisson Resort Goa Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aaria Hills, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Lagom Comforts, Anjuna Beach - A boutique hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Legend Suites Candolim Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Casa Legend Suites Candolim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Legend Suites Candolim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vihaan Inn Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Susegad Suites Arpora Apartments & Villas with Reserved Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- Susegad Suites Arpora Apartments & Villas with Reserved Parking, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Storii By ITC Hotels, Shanti Morada Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Storii By ITC Hotels, Shanti Morada Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Porto by Lagom, Anjuna, Vagator beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Blu Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Blu Resorts, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Edge Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Beach Edge Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ginger Goa Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Goa Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Kris Resort - Nr Calangute Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Kris Resort - Nr Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Euphoria Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Pajaros Blu, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Pajaros Blu, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Alcove Resort Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Alcove Resort Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort Terra Paraiso, key -- paymenttype, error -- list index out of range 
+hotel name --- Resort Terra Paraiso, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa Courtyard by the porto Arpora, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Taj Cidade de Goa Heritage, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Cidade de Goa Heritage, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Premium Dona Eliza, 700 metres from Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 360 Bliss Dia Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- 360 Bliss Dia Hotels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Neelam's The Grand Hotel Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Neelam's The Grand Hotel Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 4BHK Private Pool villa in North Goa with Kayaking nearby!!, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The HQ, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel City Garden, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Grace Resort, key -- cancelType, error -- list index out of range 
+hotel name --- La Grace Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- La Grace Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- VILLA M - SOLITUDE 1 CANDOLIM GOA 3BHK, Pool Facing, Near Beach, Free Breakfast, Free WIFI and Prime Location, key -- paymenttype, error -- list index out of range 
+hotel name --- VILLA M - SOLITUDE 1 CANDOLIM GOA 3BHK, Pool Facing, Near Beach, Free Breakfast, Free WIFI and Prime Location, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Sea Vue Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Ashirwad - Nr Mall De Goa, Porvorim, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ashirwad - Nr Mall De Goa, Porvorim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Regalia Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- The Regalia Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Taj Holiday Village Resort & Spa, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Holiday Village Resort & Spa, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Grand Royal Palms - Nr Benaulim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Grand Royal Palms - Nr Benaulim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Grand Mercure Goa Candolim - An Accor Hotels Brand, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Prakash Holiday Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Prakash Holiday Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Larisa Resort Ashwem, key -- paymenttype, error -- list index out of range 
+hotel name --- Larisa Resort Ashwem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The LaLiT Golf & Spa Resort Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The LaLiT Golf & Spa Resort Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- WTF My House, key -- cancelType, error -- list index out of range 
+hotel name --- WTF My House, key -- paymenttype, error -- list index out of range 
+hotel name --- WTF My House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aarju Luxurious Stay Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Aarju Luxurious Stay Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Hotel O Dabolim Near Goa International Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- JW Marriott Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- JW Marriott Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Sunheads, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hard Rock Hotel Goa Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Hard Rock Hotel Goa Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Taj Fort Aguada Resort & Spa, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Fort Aguada Resort & Spa, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Saikiran Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- DoubleTree by Hilton Goa - Panaji, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hilton Goa Resort Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Soul Vacation Resort and Spa,Colva, key -- paymenttype, error -- list index out of range 
+hotel name --- Soul Vacation Resort and Spa,Colva, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Godwill Casa Varca, key -- cancelType, error -- list index out of range 
+hotel name --- Godwill Casa Varca, key -- paymenttype, error -- list index out of range 
+hotel name --- Godwill Casa Varca, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riva Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Riva Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Westin Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Westin Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Heritage Exotica Villa - 4BHK, Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Heritage Exotica Villa - 4BHK, Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sea Queen Beach Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Sea Queen Beach Resort & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Alvorada Resort-3 Star Resort In Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Alvorada Resort-3 Star Resort In Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Akasa Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Akasa Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Akasa Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sobit Sarovar Portico, key -- paymenttype, error -- list index out of range 
+hotel name --- Sobit Sarovar Portico, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Margao Near Railway Station Formerly Hotel Tanish, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Novotel Goa Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Radisson Goa Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Radisson Goa Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Meritas Auberge Calangute Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Meritas Auberge Calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa Marriott Resort & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Holiday Inn Goa Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- D'souza's Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Hotel O Porvorim Near Mall De Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ibis Styles Goa Vagator - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Styles Goa Vagator - An Accor Brand, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- BSG Porvorim Regency Hotel Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- O Pescador an Indy Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Chalston Beach Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Chalston Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Chalston Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Radha House Siolim A Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Boho, Vagator Beach Goa Near Thalassa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Neemrana's Three Waters, key -- paymenttype, error -- list index out of range 
+hotel name --- Neemrana's Three Waters, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Marias house, key -- paymenttype, error -- list index out of range 
+hotel name --- Marias house, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Oxygen Palolem, key -- paymenttype, error -- list index out of range 
+hotel name --- Oxygen Palolem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ronne's Candy Floss Blue Lagoon villa, key -- cancelType, error -- list index out of range 
+hotel name --- Ronne's Candy Floss Blue Lagoon villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Ronne's Candy Floss Blue Lagoon villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Stone Water Eco Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Stone Water Eco Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Stone Water Eco Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- BaywoodGoa -200 meters from Morjim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- BaywoodGoa -200 meters from Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Pristine with Bar - Nr Reis Magos Fort, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Pristine with Bar - Nr Reis Magos Fort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Novotel Goa Resort & Spa Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- W Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Greenfinch Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- juSTa Morjim Beach Resort Goa - 80 Steps from Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Postcard Hideaway, Netravali Wildlife Sanctuary, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Postcard Hideaway, Netravali Wildlife Sanctuary, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vinsons Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Vinsons Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Seashell Suites and Villas- Candolim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Seashell Suites and Villas- Candolim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Prime Supreme - 700M From Vasco Da Gama Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Supreme - 700M From Vasco Da Gama Railway Station, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 4 bhk villa hilton candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- August Villas, Saligao -Private Pool Villas, key -- paymenttype, error -- list index out of range 
+hotel name --- August Villas, Saligao -Private Pool Villas, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Pereira's Goan Homestay Villa, key -- cancelType, error -- list index out of range 
+hotel name --- The Pereira's Goan Homestay Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Pereira's Goan Homestay Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Novotel Goa Panjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Red Thread Calangute, key -- cancelType, error -- list index out of range 
+hotel name --- Red Thread Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Red Thread Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Park Calangute Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Park Calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Zamora Estate, key -- paymenttype, error -- list index out of range 
+hotel name --- La Zamora Estate, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Sai Deep Place, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fiesta Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Fiesta Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Martins Crest, key -- paymenttype, error -- list index out of range 
+hotel name --- Martins Crest, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Shambhala Luxury Villa with Private Pool close to Anjuna Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Shambhala Luxury Villa with Private Pool close to Anjuna Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vivanta Goa, Panaji, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Exotic stay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vila Do Flor Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Vila Do Flor Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort Paloma De Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Resort Paloma De Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Townhouse Madgaon, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKOSTAY - Belvedere Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- EKOSTAY - Belvedere Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nature's Haven Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Wild Berry Resort Agonda, key -- cancelType, error -- list index out of range 
+hotel name --- Wild Berry Resort Agonda, key -- paymenttype, error -- list index out of range 
+hotel name --- Wild Berry Resort Agonda, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riviera 01, Siolim- 3BHK Villa With Pool View, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Cosy 1 bhk Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Calangute Cosy 1 bhk Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Calangute Cosy 1 bhk Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lillywoods Zac Beach Resort, Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Lillywoods Zac Beach Resort, Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- O Camarao, key -- paymenttype, error -- list index out of range 
+hotel name --- O Camarao, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Red Thread Morjim, key -- cancelType, error -- list index out of range 
+hotel name --- Red Thread Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Red Thread Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Acron Waterfront Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Acron Waterfront Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- El Rocio Estate, key -- paymenttype, error -- list index out of range 
+hotel name --- El Rocio Estate, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Eternal Wave Apartments by Daystar Ventures, key -- cancelType, error -- list index out of range 
+hotel name --- Eternal Wave Apartments by Daystar Ventures, key -- paymenttype, error -- list index out of range 
+hotel name --- Eternal Wave Apartments by Daystar Ventures, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Okean De Goa Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Okean De Goa Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2 Beds Affordable Island View with swimming pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Ludo Private Pool Villa, WiFi-Caretaker-Parking, North Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Turista, key -- paymenttype, error -- list index out of range 
+hotel name --- Calangute Turista, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Anamiva, Goa - AM Hotel Kollection, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The calagute Beach Resort By Shivam Resort 1 km from beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Golden Tulip Candolim, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Studio Apartment by Leela Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Studio Apartment by Leela Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa Garden 6BHK Villa with Private Pool Near Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Georgies wooden homes stay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sterling Goa Varca, key -- paymenttype, error -- list index out of range 
+hotel name --- Sterling Goa Varca, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Joets Guesthouse, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Serenity Beach Resort, calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKO STAY - Solace Villa I Charming Villa close to Candolim Beach, key -- cancelType, error -- list index out of range 
+hotel name --- EKO STAY - Solace Villa I Charming Villa close to Candolim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- EKO STAY - Solace Villa I Charming Villa close to Candolim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Eternal wave by HappyInch, key -- cancelType, error -- list index out of range 
+hotel name --- Eternal wave by HappyInch, key -- paymenttype, error -- list index out of range 
+hotel name --- Eternal wave by HappyInch, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sheperds Colva Deluxe Villa's & Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Cabana Beach & Spa, By Ashvem Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- La Cabana Beach & Spa, By Ashvem Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Moyrah By Greenpark, key -- paymenttype, error -- list index out of range 
+hotel name --- Moyrah By Greenpark, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Motel La Grandeur, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Serene Beach Agonda, key -- paymenttype, error -- list index out of range 
+hotel name --- Serene Beach Agonda, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKO STAY - Woodlock Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- EKO STAY - Woodlock Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ocean Wave Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Ocean Wave Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Avila Estate, key -- paymenttype, error -- list index out of range 
+hotel name --- La Avila Estate, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fusion Home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Swati, key -- paymenttype, error -- list index out of range 
+hotel name --- Swati, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 3BHK Villa with Private Pool Near Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa De Goa - Boutique Resort - Calangute, key -- cancelType, error -- list index out of range 
+hotel name --- Casa De Goa - Boutique Resort - Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa De Goa - Boutique Resort - Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- J-House, spacious apartments with balconies, Thalassa 1min away, key -- cancelType, error -- list index out of range 
+hotel name --- J-House, spacious apartments with balconies, Thalassa 1min away, key -- paymenttype, error -- list index out of range 
+hotel name --- J-House, spacious apartments with balconies, Thalassa 1min away, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aguada Anchorage - The Villa Resort, Candolim, key -- cancelType, error -- list index out of range 
+hotel name --- Aguada Anchorage - The Villa Resort, Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Aguada Anchorage - The Villa Resort, Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Sea Steps, key -- paymenttype, error -- list index out of range 
+hotel name --- Calangute Sea Steps, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Woodpegger By The Beach, Mandrem, key -- paymenttype, error -- list index out of range 
+hotel name --- Woodpegger By The Beach, Mandrem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Hawaii Comforts, key -- paymenttype, error -- list index out of range 
+hotel name --- The Hawaii Comforts, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vivanta Goa, Miramar, key -- paymenttype, error -- list index out of range 
+hotel name --- Vivanta Goa, Miramar, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Grand Leoney Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- The Grand Leoney Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- G0AN Traditional Stays in GOA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Manoshanti- Nr Big Daddy Casino, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nanu Resort , Arambol, key -- paymenttype, error -- list index out of range 
+hotel name --- Nanu Resort , Arambol, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Soul Sante Beach Resorts Morjim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- De Soul Sante Beach Resorts Morjim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mansao Curtorim - A CGH Earth SAHA Experience, key -- paymenttype, error -- list index out of range 
+hotel name --- Mansao Curtorim - A CGH Earth SAHA Experience, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Yellow House, Goa - IHCL SeleQtions, key -- paymenttype, error -- list index out of range 
+hotel name --- The Yellow House, Goa - IHCL SeleQtions, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Golden Sands Resort, Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Barcelona Villas at Love Story Siolim- 3BHK Private Pool Villas, key -- paymenttype, error -- list index out of range 
+hotel name --- Barcelona Villas at Love Story Siolim- 3BHK Private Pool Villas, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ekostay - OCEAN CREST VILLA I 50 meters from Anjuna Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Ekostay - OCEAN CREST VILLA I 50 meters from Anjuna Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Ekostay - OCEAN CREST VILLA I 50 meters from Anjuna Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Stone Wood Resort, Mandrem, key -- paymenttype, error -- list index out of range 
+hotel name --- Stone Wood Resort, Mandrem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aloha Holiday Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Aloha Holiday Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Aloha Holiday Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- TreeHouse Nova, key -- paymenttype, error -- list index out of range 
+hotel name --- TreeHouse Nova, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SD D'Souza Heritage Moira Flats with Reserved Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- SD D'Souza Heritage Moira Flats with Reserved Parking, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Skazka Resort Mandrem Beach with Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Asta by Avim, key -- cancelType, error -- list index out of range 
+hotel name --- Asta by Avim, key -- paymenttype, error -- list index out of range 
+hotel name --- Asta by Avim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa Homeland 3 double bed Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Goa Homeland 3 double bed Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- WelcomHeritage Panjim Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Antalya Villa - 5BHK with Private Pool, Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Antalya Villa - 5BHK with Private Pool, Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ahilya By The Sea, key -- cancelType, error -- list index out of range 
+hotel name --- Ahilya By The Sea, key -- paymenttype, error -- list index out of range 
+hotel name --- Ahilya By The Sea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Orfil, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La baga Beach Hotel By Orion Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- La baga Beach Hotel By Orion Hotels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabExpress Joey's Place - Nr Panjim, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Joey's Place - Nr Panjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- TATA Rio De Goa, Good Stay 2 BHK Pool View Premium Apartment, 805, key -- paymenttype, error -- list index out of range 
+hotel name --- TATA Rio De Goa, Good Stay 2 BHK Pool View Premium Apartment, 805, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Prime Swarnam, Old Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Swarnam, Old Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Aquamarine Arpora, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Whiteflower Cottages Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Whiteflower Cottages Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Celi, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- GERANIUM HAVEN, key -- paymenttype, error -- list index out of range 
+hotel name --- GERANIUM HAVEN, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Good Stay 2BHK Pool apartment 10 mins from dabolim airport Goa 102, key -- paymenttype, error -- list index out of range 
+hotel name --- Good Stay 2BHK Pool apartment 10 mins from dabolim airport Goa 102, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Coconut Creek Resort - Dabolim Airport, key -- cancelType, error -- list index out of range 
+hotel name --- Coconut Creek Resort - Dabolim Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Coconut Creek Resort - Dabolim Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- HERITAGE 7BHK VILLA WITH PRIVATE POOL close to BAGA BEACH, key -- paymenttype, error -- list index out of range 
+hotel name --- HERITAGE 7BHK VILLA WITH PRIVATE POOL close to BAGA BEACH, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Carina Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Carina Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rankk Stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Celebrations - Vagator - Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Devasthali - The Valley of Gods, key -- cancelType, error -- list index out of range 
+hotel name --- Devasthali - The Valley of Gods, key -- paymenttype, error -- list index out of range 
+hotel name --- Devasthali - The Valley of Gods, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sandoz Vagator Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 6 BHK Villa with Private Swimming Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aqua Beach Stays Ashwem, key -- cancelType, error -- list index out of range 
+hotel name --- Aqua Beach Stays Ashwem, key -- paymenttype, error -- list index out of range 
+hotel name --- Aqua Beach Stays Ashwem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Dewa - Nr Dabolim Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Dewa - Nr Dabolim Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Pacific Sunset View Palolem, key -- cancelType, error -- list index out of range 
+hotel name --- Pacific Sunset View Palolem, key -- paymenttype, error -- list index out of range 
+hotel name --- Pacific Sunset View Palolem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Azaya Beach Resort Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Azaya Beach Resort Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Areia De Goa, Comfort Stay Apartment near Baga Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Areia De Goa, Comfort Stay Apartment near Baga Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Areia De Goa, Comfort Stay Apartment near Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Muffys Vacation Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Muffys Vacation Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 3BHK Villa with Private Pool near Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vila Romila, key -- cancelType, error -- list index out of range 
+hotel name --- Vila Romila, key -- paymenttype, error -- list index out of range 
+hotel name --- Vila Romila, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort The Lohias, Goa Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ekostay Gold- Salt Water Villa I Sea View I 200 meters from Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Ekostay Gold- Salt Water Villa I Sea View I 200 meters from Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Larisa Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Larisa Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nirvana Paraiso, key -- cancelType, error -- list index out of range 
+hotel name --- Nirvana Paraiso, key -- paymenttype, error -- list index out of range 
+hotel name --- Nirvana Paraiso, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Veera Strand Park Serviced Apartments near Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Postcard Cuelim, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Postcard Cuelim, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- AR APARTMENTS -Siolim, key -- paymenttype, error -- list index out of range 
+hotel name --- AR APARTMENTS -Siolim, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- AR APARTMENTS -Siolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel K7 Trends With Pool, Calangute Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel K7 Trends With Pool, Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Regenta Central Imperial Candolim Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Regenta Central Imperial Candolim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Regenta Central Imperial Candolim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Varanda Do Mar, key -- paymenttype, error -- list index out of range 
+hotel name --- Varanda Do Mar, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Avataara Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Avataara Resort & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jes Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Jes Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- AQUAVISTA at CasaPhilomena, key -- paymenttype, error -- list index out of range 
+hotel name --- AQUAVISTA at CasaPhilomena, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ELIVAAS 3 BHK with Pvt Pool in Assagao -Montforte Ayada, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Asian Golden Sands - S7 & S8, key -- paymenttype, error -- list index out of range 
+hotel name --- Asian Golden Sands - S7 & S8, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Our Nest - A cozy apartment near Palolem beach with power backup facility, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Minimalist Panjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Minimalist Panjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Infinity Villa, 5BHK-Private Pool-Caretaker, Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Infinity Villa, 5BHK-Private Pool-Caretaker, Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Richmonde Ananta Elite Luxurious Villa & Apartments,Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Richmonde Ananta Elite Luxurious Villa & Apartments,Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Pihu guest house, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Andores Resort And Spa - Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Andores Resort And Spa - Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SOLS Backyard, key -- cancelType, error -- list index out of range 
+hotel name --- SOLS Backyard, key -- paymenttype, error -- list index out of range 
+hotel name --- SOLS Backyard, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fort Tiracol Heritage Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Fort Tiracol Heritage Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Royal Orchid Beach Resort & Spa, Utorda Beach Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Orchid Beach Resort & Spa, Utorda Beach Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Janice Villa Arambol, key -- cancelType, error -- list index out of range 
+hotel name --- Janice Villa Arambol, key -- paymenttype, error -- list index out of range 
+hotel name --- Janice Villa Arambol, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Olive Hotel Alidia Beach Resort by Embassy Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Hotel Alidia Beach Resort by Embassy Group, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Domingos Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Domingos Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa de jardin Varca Goa for 4 people, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Arotel Rooms & Suites Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Arotel Rooms & Suites Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Comfort Holiday Home, key -- cancelType, error -- list index out of range 
+hotel name --- Comfort Holiday Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Comfort Holiday Home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 3BHK Villa - The Blue Pearl Varca Beach, key -- cancelType, error -- list index out of range 
+hotel name --- 3BHK Villa - The Blue Pearl Varca Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- 3BHK Villa - The Blue Pearl Varca Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3BHK Villa - The Blue Pearl Varca Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Kaia Oceanfront Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Kaia Oceanfront Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aqua Vista, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 3BHK Villa with Private Swimming Pool near Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calvin's Retreat, key -- cancelType, error -- list index out of range 
+hotel name --- Calvin's Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Calvin's Retreat, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ronne's Little Baga service apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Ronne's Little Baga service apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Siolim 6bhk Private Villa with Private Pool close to Anjuna Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Siolim 6bhk Private Villa with Private Pool close to Anjuna Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- GOA BLUE SEA 3Bhk Villa with 2 Pvt Pools, key -- paymenttype, error -- list index out of range 
+hotel name --- GOA BLUE SEA 3Bhk Villa with 2 Pvt Pools, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Palacio Baga · 4BHK Portuguese Villa in Arpora, key -- cancelType, error -- list index out of range 
+hotel name --- Palacio Baga · 4BHK Portuguese Villa in Arpora, key -- paymenttype, error -- list index out of range 
+hotel name --- Palacio Baga · 4BHK Portuguese Villa in Arpora, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Coastal Pearl Hotel Margao Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Coastal Pearl Hotel Margao Railway Station, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Rustic by Jasmine Journeys, key -- paymenttype, error -- list index out of range 
+hotel name --- The Rustic by Jasmine Journeys, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Rustic by Jasmine Journeys, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Acacia Hotel & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Acacia Hotel & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Prainha Resort By The Sea, key -- paymenttype, error -- list index out of range 
+hotel name --- Prainha Resort By The Sea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Euphoria Luxury Villa - 5BHK - Private Pool - Jacuzzi, Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Euphoria Luxury Villa - 5BHK - Private Pool - Jacuzzi, Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ourgoaholidays 2Bhk first floor near the beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Ourgoaholidays 2Bhk first floor near the beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Birdsnest River view Holiday Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Birdsnest River view Holiday Home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Mandarin Beach Resort Suites & Villas, Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- De Mandarin Beach Resort Suites & Villas, Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sort By Stays , Siolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKO STAY- CASA VAGA, key -- cancelType, error -- list index out of range 
+hotel name --- EKO STAY- CASA VAGA, key -- paymenttype, error -- list index out of range 
+hotel name --- EKO STAY- CASA VAGA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SD Zanita Heights Sea Facing Serviced Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- SD Zanita Heights Sea Facing Serviced Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Morjim Bliss - 500M From Morjim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Morjim Bliss - 500M From Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sea View Holiday Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Granpa's Inn Hotel Bougainvillea, key -- paymenttype, error -- list index out of range 
+hotel name --- Granpa's Inn Hotel Bougainvillea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Muffys Pool Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Luma House-TBV, key -- paymenttype, error -- list index out of range 
+hotel name --- The Luma House-TBV, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKO STAY - GREEN DOOR Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- EKO STAY - GREEN DOOR Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Renest Calangute Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Renest Calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sunshine Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Sunshine Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Olive Zip Calangute Mira by Embassy Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Zip Calangute Mira by Embassy Group, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Sai Advika, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Sai Advika, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sai Advika, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Spacious 1-2BHK 3 Min Walk To Carmona Goa Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Spacious 1-2BHK 3 Min Walk To Carmona Goa Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Spacious 1-2BHK 3 Min Walk To Carmona Goa Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Spacious 1-2BHK 3 Min Walk To Carmona Goa Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Morii by the sea - Morjim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Morii by the sea - Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- El - Arbol Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- El - Arbol Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Lagroo House-TBV, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKOSTAY - Gold -Casa Pino, key -- paymenttype, error -- list index out of range 
+hotel name --- EKOSTAY - Gold -Casa Pino, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Little India Beach Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Little India Beach Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ShivSangit HomeStay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Spazio Leisure Resort, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Spazio Leisure Resort, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Palolem Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Palolem Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- AYM Yoga Resort Arambol GOA, key -- cancelType, error -- list index out of range 
+hotel name --- AYM Yoga Resort Arambol GOA, key -- paymenttype, error -- list index out of range 
+hotel name --- AYM Yoga Resort Arambol GOA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- St. Jacinto Island VillaBayViewPoolGoa Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- St. Jacinto Island VillaBayViewPoolGoa Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sun & Sand, key -- paymenttype, error -- list index out of range 
+hotel name --- Sun & Sand, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bogmallo Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Bogmallo Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SHANKAR by the SEA, 2 min from Mandrem Beach, key -- cancelType, error -- list index out of range 
+hotel name --- SHANKAR by the SEA, 2 min from Mandrem Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- SHANKAR by the SEA, 2 min from Mandrem Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SAHAY VILLA RESORT, key -- paymenttype, error -- list index out of range 
+hotel name --- SAHAY VILLA RESORT, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Mer Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- La Mer Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Arambol Bliss, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Stone Wood Riverfront Resort, Siolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Stone Wood Riverfront Resort, Siolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ginger Goa, Panjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Goa, Panjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Lotus, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Lotus, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort Palmeiras Dourado, key -- paymenttype, error -- list index out of range 
+hotel name --- Resort Palmeiras Dourado, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Shivam Resort By The Four Season Hotels & Resort -1 km from Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Village Susegat Beach Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Village Susegat Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Village Susegat Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKOSTAY Luxe I Avante Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- EKOSTAY Luxe I Avante Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Ave Maria GuestHouse and Family Restaurant colva, key -- paymenttype, error -- list index out of range 
+hotel name --- Beach Ave Maria GuestHouse and Family Restaurant colva, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Godwill Kimo Guest house Seraulim, key -- paymenttype, error -- list index out of range 
+hotel name --- Godwill Kimo Guest house Seraulim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Risa Estate, key -- paymenttype, error -- list index out of range 
+hotel name --- La Risa Estate, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hospedaria Abrigo De Botelho, key -- cancelType, error -- list index out of range 
+hotel name --- Hospedaria Abrigo De Botelho, key -- paymenttype, error -- list index out of range 
+hotel name --- Hospedaria Abrigo De Botelho, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Exotic star 1 BHK 2BHK Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Raposo Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Raposo Resorts, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- OIA GOA - Private Pool, key -- cancelType, error -- list index out of range 
+hotel name --- OIA GOA - Private Pool, key -- paymenttype, error -- list index out of range 
+hotel name --- OIA GOA - Private Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Somy Plaza Calangute Goa - Formerly Somy Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Somy Plaza Calangute Goa - Formerly Somy Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Swimup - Suites with private pool , Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Swimup - Suites with private pool , Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Lands End Beach Resort Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Shakti Palace - Nr Ponda, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Shakti Palace - Nr Ponda, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bloom Boutique Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Boutique Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Tamarind Hotel Anjuna Assagao, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- House Of Brothers, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mehar Rooms, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sonesta Inns Beach Resort - Candolim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Sonesta Inns Beach Resort - Candolim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Moustache Goa Luxuria, key -- paymenttype, error -- list index out of range 
+hotel name --- Moustache Goa Luxuria, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fortune Miramar, Goa - Member ITC Hotels' Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Miramar, Goa - Member ITC Hotels' Group, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Collection O Calangute Near St Anthony Chapel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Happy Moon Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Happy Moon Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Happy Moon Homestay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Neo Villas at Vagator By Goaround Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Neo Villas at Vagator By Goaround Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ourem Palace, key -- paymenttype, error -- list index out of range 
+hotel name --- Ourem Palace, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bloom Hotel - Dona Paula, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - Dona Paula, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Crown Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Crown Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Grace Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Margaritas Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nikita Stay Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabEscape Vagator Retreat Resort With Swimming Pool - Nr Vagator Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabEscape Vagator Retreat Resort With Swimming Pool - Nr Vagator Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vihasta Sunrise Hotel By RR Enterprises, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Collection O Bay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sun-kissed Holidays Goa-Sapphire, key -- cancelType, error -- list index out of range 
+hotel name --- Sun-kissed Holidays Goa-Sapphire, key -- paymenttype, error -- list index out of range 
+hotel name --- Sun-kissed Holidays Goa-Sapphire, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Estoria, Goa -IHCL SeleQtions, key -- paymenttype, error -- list index out of range 
+hotel name --- La Estoria, Goa -IHCL SeleQtions, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Xec Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sunset Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Sunset Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Country View Cottage Colva, key -- paymenttype, error -- list index out of range 
+hotel name --- Country View Cottage Colva, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fahrenheit Hotels & Resorts, key -- cancelType, error -- list index out of range 
+hotel name --- Fahrenheit Hotels & Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Fahrenheit Hotels & Resorts, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Athome Comforts, key -- paymenttype, error -- list index out of range 
+hotel name --- Athome Comforts, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel pine house, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Studio and One bedroom Apartment in Riviera Sapphire, Siolim, key -- cancelType, error -- list index out of range 
+hotel name --- Studio and One bedroom Apartment in Riviera Sapphire, Siolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Studio and One bedroom Apartment in Riviera Sapphire, Siolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Seclude Eco Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Seclude Eco Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- God's Gift Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- God's Gift Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The southern Soul Beach Resort -close to calangute beach Managed By Shivam Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Craft Hostels, key -- cancelType, error -- list index out of range 
+hotel name --- Craft Hostels, key -- paymenttype, error -- list index out of range 
+hotel name --- Craft Hostels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Martins Comfort, key -- paymenttype, error -- list index out of range 
+hotel name --- Martins Comfort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Oceanic - Luxury Boutique Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Oceanic - Luxury Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Oceanic - Luxury Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mariposa Beach Grove, key -- paymenttype, error -- list index out of range 
+hotel name --- Mariposa Beach Grove, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKOSTAY Gold - CASA PORTO Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- EKOSTAY Gold - CASA PORTO Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aranya Abode, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Indie Stays Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Indie Stays Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Indie Stays Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Calangute Beach St. Anthony's Chapel Formerly Hotel Sun & Sea, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Calangute Beach St. Anthony's Chapel Formerly Hotel Sun & Sea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Comfort Stays - Nr Miramar Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Comfort Stays - Nr Miramar Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Michèle's Garden, key -- cancelType, error -- list index out of range 
+hotel name --- Michèle's Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- Michèle's Garden, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 2BHK Villa with Swimming Pool Near Calangute & Baga, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxury 2BHK Villa with Swimming Pool Near Calangute & Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury Aveeno Resort Near Calangute and Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lemonmint Svelton Manor, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemonmint Svelton Manor, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Raaj Inn studio's, key -- cancelType, error -- list index out of range 
+hotel name --- Raaj Inn studio's, key -- paymenttype, error -- list index out of range 
+hotel name --- Raaj Inn studio's, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Whiteflower Resort Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Whiteflower Resort Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jardin d'Ulysse & Hard Rock, key -- paymenttype, error -- list index out of range 
+hotel name --- Jardin d'Ulysse & Hard Rock, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Argo by Trance, key -- cancelType, error -- list index out of range 
+hotel name --- Argo by Trance, key -- paymenttype, error -- list index out of range 
+hotel name --- Argo by Trance, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Postcard Velha, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Postcard Velha, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riviera Hermitage, key -- paymenttype, error -- list index out of range 
+hotel name --- Riviera Hermitage, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Zanita Heights Seaview Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Zanita Heights Seaview Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Golden Rice Resort & Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Golden Rice Resort & Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Avasa Grand - Nr Big Daddy Casino, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Avasa Grand - Nr Big Daddy Casino, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Alaya Stays 2 BHK with Balcony & Lift - Veera Marina, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- JAQK Holidays - 9BHK Villa for Big Groups, Private Pool-WiFi-Cartaker-Parking, North Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- JAQK Holidays - 9BHK Villa for Big Groups, Private Pool-WiFi-Cartaker-Parking, North Goa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- JAQK Holidays - 9BHK Villa for Big Groups, Private Pool-WiFi-Cartaker-Parking, North Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cocó Villa - 3 BHK Private Sea View Villa with Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- Cocó Villa - 3 BHK Private Sea View Villa with Garden, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Majestic Palms, 2 Km From Colva Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Collection O Gauravaddo Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Barbosa, 2 BHK Villa & Luxury Rooms near Colva, Sernabatim, Benaulim Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Barbosa, 2 BHK Villa & Luxury Rooms near Colva, Sernabatim, Benaulim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Barbosa, 2 BHK Villa & Luxury Rooms near Colva, Sernabatim, Benaulim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Neev Beach View Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort Coqueiral, key -- paymenttype, error -- list index out of range 
+hotel name --- Resort Coqueiral, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- El Raso Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- El Raso Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- NAMAKA, Morjim & Ashwem Beach 5 min, key -- cancelType, error -- list index out of range 
+hotel name --- NAMAKA, Morjim & Ashwem Beach 5 min, key -- paymenttype, error -- list index out of range 
+hotel name --- NAMAKA, Morjim & Ashwem Beach 5 min, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Knox, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Knox, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Knox, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rainforest - Casa Azure 5 Min walk to the beach, key -- cancelType, error -- list index out of range 
+hotel name --- Rainforest - Casa Azure 5 Min walk to the beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Rainforest - Casa Azure 5 Min walk to the beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riviera Sublime Holiday Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Riviera Sublime Holiday Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Riviera Sublime Holiday Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 2BHK Apartment Near Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Byke Old Anchor Beach Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Byke Old Anchor Beach Resort & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beachfront pool villa Myconos, key -- paymenttype, error -- list index out of range 
+hotel name --- Beachfront pool villa Myconos, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Chillouts Morjim Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Collection O Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Royale Exotica, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Royale Exotica, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- TP cottages Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fatima Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Fatima Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Coastal Suites Apart Hotel ---- 8 minutes walk to beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Coastal Suites Apart Hotel ---- 8 minutes walk to beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Quinta da Branca - near baga beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Quinta da Branca - near baga beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Albuquerque BetterHomes, Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Albuquerque BetterHomes, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Albuquerque BetterHomes, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Cavelossim, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Cavelossim, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Cavelossim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beachway, GuestHouse, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Perfectstayz Goa Continental Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 3bhk Duplex Villa With Pool In Candolim by GRStays, key -- paymenttype, error -- list index out of range 
+hotel name --- 3bhk Duplex Villa With Pool In Candolim by GRStays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Da Village Calangute Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Casa Da Village Calangute Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Da Village Calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Mandarin Hotel Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- De Mandarin Hotel Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel City Comfort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ocean Way Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Ocean Way Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Shalom Luxury Apartment and Villa Colva, key -- paymenttype, error -- list index out of range 
+hotel name --- Beach Shalom Luxury Apartment and Villa Colva, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Eirene By Zenaway Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Eirene By Zenaway Stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sea La Vie Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Sea La Vie Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Salty Waves Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Salty Waves Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Arabian Sea Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Candolim Beach Apartments Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKOSTAY - Bliss Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- EKOSTAY - Bliss Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Garland Palolem - AM Hotel Kollection, key -- paymenttype, error -- list index out of range 
+hotel name --- De Garland Palolem - AM Hotel Kollection, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Esha Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Esha Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 1bhk with Bathtub Pool near Calangute Baga Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxury 1bhk with Bathtub Pool near Calangute Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lembranca Studios & Suites Near Famous FLOATING CASINOS of Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Lembranca Studios & Suites Near Famous FLOATING CASINOS of Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rainforest Enclave, Arpora - 10 mins to Baga beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Rainforest Enclave, Arpora - 10 mins to Baga beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- CALANGUTE BEACH VILLA # 3BHk # POOL # KITCHEN # 300MTS TO BEACH by GR Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- CALANGUTE BEACH VILLA # 3BHk # POOL # KITCHEN # 300MTS TO BEACH by GR Stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- All Seasons Guest House I Rooms & Dorms, key -- cancelType, error -- list index out of range 
+hotel name --- All Seasons Guest House I Rooms & Dorms, key -- paymenttype, error -- list index out of range 
+hotel name --- All Seasons Guest House I Rooms & Dorms, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Dolphin service apptment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Echor Samara Morjim Goa Sea view Restro, key -- paymenttype, error -- list index out of range 
+hotel name --- Echor Samara Morjim Goa Sea view Restro, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Garden Aroma Palolem, Beachside Hostel & Cafe Bar, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Yoyo Cottage With Pool - Nr Chapora Fort, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Yoyo Cottage With Pool - Nr Chapora Fort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Shikara Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Shikara Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Yash-Deep 100 Meter Calangute Beach Walking, key -- paymenttype, error -- list index out of range 
+hotel name --- Yash-Deep 100 Meter Calangute Beach Walking, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Retreat Villa, key -- cancelType, error -- list index out of range 
+hotel name --- Beach Retreat Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Beach Retreat Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sanman Hotels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fig House Anjuna-Chapora Road , Siolim 1BHK Suite, key -- paymenttype, error -- list index out of range 
+hotel name --- Fig House Anjuna-Chapora Road , Siolim 1BHK Suite, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nasya's Beach Side Cottages, key -- cancelType, error -- list index out of range 
+hotel name --- Nasya's Beach Side Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Nasya's Beach Side Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- GoaVillagersHouser, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Honeydew Suites By Goaround Homes- Vagator, North Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Honeydew Suites By Goaround Homes- Vagator, North Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- EKOSTAY Luxe - Casa Marina, key -- paymenttype, error -- list index out of range 
+hotel name --- EKOSTAY Luxe - Casa Marina, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Magnum Resorts- Near Candolim Beach, Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Magnum Resorts- Near Candolim Beach, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Magnum Resorts- Near Candolim Beach, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Grand Royal By Casa Dos Reis, 400M From Candolim Beach, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ramada by Wyndham Goa Arpora, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Flora Grand, Vasco, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Flora Grand, Vasco, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Hotel O The Goan Courtyard, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort Primo Bom Terra Verde, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Salvador, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Salvador, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- White Wood Resort By Stone Wood Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- White Wood Resort By Stone Wood Hotels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Prime Supreme Grande With Pool - 300M From Calangute Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Supreme Grande With Pool - 300M From Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Joaquim Beachside Resort - Nr Tito's Lane, Baga Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Joaquim Beachside Resort - Nr Tito's Lane, Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Serenova by Dia Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Serenova by Dia Hotels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Albuquerque, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Albuquerque, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2 Bedroom Apartment in Resort on Candolim Beach, key -- cancelType, error -- list index out of range 
+hotel name --- 2 Bedroom Apartment in Resort on Candolim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- 2 Bedroom Apartment in Resort on Candolim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ronne's 2Bhk vacation rental near Baga Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Ronne's 2Bhk vacation rental near Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- GR Stays WHITE HOUSE 4bhk Private Pool Villa in Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- GR Stays WHITE HOUSE 4bhk Private Pool Villa in Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa de Amor, key -- cancelType, error -- list index out of range 
+hotel name --- Casa de Amor, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa de Amor, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Serene Waters Homestay Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Serene Waters Homestay Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RashNik Villas & Reosrt Anjuna with pool & kitchen, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Kimaya - By the Sea, key -- paymenttype, error -- list index out of range 
+hotel name --- The Kimaya - By the Sea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Baga Village-TBV, key -- paymenttype, error -- list index out of range 
+hotel name --- The Baga Village-TBV, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jackson's Beach House Calangute, key -- cancelType, error -- list index out of range 
+hotel name --- Jackson's Beach House Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Jackson's Beach House Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sun Kissed Holidays Dabolim Goa Gold, key -- cancelType, error -- list index out of range 
+hotel name --- Sun Kissed Holidays Dabolim Goa Gold, key -- paymenttype, error -- list index out of range 
+hotel name --- Sun Kissed Holidays Dabolim Goa Gold, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riviera Residency luxury apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Riviera Residency luxury apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Marquis Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Marquis Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Baga Homes Stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Fern Kesarval Hotel & Spa, Verna Plateau - Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Fern Kesarval Hotel & Spa, Verna Plateau - Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Gabriels beach resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- El Reino Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- El Reino Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bloomrooms Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloomrooms Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ramada by Wyndham Goa Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Ramada by Wyndham Goa Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sibaya Beach Resort, Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Sibaya Beach Resort, Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Kiara Hotel Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- D7 La Serene, key -- paymenttype, error -- list index out of range 
+hotel name --- D7 La Serene, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Ocean Face, BAGA, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ocean Face, BAGA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- White Truffle Resort, Arambol, key -- paymenttype, error -- list index out of range 
+hotel name --- White Truffle Resort, Arambol, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Brushwood Villa- Cottages and Bar, key -- paymenttype, error -- list index out of range 
+hotel name --- Brushwood Villa- Cottages and Bar, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabExpress Corinthia Boutique Rooms - Nr Candolim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Corinthia Boutique Rooms - Nr Candolim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Quirky stays- 2bhk, Pool,Kitchen,Wifi Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Brit's Palace Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Brit's Palace Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Namaste Jungle - A Boutique Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Namaste Jungle - A Boutique Homestay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Anjuna Hideout, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Prive by Whiteflower, key -- paymenttype, error -- list index out of range 
+hotel name --- Prive by Whiteflower, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Falcon Resorts by Dia Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Falcon Resorts by Dia Hotels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa Art Hostels, key -- paymenttype, error -- list index out of range 
+hotel name --- Goa Art Hostels, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- XRP Candolim Holidays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cozywoods Hill Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Cozywoods Hill Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fortune Select Candolim, Goa - Member ITC Hotels' Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Select Candolim, Goa - Member ITC Hotels' Group, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aura rooms & swimming pool, calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rock 99 Stay Calangute GOA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Captivating Tree and Garden Views One Bedroom Apartment with AC,wifi, Gym and 5min walk to beach, key -- cancelType, error -- list index out of range 
+hotel name --- Captivating Tree and Garden Views One Bedroom Apartment with AC,wifi, Gym and 5min walk to beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Captivating Tree and Garden Views One Bedroom Apartment with AC,wifi, Gym and 5min walk to beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Captivating Tree and Garden Views One Bedroom Apartment with AC,wifi, Gym and 5min walk to beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Artist Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- The Artist Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Yellow Sky, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabExpress Golden Nest Deluxe - Nr Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RNB Beach Stay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Townhouse Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aamra Ghar by evaddo, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ocean Walk Apartments 2BHK, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort Three Story Baga GOA, key -- cancelType, error -- list index out of range 
+hotel name --- Resort Three Story Baga GOA, key -- paymenttype, error -- list index out of range 
+hotel name --- Resort Three Story Baga GOA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Portuguese Villa at Anjuna Beach by Goaround Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Portuguese Villa at Anjuna Beach by Goaround Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Portuguese Villa at Anjuna Beach by Goaround Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Prime The King's Court - Nr Calangute Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime The King's Court - Nr Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Itsy Hotels Vailankanni Natures Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Harmony By Heaven, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 'Villa Ocean Morron' 4bhk villa with Private Pool Baga Beach Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Baga Domingo-TBV, key -- paymenttype, error -- list index out of range 
+hotel name --- The Baga Domingo-TBV, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 3BHK Villa with Private Pool near Anjuna, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxury 3BHK Villa with Private Pool near Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Field stone Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cloud9 Sarovar Premiere Palomen Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2BHK Apartment In Colva 1 km to the beach, key -- cancelType, error -- list index out of range 
+hotel name --- 2BHK Apartment In Colva 1 km to the beach, key -- paymenttype, error -- list index out of range 
+hotel name --- 2BHK Apartment In Colva 1 km to the beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2BHK Apartment In Colva 1 km to the beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Locomo Boutique, Morjim - Stay Work Eat, key -- paymenttype, error -- list index out of range 
+hotel name --- Locomo Boutique, Morjim - Stay Work Eat, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Santa Monica Resort - Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Santa Monica Resort - Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rosa Bella Resort-TBV, key -- paymenttype, error -- list index out of range 
+hotel name --- Rosa Bella Resort-TBV, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Turquoise 5bhk Villa in Arpora 5mins to Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Turquoise 5bhk Villa in Arpora 5mins to Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riva Gold Coast, key -- paymenttype, error -- list index out of range 
+hotel name --- Riva Gold Coast, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lotus Sutra, key -- cancelType, error -- list index out of range 
+hotel name --- Lotus Sutra, key -- paymenttype, error -- list index out of range 
+hotel name --- Lotus Sutra, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Waterfront Beach Villa In Baga with Private Pool, key -- paymenttype, error -- list index out of range 
+hotel name --- Waterfront Beach Villa In Baga with Private Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Tobias Villas, key -- cancelType, error -- list index out of range 
+hotel name --- Tobias Villas, key -- paymenttype, error -- list index out of range 
+hotel name --- Tobias Villas, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Large 1BHK Apartment by tisyastays, key -- paymenttype, error -- list index out of range 
+hotel name --- Large 1BHK Apartment by tisyastays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- GR STAYS 4bhk Beautiful Villa In Arpora 5 mins to Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- GR STAYS 4bhk Beautiful Villa In Arpora 5 mins to Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Woodside Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Woodside Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aariv Inn BAGA BEACH, key -- paymenttype, error -- list index out of range 
+hotel name --- Aariv Inn BAGA BEACH, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cocos Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Cocos Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Acron Candolim Regina, key -- paymenttype, error -- list index out of range 
+hotel name --- Acron Candolim Regina, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Waves Of The Sea Board - Nr Calangute Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Waves Of The Sea Board - Nr Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Candolim Beach White Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- D'Retreat 1BHK Apartment by tisyastays, key -- paymenttype, error -- list index out of range 
+hotel name --- D'Retreat 1BHK Apartment by tisyastays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1 BHK Luxury Beachside Homestay in South Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- 1 BHK Luxury Beachside Homestay in South Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Grace Homestay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa NAMAKA, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa NAMAKA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Savita Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Stayscape Casa Santorini 4BHK Lonavala, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calux Joia Do Mar Resort - Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Calux Joia Do Mar Resort - Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa - Sea Breeze Villa - 3bhk with 2Private Pools, key -- paymenttype, error -- list index out of range 
+hotel name --- Goa - Sea Breeze Villa - 3bhk with 2Private Pools, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Goa - Sea Breeze Villa - 3bhk with 2Private Pools, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa Crescent Resort - A Hilltop Seaview Escape, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Goa Crescent Resort - A Hilltop Seaview Escape, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mariners Bay Beach Resort Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mariners Bay Beach Resort Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Orabella Villas & Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Orabella Villas & Suites, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Guesthouse Sakina Colva, key -- paymenttype, error -- list index out of range 
+hotel name --- Guesthouse Sakina Colva, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sportsman Beach Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1 BHK Near Varca Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- OV Private Pool Villas near Baga, I 4BHK units I Staff, key -- cancelType, error -- list index out of range 
+hotel name --- OV Private Pool Villas near Baga, I 4BHK units I Staff, key -- paymenttype, error -- list index out of range 
+hotel name --- OV Private Pool Villas near Baga, I 4BHK units I Staff, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Oceanic Pearl Beach Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury Sea View 4BHK Villa with Private Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lavish Apartments With Swimming Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Ocean Way, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beach Apartments Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Maria Comfort Stay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Red Sea Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Red Sea Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Grace 2BHK Holiday Home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sea Breeze Sarovar Portico Varca Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Gulmohar Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SaffronStays Tudor San Ann, key -- paymenttype, error -- list index out of range 
+hotel name --- SaffronStays Tudor San Ann, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beach Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Baga Beach Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Baga Beach Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Amazing Pool View Candolim Goa 2BHK Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Amazing Pool View Candolim Goa 2BHK Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa calangute beach villa 4bhk, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Welcome2Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riveria Foothills & Residency Apartments, key -- cancelType, error -- list index out of range 
+hotel name --- Riveria Foothills & Residency Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Riveria Foothills & Residency Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Capital O Coco Farm Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Baga Pescador-TBV, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Bungalow Bogmalo An 1880 Indo Portuguese Heritage Beach Villa South Goa, key -- cancelType, error -- list index out of range 
+hotel name --- The Bungalow Bogmalo An 1880 Indo Portuguese Heritage Beach Villa South Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Bungalow Bogmalo An 1880 Indo Portuguese Heritage Beach Villa South Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabExpress MA Homes - Nr Morjim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress MA Homes - Nr Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Candoliam Cottages and Deluxe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Candoliam Cottages and Deluxe, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- J Valley, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Fatima's Guesthouse, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Alexmarie Guest house 5 min to candolim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Alexmarie Guest house 5 min to candolim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Eternal Wave by Krish Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- The Eternal Wave by Krish Retreat, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Royal Adobe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Royal Adobe, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Shangri-La by tisyastays, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Shangri-La by tisyastays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Shangri-La by tisyastays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Collection O Calangute - Baga Circle, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Collection O Calangute - Baga Circle, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- LuxuryStays Imperial Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- LuxuryStays Imperial Suites, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ginger Dona Paula, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Dona Paula, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Capital O The Great Ocean View, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Dona Rosa Holiday Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Dona Rosa Holiday Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Agosto @Aansav Verde Fatrade Varca GOA 3 BR Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Agosto @Aansav Verde Fatrade Varca GOA 3 BR Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Talpona Beach Studios, key -- paymenttype, error -- list index out of range 
+hotel name --- Talpona Beach Studios, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 'Golden Coral' 2bhk Benaulim Beach villa Goa, key -- cancelType, error -- list index out of range 
+hotel name --- 'Golden Coral' 2bhk Benaulim Beach villa Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- 'Golden Coral' 2bhk Benaulim Beach villa Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- TATA Rio De Goa ,Good Stay 1 BHK Apartment,10 min from Airport, 604, key -- paymenttype, error -- list index out of range 
+hotel name --- TATA Rio De Goa ,Good Stay 1 BHK Apartment,10 min from Airport, 604, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Grand Continent Anjuna A Sarovar Portico Affiliate Hotel near Anjuna and Vagator Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Shonarbangla, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Studio Appartment 1RK WITH KITCHEN WIFI by GoanFiesta CALANGUTE, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nistula Luxury Villa C1 with Private Pool in Assagao, key -- cancelType, error -- list index out of range 
+hotel name --- Nistula Luxury Villa C1 with Private Pool in Assagao, key -- paymenttype, error -- list index out of range 
+hotel name --- Nistula Luxury Villa C1 with Private Pool in Assagao, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- HOTEL PREMIUM TRAVELLERS # iNN Near Temple - Fully Air Conditioning Hotel - Hygiene And Spacious Room - A Top Rated Luxuary Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Plaza de Araujo, key -- cancelType, error -- list index out of range 
+hotel name --- Plaza de Araujo, key -- paymenttype, error -- list index out of range 
+hotel name --- Plaza de Araujo, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cozy 2BHK Pool Apartment in candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Turtle Beach Resort - Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Turtle Beach Resort - Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Kyle Calangute 1 bhk luxury apartment with pool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kyle Calangute 1 bhk luxury apartment with pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Avenue, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Joel's River Wood, key -- paymenttype, error -- list index out of range 
+hotel name --- Joel's River Wood, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Anjuna Beach Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Anjuna Beach Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- AR APARTMENTS & VILLAS - Assagao, key -- paymenttype, error -- list index out of range 
+hotel name --- AR APARTMENTS & VILLAS - Assagao, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 'Golden Sunset' 3bhk beach villa, key -- cancelType, error -- list index out of range 
+hotel name --- 'Golden Sunset' 3bhk beach villa, key -- paymenttype, error -- list index out of range 
+hotel name --- 'Golden Sunset' 3bhk beach villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nirvana - Cozy Aprartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RJ14 Accommodations at Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Ben Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Estrela Do Mar Beach Resort - A Beach Property, key -- paymenttype, error -- list index out of range 
+hotel name --- Estrela Do Mar Beach Resort - A Beach Property, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 3-BHK Villa with infinity Pool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxury 3-BHK Villa with infinity Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Beach Corner, key -- paymenttype, error -- list index out of range 
+hotel name --- Calangute Beach Corner, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Tata Housing Rio De Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Tata Housing Rio De Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel La Volga - Nr Morjim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel La Volga - Nr Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- CASA SOMANJO INN, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Shivam Bnb Mandrem Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Shivam Bnb Mandrem Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Patnem Beach Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Patnem Beach Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rustic Village - By Rivasa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Crystal Village, key -- paymenttype, error -- list index out of range 
+hotel name --- Crystal Village, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 2BHK Apartment By Bluewave Hospitality, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Hotel O Porvorim, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Hotel O Porvorim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Candolim Beach Bay villas and Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- StayVista at Saanu Ki Villa with free Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Saanu Ki Villa with free Breakfast, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Apartments Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- W2G Beach Front Stay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Telferk Acron Seawinds Apartment- Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Telferk Acron Seawinds Apartment- Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Areia De Goa - Sunset By Leela Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Areia De Goa - Sunset By Leela Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Areia De Goa - Sunset By Leela Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Patnem Beach park, key -- paymenttype, error -- list index out of range 
+hotel name --- Patnem Beach park, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Heritage Exotica Villa - 3BHK, key -- paymenttype, error -- list index out of range 
+hotel name --- Heritage Exotica Villa - 3BHK, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Heritage Exotica Villa - 3BHK, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 12 Monks - Beachfront Hostel, key -- paymenttype, error -- list index out of range 
+hotel name --- 12 Monks - Beachfront Hostel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- TAN-N-SAND, key -- paymenttype, error -- list index out of range 
+hotel name --- TAN-N-SAND, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Maison by Dia Hotels and Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- La Maison by Dia Hotels and Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga View Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Royal Oasis Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Oceanara 2Room studio & lounge terrace, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lavish 2BHK Apartment with Swimming Pool in Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- White Wharf Beach Resort Morjim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- White Wharf Beach Resort Morjim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 'Golden Sea Shell' 1 bhk Beach apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- 'Golden Sea Shell' 1 bhk Beach apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Etereo Stays, Luxury Premium Apartments Baga, Arpora, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Etereo Stays, Luxury Premium Apartments Baga, Arpora, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2bhk cozy apt near baina beach, key -- cancelType, error -- list index out of range 
+hotel name --- 2bhk cozy apt near baina beach, key -- paymenttype, error -- list index out of range 
+hotel name --- 2bhk cozy apt near baina beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Kites Hostel and Rooms Goa - Near to Vagator Beach and Hilltop - Fine Dine Restaurant, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- A's Holiday Beach Resort, key -- cancelType, error -- list index out of range 
+hotel name --- A's Holiday Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- A's Holiday Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Premium 2BHK -10 min to GOI airport & beach -Pool access -Balcony with city view, key -- paymenttype, error -- list index out of range 
+hotel name --- Premium 2BHK -10 min to GOI airport & beach -Pool access -Balcony with city view, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Angels Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa De Monique, key -- cancelType, error -- list index out of range 
+hotel name --- Casa De Monique, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa De Monique, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 'Golden Sea Pearl' 1 bhk Beach apartment, key -- cancelType, error -- list index out of range 
+hotel name --- 'Golden Sea Pearl' 1 bhk Beach apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- 'Golden Sea Pearl' 1 bhk Beach apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Rose House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Benaulim Beach Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rustic Kraft, key -- paymenttype, error -- list index out of range 
+hotel name --- Rustic Kraft, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Amazing 2BHK Apartment Near Baga Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Amazing 2BHK Apartment Near Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Tropical Beach Walk, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Appy Holidays Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Beach House Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goodstay Sunlit Bliss Cozy2BHK with Luxe Touch704, key -- paymenttype, error -- list index out of range 
+hotel name --- Goodstay Sunlit Bliss Cozy2BHK with Luxe Touch704, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ELIVAAS House of Neptune 1 BHK Cottage on the Beach & Famous Cafes, Restros, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Small Daddy INN, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Tata Housing -Garden & pool view-6KM from Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Tata Housing -Garden & pool view-6KM from Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Holy place, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mariners Bay Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Mariners Bay Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Royal Casa Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- lovely 2-bedroom sea view serviced apartment dabolim goa, key -- paymenttype, error -- list index out of range 
+hotel name --- lovely 2-bedroom sea view serviced apartment dabolim goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Eternal Wave Calangute 204, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Eternal Wave Calangute 204, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Saudades Homestays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bliss Holiday In, key -- paymenttype, error -- list index out of range 
+hotel name --- Bliss Holiday In, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Center Court Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Center Court Resort & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bayview Cottage Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Golden Waves Holidays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Serenity Casa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Apricot Homestays, key -- paymenttype, error -- list index out of range 
+hotel name --- Apricot Homestays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Beach Palms, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jungle Book Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Jungle Book Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Anjuna, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Vista, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mellow 2BHK Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Goa-Suites 2bhk Premium apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Ocean View Apartment - Nr Dabolim Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ocean View Apartment - Nr Dabolim Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Apartment 1,COLVA, GOA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Apartment 2,COLVA , GOA, INDIA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Beach Way, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rockit Cafe & Stay Palolem, key -- cancelType, error -- list index out of range 
+hotel name --- Rockit Cafe & Stay Palolem, key -- paymenttype, error -- list index out of range 
+hotel name --- Rockit Cafe & Stay Palolem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Casita Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabExpress Coco Goa Resort - Nr Baga Night Market, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Coco Goa Resort - Nr Baga Night Market, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Royale Holiday Villa - 4BHK, Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Royale Holiday Villa - 4BHK, Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cochichos Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Silver Sands Serenity Resort, Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Silver Sands Serenity Resort, Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Richita resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Palm Shades Spring, key -- paymenttype, error -- list index out of range 
+hotel name --- Palm Shades Spring, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beach Paradise, key -- cancelType, error -- list index out of range 
+hotel name --- Baga Beach Paradise, key -- paymenttype, error -- list index out of range 
+hotel name --- Baga Beach Paradise, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Quirkystays- 2bhk with Swimming pool & kitchen, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Quirkystays- 2bhk with Swimming pool & kitchen, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Collection O Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vaayu Kula mandrem, key -- cancelType, error -- list index out of range 
+hotel name --- Vaayu Kula mandrem, key -- paymenttype, error -- list index out of range 
+hotel name --- Vaayu Kula mandrem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 5 BHK Villa,1BHK Villa, Goa Garden Resort, South Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- 5 BHK Villa,1BHK Villa, Goa Garden Resort, South Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sand Tent Beach House PALOLEM, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ronne's 3BHK Apartment with kitchen at calangute beach, key -- cancelType, error -- list index out of range 
+hotel name --- Ronne's 3BHK Apartment with kitchen at calangute beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Ronne's 3BHK Apartment with kitchen at calangute beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Heritage Nirvana Villa - 4BHK, Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Heritage Nirvana Villa - 4BHK, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baagh House Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Baagh House Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Kivi's kozy 2bhk luxurious apartment Goa by leela homes, key -- cancelType, error -- list index out of range 
+hotel name --- Kivi's kozy 2bhk luxurious apartment Goa by leela homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Kivi's kozy 2bhk luxurious apartment Goa by leela homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury Stay at Varca, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beach Palms, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2bhk Ikigai Apartment at Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Benaulim Coastal Meadows, 1BHK, swimming pool, 2 min walking to beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Alba Rooms Palolem Rosebuds, key -- paymenttype, error -- list index out of range 
+hotel name --- Alba Rooms Palolem Rosebuds, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Hive Goa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Beach Hive Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Premium Luxury -1BHK at Candolim Beach with Free Wifi and Pool, key -- paymenttype, error -- list index out of range 
+hotel name --- Premium Luxury -1BHK at Candolim Beach with Free Wifi and Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2BHK with Kitchen, Swimming Pool and 2 Mins walk to beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vagator Downtown By VDP, key -- cancelType, error -- list index out of range 
+hotel name --- Vagator Downtown By VDP, key -- paymenttype, error -- list index out of range 
+hotel name --- Vagator Downtown By VDP, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1 BHK Deluxe Apartment in Candolim by GR Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- 1 BHK Deluxe Apartment in Candolim by GR Stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Amazing Hilltop 3BHK Villa with Swimming Pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury 2BHK Apartment in Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Amritara Aura Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Amritara Aura Resort & Spa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2 bhk resort with pool calangute candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nature of Arambol, key -- cancelType, error -- list index out of range 
+hotel name --- Nature of Arambol, key -- paymenttype, error -- list index out of range 
+hotel name --- Nature of Arambol, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Garden Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Garden Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Big House Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mystic 2BHK, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Viva Hotel Near Madgaon Railway Station, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SortBy Stays, Anjuna, key -- paymenttype, error -- list index out of range 
+hotel name --- SortBy Stays, Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Baga beach place, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ELIVAAS 4 BHK with Pvt Pool near Baga - Celest, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Byke Royal Pearl Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Wildflower Villas - All Villa Hotel, Family Run, key -- paymenttype, error -- list index out of range 
+hotel name --- Wildflower Villas - All Villa Hotel, Family Run, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Habitus Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Habitus Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Alaya Stays 3 BHK Apartment with Pool - Veera Marina, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Margarida, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sort By Stays, Grand Peddem, Anjuna, key -- paymenttype, error -- list index out of range 
+hotel name --- Sort By Stays, Grand Peddem, Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Amadi Beach Front Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Amadi Beach Front Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Amadi Beach Front Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riviera Hermitage, key -- cancelType, error -- list index out of range 
+hotel name --- Riviera Hermitage, key -- paymenttype, error -- list index out of range 
+hotel name --- Riviera Hermitage, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Baga beach 24in, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Sea Link, key -- cancelType, error -- list index out of range 
+hotel name --- Baga Sea Link, key -- paymenttype, error -- list index out of range 
+hotel name --- Baga Sea Link, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Alekhya Suites - Panaji, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1BHK AC Apartment 500m from Cavelossim Beach-Sussegado, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Azalea by Stone Wood Premier, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2bhk Apartment - Siolim, Goa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2bhk Apartment - Siolim, Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- HALF Hotel, Calangute, key -- cancelType, error -- list index out of range 
+hotel name --- HALF Hotel, Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- HALF Hotel, Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Calangute Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Boutique Swaastig GOA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Baga Bay 200 Meters From Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 3BHK Luxury Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- 3BHK Luxury Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hilltop 4 BHK Villa with Private Pool in Candolim, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hilltop 4 BHK Villa with Private Pool in Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Esencia by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Esencia by VEO - Part of StayVista, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Stone Wood Beach Resort, Vagator, key -- paymenttype, error -- list index out of range 
+hotel name --- Stone Wood Beach Resort, Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vistara By The Beach Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Vistara By The Beach Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Vistara By The Beach Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Monsoon, key -- paymenttype, error -- list index out of range 
+hotel name --- Monsoon, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Primavera Holiday Homes-FAMILY RUN GOAN GUEST HOUSE, key -- cancelType, error -- list index out of range 
+hotel name --- Primavera Holiday Homes-FAMILY RUN GOAN GUEST HOUSE, key -- paymenttype, error -- list index out of range 
+hotel name --- Primavera Holiday Homes-FAMILY RUN GOAN GUEST HOUSE, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Seafinity, key -- paymenttype, error -- list index out of range 
+hotel name --- Baga Seafinity, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Anjoned Hostel & Cafe, key -- paymenttype, error -- list index out of range 
+hotel name --- Anjoned Hostel & Cafe, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Blue Tide Apartment - First-Party Homestay with Pool View, Near the Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Quirky Stays- 2bhk Villa - Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Marquito's Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Marquito's Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Burrow in South Goa., key -- paymenttype, error -- list index out of range 
+hotel name --- The Burrow in South Goa., key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Shanaya Holiday Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Oceans 7 Ashwem, key -- paymenttype, error -- list index out of range 
+hotel name --- Oceans 7 Ashwem, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mateus Boutique Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Mateus Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Mateus Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel innovation inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel innovation inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel MJ Beach Resort Baga, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel MJ Beach Resort Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel MJ Beach Resort Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bhoomi Sojourn Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Calangute Phase 1, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Calangute Phase 1, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Calangute Phase 1, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ederra Stays & Cafe, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Anjali Mahal Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Anjali Mahal Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Sava Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mayonna 2BHK Riverview Apartment Near Baga Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Mayonna 2BHK Riverview Apartment Near Baga Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mayonna 2BHK Riverview Apartment Near Baga Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Altrude By The Sea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Vaiencia Beach Resort, Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- La Vaiencia Beach Resort, Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Park Regis Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Park Regis Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Leelas Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabExpress Horizon Hideaway - Nr Anjuna Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Horizon Hideaway - Nr Anjuna Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- KD's Villa - North Goa, key -- cancelType, error -- list index out of range 
+hotel name --- KD's Villa - North Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- KD's Villa - North Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lar Amorosa Boutique Hotel - Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Lar Amorosa Boutique Hotel - Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Camelot Beach Resort - Baga, key -- cancelType, error -- list index out of range 
+hotel name --- The Camelot Beach Resort - Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- The Camelot Beach Resort - Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Safe Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Safe Home Stay, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Arambol Paradise by PSS Properties, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- GuruVilla by TriSam Villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa By The Beach Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Villa By The Beach Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa By The Beach Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Serendipity Goa - Apartments and Cafe, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Tropical inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beach Crystal, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Spectrum Hub beach side Studio Apartment - Candolim - Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Spectrum Hub beach side Studio Apartment - Candolim - Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Saffron Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Red Rock Arambol Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Calangute Beach Imperial, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SUNFLOWER HOMES - A Tropical Getaway, key -- paymenttype, error -- list index out of range 
+hotel name --- SUNFLOWER HOMES - A Tropical Getaway, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rihan Goa Holiday Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rihan Goa Holiday Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Coastal Pearl Hotel Miramar Panaji, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The golden villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxe Loft, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxe Loft, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxe Loft, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Paradise Village Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Paradise Village Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ELIVAAS 4 plus 1 BHK with Pvt pool - Amado Villa Shai, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Collection O Holy Cross Home Stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nirvan, key -- cancelType, error -- list index out of range 
+hotel name --- Nirvan, key -- paymenttype, error -- list index out of range 
+hotel name --- Nirvan, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Comforts By Balaji Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Kevin's House by TravelKrafts, key -- paymenttype, error -- list index out of range 
+hotel name --- Kevin's House by TravelKrafts, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sonikas Leisure, key -- paymenttype, error -- list index out of range 
+hotel name --- Sonikas Leisure, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Adamo The Bellus Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Adamo The Bellus Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Valerys Nest Bogmalo - Private villa near the beach and Dabolim airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1bhk studio apartment North Goa, key -- cancelType, error -- list index out of range 
+hotel name --- 1bhk studio apartment North Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- 1bhk studio apartment North Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jasmine Beach Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Jasmine Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Jasmine Beach Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jasmine Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Devdeep Porvorim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Helloworld Riverbank Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Helloworld Riverbank Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Baga Deck Comforts, key -- paymenttype, error -- list index out of range 
+hotel name --- De Baga Deck Comforts, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Narrow Way Edward Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jangala Baga Beach - French welcome, tropical garden, close to the beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Living Room Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Living Room Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Towers - AM Hotel Kollection, key -- paymenttype, error -- list index out of range 
+hotel name --- Calangute Towers - AM Hotel Kollection, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Kanvas Suites - Sun N Moon, key -- cancelType, error -- list index out of range 
+hotel name --- Kanvas Suites - Sun N Moon, key -- paymenttype, error -- list index out of range 
+hotel name --- Kanvas Suites - Sun N Moon, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Affcasa Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabHotel Elysian Heaven - Nr Morjim Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Elysian Heaven - Nr Morjim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rivasa Resort & Spa 5 mins to Calangute Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ronne's 2BHK Lagoon Apartment -Calangute, key -- cancelType, error -- list index out of range 
+hotel name --- Ronne's 2BHK Lagoon Apartment -Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Ronne's 2BHK Lagoon Apartment -Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Heritage Exotica 2BHK Apartment service apartments in goa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Heritage Exotica 2BHK Apartment service apartments in goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Bela Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Bela Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Donna, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Donna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Savera, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- O Hotel Goa, Candolim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- O Hotel Goa, Candolim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Star Home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RK island view villa, key -- paymenttype, error -- list index out of range 
+hotel name --- RK island view villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- CANDOLIM BEACH VILLA # 3BHK # POOL # KITCHEN # 300Mts to Beach by GR stays, key -- paymenttype, error -- list index out of range 
+hotel name --- CANDOLIM BEACH VILLA # 3BHK # POOL # KITCHEN # 300Mts to Beach by GR stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Arcadia, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Marigold, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Marigold, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Marigold, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Wayne's Nest Calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Dimar Beach Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vagator Beachside Studio Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Vagator Beachside Studio Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Vagator Beachside Studio Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Hammock Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Hammock Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 'Golden Sea Breeze' Beach villa, key -- cancelType, error -- list index out of range 
+hotel name --- 'Golden Sea Breeze' Beach villa, key -- paymenttype, error -- list index out of range 
+hotel name --- 'Golden Sea Breeze' Beach villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Zip By Spree Hotels Hyde Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Zip By Spree Hotels Hyde Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Dewa Goa Hotel Near Dabolim Airport, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nature Nest Holiday Home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nature Nest Holiday Home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Samaara1 on Candolim Main Road pool facing, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Samaara1 on Candolim Main Road pool facing, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Samaara1 on Candolim Main Road pool facing, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Pause By The Sea, key -- paymenttype, error -- list index out of range 
+hotel name --- Pause By The Sea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jolly Panda Resort Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel O Morjim Near Turtle Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Treebo Grand Royale Eco Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sportsman Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa White by HH - near Baga and Anjuna Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa White by HH - near Baga and Anjuna Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cockerel Homestay - Traditional Beach Village - Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Cockerel Homestay - Traditional Beach Village - Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Cockerel Homestay - Traditional Beach Village - Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Super Collection O Calangute Near Decathlon, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Quaint & Picturesque 2BHK Apartment by tisyastays, key -- paymenttype, error -- list index out of range 
+hotel name --- Quaint & Picturesque 2BHK Apartment by tisyastays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Quaint & Picturesque 2BHK Apartment by tisyastays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 2 bhk apartment baga kyle, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2 bhk apartment baga kyle, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mariaariose - "Melody of the Sea", key -- paymenttype, error -- list index out of range 
+hotel name --- Mariaariose - "Melody of the Sea", key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Village Nest - The Country Cottage, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hilltop 4BHK Villa with Private Pool Near Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Simroseate, key -- paymenttype, error -- list index out of range 
+hotel name --- Simroseate, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Metropolis Business Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Metropolis Business Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sabinas Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Sabinas Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Sabinas Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Makarios Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Makarios Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Small town villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Small town villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aldeia Santa Rita - Candolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Aldeia Santa Rita - Candolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Oreka - Artistic 3BHK Farm Villa in Parra, near Coconut Tree Rd, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Oreka - Artistic 3BHK Farm Villa in Parra, near Coconut Tree Rd, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Blueberry Comfort stay 2BHK Luxury Apt, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Arzu Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Arzu Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Arzu Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Walk to Calangute beach from this beautiful studio, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute beach rocks, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ronne's aparthotel, key -- cancelType, error -- list index out of range 
+hotel name --- Ronne's aparthotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Ronne's aparthotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- eerus casa de luxurious 3bhk villa with private pool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- eerus casa de luxurious 3bhk villa with private pool, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Prakash holliday home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Prakash holliday home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SB BEACH WAY Calangute, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SB BEACH WAY Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Dunhill Beach Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Dunhill Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Dunhill Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Calangute Phase 11, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Calangute Phase 11, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Calangute Phase 11, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Palm Grove Cottages - Leisure Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Palm Grove Cottages - Leisure Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Veeraas Strand Park Apartment by Alaya Stays, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Areia De Goa - SunLight By Leela Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Areia De Goa - SunLight By Leela Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Areia De Goa - SunLight By Leela Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Vilmaris Luxury Villas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vilmaris Luxury Villas, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Camrose Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Whoopers Boutique Hotel Morjim, key -- cancelType, error -- list index out of range 
+hotel name --- Whoopers Boutique Hotel Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Whoopers Boutique Hotel Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Campal Beach Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Campal Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Campal Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- TreeHouse Stamp, key -- cancelType, error -- list index out of range 
+hotel name --- TreeHouse Stamp, key -- paymenttype, error -- list index out of range 
+hotel name --- TreeHouse Stamp, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Deltin Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Deltin Suites, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Grande Alpine Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Grande Alpine Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Grande Alpine Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RK island view 3 bedroom apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- RK island view 3 bedroom apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beach Homestay near Tito`s lane, key -- paymenttype, error -- list index out of range 
+hotel name --- Baga Beach Homestay near Tito`s lane, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Seaway inn guesthouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Seaway inn guesthouse, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lambana Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Flamingo-by UncleJollys.5 minutes from Vagator!, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Margao Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Margao Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Island Sanctuary - A Village Secret, key -- paymenttype, error -- list index out of range 
+hotel name --- The Island Sanctuary - A Village Secret, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Resort Lagoa Azul, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Maargit Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Maargit Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Palolem Luxuries Beach Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Palolem Luxuries Beach Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Mapusa Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Mapusa Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Prazeres Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Jerome's Holiday Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Jerome's Holiday Inn, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Tranquil 2BHK Serviced Apartment in Siolim, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tranquil 2BHK Serviced Apartment in Siolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- OshiNik Nr Thalasa Anjuna Vagator Morjim, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- OshiNik Nr Thalasa Anjuna Vagator Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- ELIVAAS House of Neptune - 3 BHK Villa with Terrace & Gazebo on the Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Om Shanti Residence, key -- paymenttype, error -- list index out of range 
+hotel name --- Om Shanti Residence, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Boheme, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riverfront 2 Bedroom cozy Apartment by Greenspace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Riverfront 2 Bedroom cozy Apartment by Greenspace, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- FabExpress Holiday Suites - Nr Benaulim Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Holiday Suites - Nr Benaulim Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Seacastle luxury apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SPARV Aulakhs Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- SPARV Aulakhs Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Rozalia Estate, key -- paymenttype, error -- list index out of range 
+hotel name --- La Rozalia Estate, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La Rozalia Estate, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beach Villa Morjim, key -- cancelType, error -- list index out of range 
+hotel name --- Beach Villa Morjim, key -- paymenttype, error -- list index out of range 
+hotel name --- Beach Villa Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Verona By Dancenter - 3 BHK Villa In Siolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Verona By Dancenter - 3 BHK Villa In Siolim, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Verona By Dancenter - 3 BHK Villa In Siolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Peacock, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Peacock, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Beach 4bhk villa casa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Calangute Beach 4bhk villa casa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 1BHK Fully Furnished 4 Min Ride To The Beach, key -- cancelType, error -- list index out of range 
+hotel name --- 1BHK Fully Furnished 4 Min Ride To The Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- 1BHK Fully Furnished 4 Min Ride To The Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 1BHK Fully Furnished 4 Min Ride To The Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Quill Residence - Candolim,Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Quill Residence - Candolim,Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Quill Residence - Candolim,Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Dolce Vita 4 bed villa with a pvt pool in North Goa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Dolce Vita 4 bed villa with a pvt pool in North Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxury Stay at GOA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Eros Boutique Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Eros Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Eros Boutique Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Saldanha Kyle gardens, key -- paymenttype, error -- list index out of range 
+hotel name --- Saldanha Kyle gardens, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Moon Bliss 1BHK, 5 min walk to Colva Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Moon Bliss 1BHK, 5 min walk to Colva Beach, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Moon Bliss 1BHK, 5 min walk to Colva Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa De KPN, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2, key -- cancelType, error -- list index out of range 
+hotel name --- 4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2, key -- paymenttype, error -- list index out of range 
+hotel name --- 4BHK SPARKLING APARTMENT NEAR BEACH POOL & BAR 2bhkX2, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Staymaster Casa Amaira Huge Pool Vagator 3BHK, key -- paymenttype, error -- list index out of range 
+hotel name --- Staymaster Casa Amaira Huge Pool Vagator 3BHK, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Staymaster Casa Amaira Huge Pool Vagator 3BHK, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Cupid's Heaven Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa by js hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa by js hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Leoney Resort Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Leoney Resort Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Leoney Resort Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aquamarine Holidays Goa 2BHK Service Apartment 1, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- RONZ VISTA DA PRAIA, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- La Branca, key -- paymenttype, error -- list index out of range 
+hotel name --- La Branca, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La Branca, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- El Rosario Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- El Rosario Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- El Rosario Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Anjunapalms GuestHouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Anjunapalms GuestHouse, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Reshmi Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Reshmi Residency, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- SaffronStays Amarah Pet-friendly Luxury Villa-Assagao, North Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- SaffronStays Amarah Pet-friendly Luxury Villa-Assagao, North Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Balaji Inn Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Balaji Inn Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Monarch Palms Apartments, Candolim Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Monarch Palms Apartments, Candolim Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Monarch Palms Apartments, Candolim Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Palolem Guest House, key -- cancelType, error -- list index out of range 
+hotel name --- Palolem Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Palolem Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Mogra, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Mogra, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Mogra, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- De Lobos, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 3 bhk blue ocean baga beach villa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Zarafet Private Pool Anjuna-Vagator, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Holitel Anjuna, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sunbliss Villa, 3BHK Private Pool-Caretaker, WiFi, key -- paymenttype, error -- list index out of range 
+hotel name --- Sunbliss Villa, 3BHK Private Pool-Caretaker, WiFi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sunbliss Villa, 3BHK Private Pool-Caretaker, WiFi, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Octave Rococco Morjim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Garden View 1 BHK2BR Appt., Rio De Goa TATA Housing, key -- cancelType, error -- list index out of range 
+hotel name --- Garden View 1 BHK2BR Appt., Rio De Goa TATA Housing, key -- paymenttype, error -- list index out of range 
+hotel name --- Garden View 1 BHK2BR Appt., Rio De Goa TATA Housing, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Amour by Hireavilla - 5BR w Pvt Pool in Siolim, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Amour by Hireavilla - 5BR w Pvt Pool in Siolim, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Amour by Hireavilla - 5BR w Pvt Pool in Siolim, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Shraddha hospitality, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Sincro Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- The Sincro Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- The Sincro Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Nazri Hotel - Near Arambol Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Nazri Hotel - Near Arambol Beach, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Luxurious 2bhk Serviced Apartment 5 mins walk from Benaulim Beach Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxurious 2bhk Serviced Apartment 5 mins walk from Benaulim Beach Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Candolim Beach Vaddo 15, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Tubki Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- The Tubki Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Lobo's Guesthouse, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Coastal Bliss By Masaka, key -- paymenttype, error -- list index out of range 
+hotel name --- Coastal Bliss By Masaka, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Coastal Bliss By Masaka, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Aqua Marina Beach Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Aqua Marina Beach Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- DhanRains Moonlight Retreat Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- DhanRains Moonlight Retreat Cottages, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Queen Queen Sea, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Baga Beach Way, key -- paymenttype, error -- list index out of range 
+hotel name --- Baga Beach Way, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- CSG Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- CSG Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Mimi,Colva Spacious Independent Villa with terrace and garden space, key -- cancelType, error -- list index out of range 
+hotel name --- Casa Mimi,Colva Spacious Independent Villa with terrace and garden space, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Mimi,Colva Spacious Independent Villa with terrace and garden space, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Casa Mimi,Colva Spacious Independent Villa with terrace and garden space, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Bijou Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Bijou Guest House, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riva Boutique Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Riva Boutique Apartments, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Goa Continental - Baga, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Goa Continental - Baga, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Goa Continental - Baga, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Calangute Beach Crystal, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Assagao Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Assagao Grand, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- 'Golden Sand Dunes' 1bhk Benaulim beach apartment, key -- cancelType, error -- list index out of range 
+hotel name --- 'Golden Sand Dunes' 1bhk Benaulim beach apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- 'Golden Sand Dunes' 1bhk Benaulim beach apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- The Baga Beach Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- The Baga Beach Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Jia Calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Stars By The Bay & BBQ Grill by StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Stars By The Bay & BBQ Grill by StayVista, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Rivasa Emerald - Calangute, key -- paymenttype, error -- list index out of range 
+hotel name --- Rivasa Emerald - Calangute, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Silva Heritage Resort Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Silva Heritage Resort Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Shradha luxury room, key -- paymenttype, error -- list index out of range 
+hotel name --- Shradha luxury room, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa Almeida Hotel, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Southgate Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Asian Paradise comfort, key -- paymenttype, error -- list index out of range 
+hotel name --- Asian Paradise comfort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Pool and Garden Facing Apartment in Riviera Foothills Near Baga, Arpora, key -- cancelType, error -- list index out of range 
+hotel name --- Pool and Garden Facing Apartment in Riviera Foothills Near Baga, Arpora, key -- paymenttype, error -- list index out of range 
+hotel name --- Pool and Garden Facing Apartment in Riviera Foothills Near Baga, Arpora, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Hotel Meraden Opus , Anjuna Beach Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Meraden Opus , Anjuna Beach Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Meraden Opus , Anjuna Beach Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Ddhyana Resort, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Veeniola Holiday Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Veeniola Holiday Home, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Villa Vera - 2BHK Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Vera - 2BHK Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Vera - 2BHK Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Muffy’s Vacation Apartment, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Riviera Hermitage Ocean Breeze, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Sunshine Park Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Sunshine Park Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Sunshine Park Homes, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Swimsea Beach Resort, A Beach Property, key -- paymenttype, error -- list index out of range 
+hotel name --- Swimsea Beach Resort, A Beach Property, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Beachside Studio 303-Calangute Goa, key -- cancelType, error -- list index out of range 
+hotel name --- Beachside Studio 303-Calangute Goa, key -- paymenttype, error -- list index out of range 
+hotel name --- Beachside Studio 303-Calangute Goa, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Casa sofiana, key -- distance, error -- 'NoneType' object has no attribute 'text' 
+hotel name --- Palms Cosy affordable homely flat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Palms Cosy affordable homely flat, key -- distance, error -- 'NoneType' object has no attribute 'text' 

@@ -1,0 +1,230 @@
+hotel name --- Vista Suites Doddabetta Ooty By Bestinn Leisure, key -- paymenttype, error -- list index out of range 
+hotel name --- EKO STAY - Woodside Ivy, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Sholas Residency I - Nr Rose Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- KSTDC Hotel Mayura Sudarshan ,Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Landmark, key -- paymenttype, error -- list index out of range 
+hotel name --- SV RESIDENCY, key -- paymenttype, error -- list index out of range 
+hotel name --- Accord Highland Hotel Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Mowbray House Resort Ooty by VOYE HOMES, key -- cancelType, error -- list index out of range 
+hotel name --- Mowbray House Resort Ooty by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Beverly villa, key -- cancelType, error -- list index out of range 
+hotel name --- Beverly villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Savi's home stay, key -- cancelType, error -- list index out of range 
+hotel name --- Savi's home stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Yamuna Residency by HRS Stays, key -- cancelType, error -- list index out of range 
+hotel name --- Yamuna Residency by HRS Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- BN Tourist Home, key -- cancelType, error -- list index out of range 
+hotel name --- BN Tourist Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Rosepark Residency, key -- cancelType, error -- list index out of range 
+hotel name --- Rosepark Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Cloudsbay, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Cloudsbay, key -- paymenttype, error -- list index out of range 
+hotel name --- Astoria Residency, key -- cancelType, error -- list index out of range 
+hotel name --- Astoria Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Dream star view, key -- cancelType, error -- list index out of range 
+hotel name --- Dream star view, key -- paymenttype, error -- list index out of range 
+hotel name --- The Tamarillo, key -- paymenttype, error -- list index out of range 
+hotel name --- The Green Casa - Families Only, key -- paymenttype, error -- list index out of range 
+hotel name --- Lauriston Ooty Town Heritage Bungalow by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Vanam Holidays, key -- paymenttype, error -- list index out of range 
+hotel name --- Two Seas Residence, key -- paymenttype, error -- list index out of range 
+hotel name --- Ooty Blossom Retreat by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Silent Retreat Ooty Pool Resort by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Welbeck Residency Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Hill Side, key -- paymenttype, error -- list index out of range 
+hotel name --- Away From Home - 1 - Rooms In Ooty, Home Stay Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Away From Home - 1 - Rooms In Ooty, Home Stay Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sumana Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Gem Park Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Coastal Grand Resort - Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Skylarc Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Serene Villas, key -- cancelType, error -- list index out of range 
+hotel name --- Royal Serene Villas, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Bala Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- Colonels inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Willow Hill by Nature Resorts and Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- WelcomHeritage Ayatana Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Green Leaves The Countryside Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Aakash Rooms and Cottages,, key -- paymenttype, error -- list index out of range 
+hotel name --- Sinclairs Retreat Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Lymond house, key -- paymenttype, error -- list index out of range 
+hotel name --- Mango Hill Central Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Vinu Valley Resorts - Nr Ketti Valley View Point, key -- paymenttype, error -- list index out of range 
+hotel name --- Vinayaga Inn by Poppys, Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- The Byke Sunshine Grand, key -- cancelType, error -- list index out of range 
+hotel name --- The Byke Sunshine Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Resort Sullivan Court, Ooty - Member ITC Hotels' Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Avalon Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Vintage Inglenook Premium Ooty Bungalow by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Wyoming Heritage, key -- cancelType, error -- list index out of range 
+hotel name --- Wyoming Heritage, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Wenlock Homes - Nr Government Rose Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- HAILSTONE HOME STAY, key -- cancelType, error -- list index out of range 
+hotel name --- HAILSTONE HOME STAY, key -- paymenttype, error -- list index out of range 
+hotel name --- AJ Heritage Ooty Resort by VOYE HOMES, key -- cancelType, error -- list index out of range 
+hotel name --- AJ Heritage Ooty Resort by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Sabol Holidays, key -- paymenttype, error -- list index out of range 
+hotel name --- Shivs Heritage Resort Ooty by VOYE HOMES, key -- cancelType, error -- list index out of range 
+hotel name --- Shivs Heritage Resort Ooty by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- The Views - True Baduaga Living, key -- paymenttype, error -- list index out of range 
+hotel name --- Mythical Meadow, key -- paymenttype, error -- list index out of range 
+hotel name --- RainBreeze Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- kmt ooty Sana cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mountain Melody cottage & villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Space 4 Resorts Ooty, key -- cancelType, error -- list index out of range 
+hotel name --- Space 4 Resorts Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Space 4 Resorts Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- CASSPO-Aurora in Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Anika Palace by Pepe Inn Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- R R K Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at The Lilly Ooty with Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- lynfields leisure, key -- paymenttype, error -- list index out of range 
+hotel name --- Urban Lush, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Glanton Manor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MANI'S WOOD HOUSE, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ooty Travelers Lodge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Away From Home - 6 - Home Stay Ooty, Entire 3BHK Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Away From Home - 6 - Home Stay Ooty, Entire 3BHK Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tranqville Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Tea Estate view stay, key -- cancelType, error -- list index out of range 
+hotel name --- Tea Estate view stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Virgin Valley Leisure Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Serene Hills, key -- paymenttype, error -- list index out of range 
+hotel name --- Chalets Resort Masinagudi, key -- paymenttype, error -- list index out of range 
+hotel name --- Studio Apartments by Space 4 Resorts Ooty, key -- cancelType, error -- list index out of range 
+hotel name --- Studio Apartments by Space 4 Resorts Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Krishav homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Silver Dale Tea Estate Bungalow Ooty by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- Welbeck Vintage By Oxygen Resorts, key -- cancelType, error -- list index out of range 
+hotel name --- Welbeck Vintage By Oxygen Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at The Woodscapes with Lawn & Views, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Airy Homestay Ooty by Lexstays, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain Retreat - A Hill Country Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- FN's Eternia, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jungle retreat hide away ph2, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rosewood 1, key -- cancelType, error -- list index out of range 
+hotel name --- Rosewood 1, key -- paymenttype, error -- list index out of range 
+hotel name --- Sandy Castle Villa 2 Bhk Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Moidoo's Maison, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- kurinji residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Ooty Hill Shades, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Away From Home - 4 - Rooms In Ooty, Home Stay Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- RK Holiday Home, key -- cancelType, error -- list index out of range 
+hotel name --- RK Holiday Home, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Tiverton Bungalow ooty - Lawn, BBQ, Heater, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Sullivan by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Mount n Mist, key -- paymenttype, error -- list index out of range 
+hotel name --- SaffronStays Milton Abbott Estate, Ooty, key -- cancelType, error -- list index out of range 
+hotel name --- SaffronStays Milton Abbott Estate, Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Away From Home - 2 - Rooms In Ooty, Home Stay Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Away From Home - 5 - Rooms In Ooty, Home Stay Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Sand Piper Home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Glory Mist, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Chill Inn - Families Only, key -- paymenttype, error -- list index out of range 
+hotel name --- Yantra Resort By Spree Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- WelcomHeritage Fernhills Royal Palace, key -- paymenttype, error -- list index out of range 
+hotel name --- Blossom Spring Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at The West Wind 5BHK Villa ooty comp Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- Hertz stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Brook’s Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Brook’s Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Biju's Nilgiri Nest by VOYE HOMES, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pinehill Suits, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Villa Aruvi with Bonfire, Lawn, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Under The Stars lovedale ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- EMYs Misty Charm Private Villa Ooty by VOYE HOMES, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at The Berg valley view, key -- paymenttype, error -- list index out of range 
+hotel name --- Heavens Hill View Villa Ooty by LexStays, key -- paymenttype, error -- list index out of range 
+hotel name --- Heavens Hill View Villa Ooty by LexStays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Preethi Palace, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Preethi Palace, key -- paymenttype, error -- list index out of range 
+hotel name --- Cloud 9- Heaven on earth, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O RB Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Villa Misty Oaks with Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- Lakefront Home Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hilltop 3BHK & 4BHK Villa Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Habib Orchid Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SHAMBHAlAHOMESTAY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Little Heaven with Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- Estay Tiger Hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sviksha Inn Ooty by LexStays, key -- paymenttype, error -- list index out of range 
+hotel name --- Sviksha Inn Ooty by LexStays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hideaway, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- A N S Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MANI'S WOODHOUSE, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 4Bed Luxe Villa with Breakfast l WiFi, key -- cancelType, error -- list index out of range 
+hotel name --- 4Bed Luxe Villa with Breakfast l WiFi, key -- paymenttype, error -- list index out of range 
+hotel name --- Golden Gate Luxury Villas by LexStays, key -- paymenttype, error -- list index out of range 
+hotel name --- Garden View Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bethel Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ooty mountain cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stone Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bella Valley Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PonmariResidency, key -- paymenttype, error -- list index out of range 
+hotel name --- KALON ELPIS Tea Estate Villa, key -- cancelType, error -- list index out of range 
+hotel name --- KALON ELPIS Tea Estate Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- KALON ELPIS Tea Estate Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Classic Homestay Hills Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Everfresh High View Cottage Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ooty mountain cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Carpe diem, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- House of Joy by LuxUnlock, key -- cancelType, error -- list index out of range 
+hotel name --- House of Joy by LuxUnlock, key -- paymenttype, error -- list index out of range 
+hotel name --- House of Joy by LuxUnlock, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Away From Home - 6 - Rooms In Ooty, Home Stay Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Green Premium Villa Ooty by Lexstays, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain Top Holiday Home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Forest Gate villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Seven Hill Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Valley Whispers with BBQ & Bonfire, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Valley Whispers with BBQ & Bonfire, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ooty mountain cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hertz stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ooty Blue Mountain Villa Thalayathimund, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Orion's Crest ooty including breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- Grandis inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Travellers Nest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ooty mountain Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Melbourne Gardens 3 BHK Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cute Corner Homestay,Ooty, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rosewood 3, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious Private Villa with Lawn Family Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxurious Private Villa with Lawn Family Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Haiwatha by LuxUnlock, key -- cancelType, error -- list index out of range 
+hotel name --- Haiwatha by LuxUnlock, key -- paymenttype, error -- list index out of range 
+hotel name --- Haiwatha by LuxUnlock, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Hugel by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Swiss Tents in Ooty, Tn, key -- cancelType, error -- list index out of range 
+hotel name --- Swiss Tents in Ooty, Tn, key -- paymenttype, error -- list index out of range 
+hotel name --- Nivi Homestay Ooty By Lexstays, key -- paymenttype, error -- list index out of range 
+hotel name --- Nivi Homestay Ooty By Lexstays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Bella Hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Away From Home - 1 - Home Stay Ooty, Entire 3BHK Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Western Valley Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- King's Cliff, key -- paymenttype, error -- list index out of range 
+hotel name --- Rosewood by Nature Resorts and Stays, key -- cancelType, error -- list index out of range 
+hotel name --- Rosewood by Nature Resorts and Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Vista Sunrise View Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Vista Sunrise View Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Nahar Nilgiris, key -- paymenttype, error -- list index out of range 
+hotel name --- Sapphire Grand Ooty, key -- cancelType, error -- list index out of range 
+hotel name --- Sapphire Grand Ooty, key -- paymenttype, error -- list index out of range 
+hotel name --- Narmada Holiday Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Le Apex misty stay, key -- cancelType, error -- list index out of range 
+hotel name --- Le Apex misty stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Misty Stay by Le Apex, key -- cancelType, error -- list index out of range 
+hotel name --- Misty Stay by Le Apex, key -- paymenttype, error -- list index out of range 
+hotel name --- Dwarka Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Clouds Nest By Aanvis Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Clouds Nest By Aanvis Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Dew Nest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vgrand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Forest Haven, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BrownTreeCottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Moon light castle, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Baron, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Cherry Blossom, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Cherry Blossom, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Cherry Blossom, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Preethi Classic Towers, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Preethi Classic Towers, key -- paymenttype, error -- list index out of range 

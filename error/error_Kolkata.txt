@@ -1,0 +1,303 @@
+hotel name --- Super Hotel O Lenin Sarani, key -- paymenttype, error -- list index out of range 
+hotel name --- Novotel Kolkata Hotel and Residences, key -- cancelType, error -- list index out of range 
+hotel name --- Novotel Kolkata Hotel and Residences, key -- paymenttype, error -- list index out of range 
+hotel name --- 55 B, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Kolkata Rajarhat - An Accor Brand, key -- cancelType, error -- list index out of range 
+hotel name --- ibis Kolkata Rajarhat - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Kzar Corporate - Nr Sealdah Station, key -- paymenttype, error -- list index out of range 
+hotel name --- LBD RESORTS & HOTELS KOLKATA, key -- cancelType, error -- list index out of range 
+hotel name --- LBD RESORTS & HOTELS KOLKATA, key -- paymenttype, error -- list index out of range 
+hotel name --- Monovilla Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Monovilla Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Tiyara Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Subha's Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prime Ivory Inn - Park Circus, key -- paymenttype, error -- list index out of range 
+hotel name --- Hyatt Regency Kolkata, key -- cancelType, error -- list index out of range 
+hotel name --- Hyatt Regency Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Bandhan Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ballygunge Luxury - Behind Punjab Club, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Heera Holiday Inn - Nr Eden Garden Stadium, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Lily - Nr Bisarjan Ghat, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Dream Plaza - Nr Biswa Bangla Gate, key -- paymenttype, error -- list index out of range 
+hotel name --- Lakeside Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- The Samilton, key -- paymenttype, error -- list index out of range 
+hotel name --- Nestled Nook, key -- cancelType, error -- list index out of range 
+hotel name --- Nestled Nook, key -- paymenttype, error -- list index out of range 
+hotel name --- Nestled Nook, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Amar priya guest house, key -- cancelType, error -- list index out of range 
+hotel name --- Amar priya guest house, key -- paymenttype, error -- list index out of range 
+hotel name --- Tatvam Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Ostro Inn Studio Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Saltlake Palace - Nr Anandlok Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- The Astor, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Nest - Nr Park Street Metro Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel New kolkata Residency Inn - Nr Axis Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- The Elgin Fairlawn, Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel De Sivalika - 500m from Belur Math, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Dak Plaza - Nr Axis Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Moon Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Grand Hazra Inn - Nr Ballygunge Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Holiday Inn Kolkata Airport by IHG, key -- cancelType, error -- list index out of range 
+hotel name --- Holiday Inn Kolkata Airport by IHG, key -- paymenttype, error -- list index out of range 
+hotel name --- Roland Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Wild Orchid - 800m from Medica Superspecialty Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- Kenilworth Hotel, Kolkata, key -- cancelType, error -- list index out of range 
+hotel name --- Kenilworth Hotel, Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Vicky, key -- paymenttype, error -- list index out of range 
+hotel name --- Viceroy Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Stay Inn International - Nr Sealdah Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel All In One Saltlake - Opp BJ Market Complex, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Bengal, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Eros 211 - Nr Sreebhumi, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Azure Sky - Nr Ruby Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Quest - Nr Quest Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Peerless Hotel Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Senses, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress SR Royale - Nr Sealdah Station, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Carnival, key -- paymenttype, error -- list index out of range 
+hotel name --- The Lindsay, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Archie homestays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Harrington Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Step Inn - Nr Biswa Bangla Gate, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Delight Rooms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Spot ON Asad Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The CORPORATE, key -- paymenttype, error -- list index out of range 
+hotel name --- Om Shanti Guest House-Near Ruby General Hospital & Science City, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Kzar Select - 2km from Park Street, key -- paymenttype, error -- list index out of range 
+hotel name --- Kiran Guest House, key -- cancelType, error -- list index out of range 
+hotel name --- Kiran Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Om Sai Villa Guesthouse, key -- cancelType, error -- list index out of range 
+hotel name --- Om Sai Villa Guesthouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Lavish 2BHK Apartment in Ballygunge Place with Daily Housekeeping, key -- cancelType, error -- list index out of range 
+hotel name --- Lavish 2BHK Apartment in Ballygunge Place with Daily Housekeeping, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Samrat near Victoria Memorial !! Couple Friendly Hotel !!, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Rockstar Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Olive Inn I - 260m from Saltlake Sector V Metro Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Esteem, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Esteem, key -- paymenttype, error -- list index out of range 
+hotel name --- Apartment Santana 5 with Lift, AC, Aqua Guard, W machine and Garage, key -- cancelType, error -- list index out of range 
+hotel name --- Apartment Santana 5 with Lift, AC, Aqua Guard, W machine and Garage, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Bengal -100m from Park Circus 7 Point, key -- paymenttype, error -- list index out of range 
+hotel name --- The Avenue Hotel Ballygunge, key -- paymenttype, error -- list index out of range 
+hotel name --- Laketown Vintage Villa, a 2 room Holiday Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Polo Floatel Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Amar Raj Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Kollolini Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Aster Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Diamond By Olys Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Yepplo Service Apartments - KOLKATA - Private Kitchen & Daily Housekeeping Service, key -- paymenttype, error -- list index out of range 
+hotel name --- Ethnotel, Kolkata Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel The Sojourn, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel The Sojourn, key -- paymenttype, error -- list index out of range 
+hotel name --- Middleton Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Middleton Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Krishna I - Nr Birla Industrial & Tech Museum, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Aqua Tulip - Nr Milan Mela, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel MN International - Nr Park Circus, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Rani Tower - Chinar Park, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL 16 AVENUE, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemon Tree Premier, New Town, Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Amar Raj Villa - Nr Eco Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Gulshan Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lytton Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Sivalika Inn - Belur Math, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Eleanora - New Town, key -- paymenttype, error -- list index out of range 
+hotel name --- Stylish 2BHK Service Apartment Near Golpark, key -- paymenttype, error -- list index out of range 
+hotel name --- Stylish 2BHK Service Apartment Near Golpark, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Rajbari Bawali, key -- cancelType, error -- list index out of range 
+hotel name --- The Rajbari Bawali, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Lake View Studio - NewTown - Terrace Garden, Gym, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Lake View Studio - NewTown - Terrace Garden, Gym, key -- paymenttype, error -- list index out of range 
+hotel name --- Deep Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bubble Beds, key -- paymenttype, error -- list index out of range 
+hotel name --- J's Nest, key -- paymenttype, error -- list index out of range 
+hotel name --- Shila International, key -- paymenttype, error -- list index out of range 
+hotel name --- Victoria Apartment by JadeCaps Chowringhee, key -- cancelType, error -- list index out of range 
+hotel name --- Victoria Apartment by JadeCaps Chowringhee, key -- paymenttype, error -- list index out of range 
+hotel name --- Victoria Apartment by JadeCaps Chowringhee, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Spacious 3BHK House opp South City Mall, key -- cancelType, error -- list index out of range 
+hotel name --- Spacious 3BHK House opp South City Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Diamond inn-Esplanade, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Classic 2BHK Serviced Apartment beside Jadavpur University, key -- cancelType, error -- list index out of range 
+hotel name --- Classic 2BHK Serviced Apartment beside Jadavpur University, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime Jalsa - Nr Axis Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Collection O Mourigram Station Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Nest International, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal Park Inn - Nr Eden Garden Stadium, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Trisha Lodge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Relax International, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Orient Residency, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Orient Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Rayan Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Rayan Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Aster Homestay - Bedrooms & Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O SAFAR STAY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jams Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Satguru Homestays, key -- paymenttype, error -- list index out of range 
+hotel name --- The Maureen, key -- cancelType, error -- list index out of range 
+hotel name --- The Maureen, key -- paymenttype, error -- list index out of range 
+hotel name --- Aura hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Welcome Guest Accommodation, key -- cancelType, error -- list index out of range 
+hotel name --- Welcome Guest Accommodation, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Classic 1BHK Salt Lake City, Kitchen, Parking , Terrace, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Classic 1BHK Salt Lake City, Kitchen, Parking , Terrace, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Classic 1BHK Salt Lake City, Kitchen, Parking , Terrace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL TIPSYY PALACE Near Central Road Pond, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O The Orchid Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aristocratic 3BHK apartment near Eastern Metropolitan Club, Santoshpur, key -- cancelType, error -- list index out of range 
+hotel name --- Aristocratic 3BHK apartment near Eastern Metropolitan Club, Santoshpur, key -- paymenttype, error -- list index out of range 
+hotel name --- !! KOLKATA Dev Guest House #Howrah Kolkata Near Railway Station - Free Wifi - Fully Air Conditioned - Good and Spacious Room - Excellent Service Recommended Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sukhmani Homestays, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Airways, key -- paymenttype, error -- list index out of range 
+hotel name --- Sudarshan Villa Guest House - Near Ruby General hospital, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Brook View Repose, key -- cancelType, error -- list index out of range 
+hotel name --- Brook View Repose, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxury penthouse on budget, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Hillfort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HCN GUEST House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Aston International, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Aston International, key -- paymenttype, error -- list index out of range 
+hotel name --- Misti Home 2, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ruby by Olys Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Capital Casa, key -- paymenttype, error -- list index out of range 
+hotel name --- LUXURY GUEST HOUSE SUDARSHAN VILLA - Near Bus Stop & Ruby Hospital - Only Indians Allowed - #RoomService #Parking #wifi - Fully Air Conditioning Hotel In Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Turquoise Letterbox - Twin at Central, key -- paymenttype, error -- list index out of range 
+hotel name --- Elegant Xanadu Studio 604 -Pool, Airport, CC2 Mall, key -- cancelType, error -- list index out of range 
+hotel name --- Elegant Xanadu Studio 604 -Pool, Airport, CC2 Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Apartment in Kolkata (Joka-Diamond Park), key -- paymenttype, error -- list index out of range 
+hotel name --- 2 rooms appartment with balcony and kitchen, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Misti home behala, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2BR Dhakuria Apartment - Dev's Corner, key -- cancelType, error -- list index out of range 
+hotel name --- 2BR Dhakuria Apartment - Dev's Corner, key -- paymenttype, error -- list index out of range 
+hotel name --- Kiaan Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- 4 Bedroom 3 Bathroom Fully AC Private Flat up to 14 People, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Moti bhavan, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Next Generation, key -- paymenttype, error -- list index out of range 
+hotel name --- Kolkata Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kolkata homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Alipore Abode-stay in the heart of kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Emerald By Olys Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Eram guest house, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Elegant Homestay, Baghajatin Gangulybagan, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sher-E-Punjab, key -- cancelType, error -- list index out of range 
+hotel name --- Sher-E-Punjab, key -- paymenttype, error -- list index out of range 
+hotel name --- Lake Town Guest House, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Mamoni Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ps Homes in central Kolkata, key -- cancelType, error -- list index out of range 
+hotel name --- Ps Homes in central Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL ROYAL SPARK STAY Near Kali Temple- Best Hotel In Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL MEDANTA PALACE STAY Near Hanuman Temple, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Kei Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Paying Guest, key -- paymenttype, error -- list index out of range 
+hotel name --- Ashreen Group of Hotels, key -- cancelType, error -- list index out of range 
+hotel name --- Ashreen Group of Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Oak Moulali Bus Terminal Formerly Creek Row, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jain guest house, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- URBAN NEST - 3BHK Serviced Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Timeless Elegance by StayVista - Poolside Villa with Lawn & Terrace, key -- paymenttype, error -- list index out of range 
+hotel name --- Behala stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Aster Penthouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Misti Home behala, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aliya, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Prime Swagatam International - Chinar Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Cosy Home at heart of Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cosy Home at heart of Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Bypass Nest-with Private Cozy Attached Terrace, key -- cancelType, error -- list index out of range 
+hotel name --- The Bypass Nest-with Private Cozy Attached Terrace, key -- paymenttype, error -- list index out of range 
+hotel name --- The Bypass Nest-with Private Cozy Attached Terrace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Thy Nest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Subha's Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Murchi bite service apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nivaasa Apt by JadeCapsNr Taj BengalACWIFI, key -- paymenttype, error -- list index out of range 
+hotel name --- Nivaasa Apt by JadeCapsNr Taj BengalACWIFI, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Athiti neer, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Spacious Room for Girls Only, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BIMAN Lodge Pvt Ltd, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jolly Heritage Home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- City Haven by JadeCaps2BHKAlipore, key -- paymenttype, error -- list index out of range 
+hotel name --- City Haven by JadeCaps2BHKAlipore, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Your Home On Vacation!, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Furnished 2bhk flat in Dhakuria, South Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lotus Apartments Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nandini apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Nayak House with Terrace, Wi-Fi, key -- paymenttype, error -- list index out of range 
+hotel name --- Duplex Penthouse, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ivy Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Homestay Acropolis Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The 102, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Avisha, key -- paymenttype, error -- list index out of range 
+hotel name --- Teakwood Suite - Nokha House, key -- paymenttype, error -- list index out of range 
+hotel name --- Vidyarthy Villa, key -- cancelType, error -- list index out of range 
+hotel name --- Vidyarthy Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Vidyarthy Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Alipur Abode, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Old kolkata styled house with morden amenities, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Kalikapur Haltu, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- P-24A CIT Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Aqua Tulip, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- N5 Ibiza, Kolkata, key -- cancelType, error -- list index out of range 
+hotel name --- N5 Ibiza, Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- The Sonnet Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- The Broome Kolkata, key -- cancelType, error -- list index out of range 
+hotel name --- The Broome Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Holiday Inn Express Kolkata New Town by IHG, key -- cancelType, error -- list index out of range 
+hotel name --- Holiday Inn Express Kolkata New Town by IHG, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Rushabh Home, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Rushabh Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Laxmi Niwas, Salt Lake, Kolkata, 10mins from Sector 5, key -- paymenttype, error -- list index out of range 
+hotel name --- Siamton Inn- A Cygnett Collection, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Globe International, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Globe International, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Leela Inn - Nr Park Circus 7 Point, key -- paymenttype, error -- list index out of range 
+hotel name --- Garden Guest House 250m from VFS Global & Rene Tower , acropolis mall, key -- paymenttype, error -- list index out of range 
+hotel name --- RM Guest Home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Meraki Inn Saltlake, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ichamati, key -- paymenttype, error -- list index out of range 
+hotel name --- KOLKATA HOTEL DEVAN DHAM STAY Near Railway Station, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Mandeville, key -- paymenttype, error -- list index out of range 
+hotel name --- BEYZAA HOTEL AND SUITES, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel 21, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Q Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Q Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Park Prime Kolkata, key -- cancelType, error -- list index out of range 
+hotel name --- Park Prime Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Dream World, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Comfotel Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Comfotel Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PARKSTONE, key -- cancelType, error -- list index out of range 
+hotel name --- PARKSTONE, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Lee International, key -- paymenttype, error -- list index out of range 
+hotel name --- The City of Joy, key -- cancelType, error -- list index out of range 
+hotel name --- The City of Joy, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Home Cozy Studio Collage Square Hotel Maya International Near St. Thomas's Church, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Al Sana, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Soukyam Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O New Annapurna Plaza Hotel & Banquet, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Aston, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Aston, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O S. R. ROYALE, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ashirbad Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Raunak, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Vrindavan, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sheldon Inn Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Sheldon Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Ilamano Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Reliable Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- New Deep Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sanjiva Suites, key -- cancelType, error -- list index out of range 
+hotel name --- Sanjiva Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Paradise Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- CHURCH PALACE, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dear hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Simna Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Swagatam, Kolkata, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Swagatam, Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Brio Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- KOLKATA HOTEL MADHAV STAY Near Shri Choto Sitala Temple - Best Hotel In Kolkata, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jain guest house, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HOTEL JAISHREE DHAM PALACE - Fully Air Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel The Crest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- KOLKATA HCN GUEST House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Srideep by Stayseasy near ruby, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bhagat's House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotels Puja, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

@@ -1,0 +1,35 @@
+hotel name --- Novotel Mumbai International Airport, key -- cancelType, error -- list index out of range 
+hotel name --- Novotel Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hyatt Centric Juhu Mumbai, key -- cancelType, error -- list index out of range 
+hotel name --- Hyatt Centric Juhu Mumbai, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Townhouse Khar The Habitat, key -- paymenttype, error -- list index out of range 
+hotel name --- Super Townhouse Khar The Unicontinental, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Liwa International - Nr Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- The Ruby Abode ! Premium 1 bhk Santacruz (w), key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treebo Blue Moon Powai, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ascot International II - Nr Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel RK International - Nr Mumbfai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Mumbai Airport - An Accor Brand, key -- cancelType, error -- list index out of range 
+hotel name --- ibis Mumbai Airport - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel BKC Anex Near Bandra Kurla Complex, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Parle International, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Dombivali Formerly PK Lodging, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Grand Heritage - Nr BKC, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal International - Nr Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Radisson Blu Mumbai International Airport, key -- cancelType, error -- list index out of range 
+hotel name --- Radisson Blu Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Gateway, key -- paymenttype, error -- list index out of range 
+hotel name --- Nestor Hotel, Mumbai, key -- paymenttype, error -- list index out of range 
+hotel name --- Trident Nariman Point, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Adore Inn - Nr Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Novotel Mumbai Juhu Beach, key -- cancelType, error -- list index out of range 
+hotel name --- Novotel Mumbai Juhu Beach, key -- paymenttype, error -- list index out of range 
+hotel name --- Glitz Hotels The Rio - Nr Solitaire Corporate Business Park, key -- cancelType, error -- list index out of range 
+hotel name --- Glitz Hotels The Rio - Nr Solitaire Corporate Business Park, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Elvis Inn - Nr Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Aurika, Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Mumbai Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Beverly Palace Santacruz - Near BKC - Mumbai Airport T1, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Ascot International - Nr Mumbai International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Kohinoor Continental,Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL O M.M RESIDENCY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

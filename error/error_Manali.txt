@@ -1,0 +1,390 @@
+hotel name --- FabExpress Shami Inn Naggar Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Treebo Premium Sattva With Mountain View, key -- cancelType, error -- list index out of range 
+hotel name --- Treebo Premium Sattva With Mountain View, key -- paymenttype, error -- list index out of range 
+hotel name --- Timberwolves, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Mountain Top, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orchard Greens Resort - A Centrally Heated Property, key -- paymenttype, error -- list index out of range 
+hotel name --- Tripli Hotels Stone House Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ocean & Meadows Open Terrace ! Mall Road Hotel !, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Ocean & Meadows Open Terrace ! Mall Road Hotel !, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Residency Inn - Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Royal Residency Inn - Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- THE ROYAL GRAND, Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Orchard Greens, key -- paymenttype, error -- list index out of range 
+hotel name --- Himalayan adventure Cottages & Budget Friendly BNB Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hill River Resort By West Western, key -- paymenttype, error -- list index out of range 
+hotel name --- Woodrock Luxury Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Meadows & Hotel OceanGrass ! Rooftop Cafe ! Music ! Near To Mall Road, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Meadows & Hotel OceanGrass ! Rooftop Cafe ! Music ! Near To Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Sparsh Resort, A Boutique Stay - Just 2kms uphill from Mall Road, near Old Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Mountain face by Snow City Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Meadows & Hotel Ocean Edge ! Family Hotel ! A couple Hotel ! Near to Hadimba Temple, key -- paymenttype, error -- list index out of range 
+hotel name --- The 14 Gables, A Boutique Stay - Pet Friendly Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Woodstock Inn Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- The Safal Stays- Dorms, Rooms and Cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tripli Hotels Drilbu Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Ocean Inn & Meadows Inn ! Couple Friendly ! Family Hotel ! Walking Distance From Mall Road, key -- cancelType, error -- list index out of range 
+hotel name --- Ocean Inn & Meadows Inn ! Couple Friendly ! Family Hotel ! Walking Distance From Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Kartik Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Antillia Valley Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Model Town Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Prasher Lodge Mall Road Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- TATA Vista Resort Mall Road Manali - Centrally Heated & Air Cooled, key -- paymenttype, error -- list index out of range 
+hotel name --- Ride At Hill-Nihal Hotel & Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Snow Mountain Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- The Orchid Manali - a Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel The Premium Villa Manali View, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel The Premium Villa Manali View, key -- paymenttype, error -- list index out of range 
+hotel name --- Sterling Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Span Resort and Spa, Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Span Resort and Spa, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Alfa Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tripli Hotels Conifer Wood Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Nazaara - A Luxe Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ocean & Hotel Meadows Mountain View ! A Family Hotel ! Near To Mall Road, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Ocean & Hotel Meadows Mountain View ! A Family Hotel ! Near To Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Vivaan The Sunrise, key -- cancelType, error -- list index out of range 
+hotel name --- Vivaan The Sunrise, key -- paymenttype, error -- list index out of range 
+hotel name --- Premuim Vi Van Luxury Hotel #Moutain View #Best View #Free Wifi #Free Parking, key -- cancelType, error -- list index out of range 
+hotel name --- Premuim Vi Van Luxury Hotel #Moutain View #Best View #Free Wifi #Free Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- Elena Aastha Regency- A Valley view Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Elena Aastha Regency- A Valley view Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Alt Life Manali, Old Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Alt Life Manali, Old Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Seven Hills Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Regenta Inn by Riverside Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- LivingStone Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- The Whitestone Resorts, key -- cancelType, error -- list index out of range 
+hotel name --- The Whitestone Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Backpacker's Apartament Enosh, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Rising Star Near To Mall Road #BudgetFriendly #BigRooms #Garden #Bonfire #Parking #ForestView #MountainView, key -- paymenttype, error -- list index out of range 
+hotel name --- AbodeHome Cottage, key -- cancelType, error -- list index out of range 
+hotel name --- AbodeHome Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Valley of Gods - Scenic River & Mountain View Hotel in Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Valley of Gods - Scenic River & Mountain View Hotel in Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel The Lahul Expedition By Beas Hospitality, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Naveen manali By Blueko Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bunk Bro Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Rock Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Outtown Manali - #near mall road #premium rooms #parking #lift #open terrace #cafe #guest preferred, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Outtown Manali - #near mall road #premium rooms #parking #lift #open terrace #cafe #guest preferred, key -- paymenttype, error -- list index out of range 
+hotel name --- The Vashisht, Manali - A Four Star Luxury Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- The Vashisht, Manali - A Four Star Luxury Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- The Himalayan, key -- paymenttype, error -- list index out of range 
+hotel name --- Aarnaa Cottages Manali - View of Valleys & Mountains - Near Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Aarnaa Cottages Manali - View of Valleys & Mountains - Near Mall Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Montana Blues Resort by Snow City, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Kartik, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Clarks Inn Suites, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Echor Himalayan Heights Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Greenfields, key -- paymenttype, error -- list index out of range 
+hotel name --- Hill River Resort - Central Heated & Air Cooled - Near Mall Road , Best Property of Manali 2024- 2025, key -- paymenttype, error -- list index out of range 
+hotel name --- Shanag Inn Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Shanag Inn Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Abode Home Cool & Homely Place, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Snow View Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- M R Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Ocean & Hotel Meadows Hill ! Rooftop Restaurant ! Near Hadimba Temple, key -- paymenttype, error -- list index out of range 
+hotel name --- Ocean Dreams & Hotel Meadows Dream ! Bikers,Couple & Family Hotel ! Valley View ! Open Terrace Cafe, key -- cancelType, error -- list index out of range 
+hotel name --- Ocean Dreams & Hotel Meadows Dream ! Bikers,Couple & Family Hotel ! Valley View ! Open Terrace Cafe, key -- paymenttype, error -- list index out of range 
+hotel name --- Ocean Dreams & Hotel Meadows Dream ! Bikers,Couple & Family Hotel ! Valley View ! Open Terrace Cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Cozy Nook Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tourist Hotel 10 minutes walking distance from the mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Rock Manali by Vivaan, key -- cancelType, error -- list index out of range 
+hotel name --- Rock Manali by Vivaan, key -- paymenttype, error -- list index out of range 
+hotel name --- Vine Hills Resort & Spa Manali by The Beatle, key -- cancelType, error -- list index out of range 
+hotel name --- Vine Hills Resort & Spa Manali by The Beatle, key -- paymenttype, error -- list index out of range 
+hotel name --- GLAMPING CLUB, key -- paymenttype, error -- list index out of range 
+hotel name --- Echor Himalayan Aurum Manali, Heating & Cooling, key -- cancelType, error -- list index out of range 
+hotel name --- Echor Himalayan Aurum Manali, Heating & Cooling, key -- paymenttype, error -- list index out of range 
+hotel name --- CS Shhandella Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Satkar Residency - Riverside Old Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Himalayan cottage sarawati palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aloka Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Hayer Regency, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Hayer Regency, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow Valley Resorts & Spa Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow Crest Residency - A Pure Veg Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jai Maa Chamunda Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Venus, Live like a local, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa 5, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ROOP MOUNTAIN HOMESTAY No Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- Kriday Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- Kriday Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Applewood Villa in Manali Romantic Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Johnson Studios with Views and Wi-Fi, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Monal, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- West Western Resort Manali #NearToMallRoad #Gym #Lawn #PlayingZone #PoolTable #KidsFriendly #MountainView #TableTennis #FamilyFriendly #PrivateParking, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Rigzin Nest Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Juniper Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hill Rive Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MRPS Eco Eden Resort nd Spa manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nature Bliss - Mount Serene, key -- cancelType, error -- list index out of range 
+hotel name --- Nature Bliss - Mount Serene, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel O Tridev, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dragon Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Dragon Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Zone Connect by The Park, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Peaceful Village Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Casa Bella Vista- Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Apple Orchards 3Bhk with Kitchen, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Super Hotel O Simsa Near Kanyal Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Applewood Villa Resort Romantic Mountain Retreat in Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sterling Bungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HN cottages Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Retreat Cottages with Lawn, Bonfire, key -- paymenttype, error -- list index out of range 
+hotel name --- Zen Manali by Keekoo Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Bros Hostel & Yaara Cafe, key -- cancelType, error -- list index out of range 
+hotel name --- Bros Hostel & Yaara Cafe, key -- paymenttype, error -- list index out of range 
+hotel name --- Solang Valley Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Solang Valley Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Bedzzz Xclusiv Baikunth, Manali By Leisure Hotels - 650 meters from Hidimba Devi Temple, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Anant Meadows, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Anant Meadows, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Frozen Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Premium wooden cottage cloud 9, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Premium Mareema Near Beas River - BEST HOTEL IN MANALI, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aarzu Resorts, key -- cancelType, error -- list index out of range 
+hotel name --- Aarzu Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Aarzu Resorts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 4Everstay By Premium Vale Rian Top Rated Best Selling Hotel In Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manali Vibes and Trails, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manali Valley Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Himalayan Tradition Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Villa Aavaas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mother Tree Inn & Cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lost in the Alps by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Banon Resorts, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Fast Way Manali #Near zingbus #Near Pizzahut #By Linkway, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- LivingStone Snow Region Campsite, key -- paymenttype, error -- list index out of range 
+hotel name --- The Alpine Escape, Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Old Smugglers with Balcony mountain view AC hot and Cold Near to Hadimba Temple Near to Mall Road#Free Pick from Volvo Bus Stand, key -- paymenttype, error -- list index out of range 
+hotel name --- Antriksh Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pods stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manali Hill Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kaira huts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ekaanth, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Silverstone Mansions Cottages, key -- paymenttype, error -- list index out of range 
+hotel name --- Silverstone Mansions Cottages, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pristine Inn Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wooden Castle Hotel and Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Mountain Majesty's Inn, Manāli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nalagarh Outhouse by Edenhomes, key -- cancelType, error -- list index out of range 
+hotel name --- Nalagarh Outhouse by Edenhomes, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Beas Valley, Manāli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kaira huts nature's hug, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pause By the Woods, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Smugglers Mountain View - central heated & air Cooled #Free Pick from Volvo Bus Stand, key -- paymenttype, error -- list index out of range 
+hotel name --- Tripple R Ambika residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 4BHKitchen I MountainView I Pet Friendly I Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- 4BHKitchen I MountainView I Pet Friendly I Garden, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jain Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Comfort Inn Snow Park - Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sundazed Cottage by Edenhomes, key -- cancelType, error -- list index out of range 
+hotel name --- Sundazed Cottage by Edenhomes, key -- paymenttype, error -- list index out of range 
+hotel name --- Sundazed Cottage by Edenhomes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Alpine Himalayan View , Manali By The Premium Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Aspiring6elements, key -- paymenttype, error -- list index out of range 
+hotel name --- Himalayan Spurge Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kaira huts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- LN Grand Suite, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The OakHurst, key -- cancelType, error -- list index out of range 
+hotel name --- The OakHurst, key -- paymenttype, error -- list index out of range 
+hotel name --- Amara Resorts Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Amara Resorts Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Amara Resorts Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Apple Paradise, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Getaway Stays Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Reconnect By GoingZero, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel NSB Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel NSB Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Simsa View, key -- paymenttype, error -- list index out of range 
+hotel name --- Simsa View, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- House of Soyl, key -- paymenttype, error -- list index out of range 
+hotel name --- House of Soyl, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Frostvale Private 3 Bedroom Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shivadya - A Luxury Boutique Experience, key -- paymenttype, error -- list index out of range 
+hotel name --- No.5 Hotel and Cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Westwoodvilla by Edenhomes, key -- cancelType, error -- list index out of range 
+hotel name --- Westwoodvilla by Edenhomes, key -- paymenttype, error -- list index out of range 
+hotel name --- Westwoodvilla by Edenhomes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wooden huts nr mall road for 4 person, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel O Sukhsagar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Swastik Grand Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The ForestBound Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- The ForestBound Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SaffronStays Kesar Villa, Manali - beautiful villa amidst an apple orchard - All clear roads, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Premium Isaan Resort Near Hidimba Devi Temple and Ghatotkach Tree Temple - Free Parking With Restaurant Facilities - Hygiene & Spacious Room - Best Hotel In MANALI, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Could 9 cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kapoor Resort by DLS Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- White villa cloud 9, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Amrit Villa (Formerly known as Aarti Villa), key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Snow Flakes Resort And Spa Centrally Heated Luxury Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow Flakes Resort And Spa Centrally Heated Luxury Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- riversidehomestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rio sol villas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gezellig Inn - Golden Apple, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Regenta Place Green Leaf Manali- A Centrally Heated Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Neha Regency, key -- paymenttype, error -- list index out of range 
+hotel name --- Mpple Mount View, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- White villa Manali nr mall road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Mukund Palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Azure Chandertal Regency Hotel And Spa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Great warriors homestay 2bhk apartment and rooms available, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mastiff Xanadu, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Khwahhish Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MB Igloo Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Samar's Nest Homestay,Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Samar's Nest Homestay,Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Juniper Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Riverside cottage manali, key -- cancelType, error -- list index out of range 
+hotel name --- Riverside cottage manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Riverside cottage manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Shanag Heritage Daddy's Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Locals Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cloud 9 cottages, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Himalayan Retreat Luxury Villa in Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Soham Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at The Waterwillow with Valley View, key -- paymenttype, error -- list index out of range 
+hotel name --- KAIRA HUTs, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MALL ROAD HOTEL S A M I R U P A L A C E near temple and garden, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Amritalaya - Luxury Villa with Bonfire in Raison, key -- paymenttype, error -- list index out of range 
+hotel name --- Amaya Retreat Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aayaan Roy villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kensho hills, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gaurav Guest House, Old Manali - Riverside Property !! River & Mountain View !!, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Himalayan Monal By Blueko Hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Winter place, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SaffronStays Monarch Manor, Manali - regal mansion, key -- paymenttype, error -- list index out of range 
+hotel name --- Kathkunigram- 1BHK fully furnished, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manzar Manali A Scenic Retreat 6BR Villa in Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dreamscape Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The krishna's cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cloud 9 wooden villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Jodhpur House - 3 BR Pet friendly Cozy villa in Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Sajla Waterfall BnB, key -- cancelType, error -- list index out of range 
+hotel name --- Sajla Waterfall BnB, key -- paymenttype, error -- list index out of range 
+hotel name --- Sajla Waterfall BnB, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayVista at Rosemary Cottage 2BR Villa in Manali with Lawn, key -- paymenttype, error -- list index out of range 
+hotel name --- Wooden Castle Hotel & Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treehouse for couple nr mall road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Treehouse near mall rd for 4 person, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cozy & premium wooden huts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manali Mornings, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Honeymoon Inn Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Honeymoon Inn Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- !!! Hotel The Nirvana Hills By Hotel Manu !!! A Luxury Stay With Mountain View!!!Couple Friendly!!! Balcony Rooms!!!Open Terrace With 360 View!!!, key -- paymenttype, error -- list index out of range 
+hotel name --- La Voglia-Old Manali, key -- cancelType, error -- list index out of range 
+hotel name --- La Voglia-Old Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Lords Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Riverine Cafe & Riverview Residences Mall Road Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Villa Riverine Cafe & Riverview Residences Mall Road Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Forest Retreat With Mountain View Best Property In Manali HP, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Grand Krisa Resort & SPA , Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL ROyAL THE MALL MANALI, key -- cancelType, error -- list index out of range 
+hotel name --- HOTEL ROyAL THE MALL MANALI, key -- paymenttype, error -- list index out of range 
+hotel name --- Olgah Manali, key -- cancelType, error -- list index out of range 
+hotel name --- Olgah Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- White Rose Hotel By #Link Way, key -- cancelType, error -- list index out of range 
+hotel name --- White Rose Hotel By #Link Way, key -- paymenttype, error -- list index out of range 
+hotel name --- Himalayan Ecstacy, key -- paymenttype, error -- list index out of range 
+hotel name --- La Vaca India Manali, key -- cancelType, error -- list index out of range 
+hotel name --- La Vaca India Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Link Way near by Pizza Hut Maal Road 1km, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Park Paradise, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Park Paradise, Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- A BUDGET URBA- MONK Near Temple - Restaurant and Wi-Fi Facilities -FAMILY HOTEL IN MANALI, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aayna Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Green Mountain Lodge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sparklyn View Luxe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Ravasa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Dream Land, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Cherry by Nature Hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mareema Retreat by StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Mareema Retreat by StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Mareema Retreat by StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Antriksh cottage Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dew Drop Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vella Marina Group of Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Mountain Nest by Terraa, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Mountain Nest by Terraa, Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- sunrise heaven, key -- cancelType, error -- list index out of range 
+hotel name --- sunrise heaven, key -- paymenttype, error -- list index out of range 
+hotel name --- Rio sol resorts and villas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tripti Villas, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Glacier Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Sartaj AJ Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- TRPOTELS Kanyal Road AT Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Harmony Stay Manali peaceful location, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Red rose cottages manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Him Paradise, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow Apple Resort by West Western, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Snow Park Villas & Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Day Night, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Green Mountain Lodge, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Hema Holiday Home, key -- paymenttype, error -- list index out of range 
+hotel name --- Persimmon Farmstead, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Old Monk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- CHAMBYAL's RETREAT, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Hampta pass view by silver land, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Manu Deluxe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Hadimba Heights, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Wander Thrives iNN, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- vella Mrina Group of hotel Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Shaurn Hotel & Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Broad view, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Karma Valley Stay & Cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jispa Journey Camp Lahoul & Spiti, key -- paymenttype, error -- list index out of range 
+hotel name --- Manali Heaven, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Barkha Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Sitara International, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Sitara International, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Page 3 - A Riverside Hotel and Bar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Om Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Premium Conifer Manali Near Hadimba Devi Temple - BEST HOTEL IN MANALI, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manali Hotel RVP Near Mall Road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shobha Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sunrise Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Haizel Pine Wood Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- the town ville manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Skipping stone, key -- paymenttype, error -- list index out of range 
+hotel name --- Tree valley by Terraa Hotel, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Tree valley by Terraa Hotel, Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Trimurti B&B, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Pahadi Basera, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Valley Of Sublime!!! NIRVANA HILLS!!! A family Hotel with Roof Top Lounge and Restaurants, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Royal Nest By Terraa Hotels, Manali, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Nest By Terraa Hotels, Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Agram Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Sunset Haven, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aanagha Stay & cafe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Marrema Regency Pure Veg by StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Marrema Regency Pure Veg by StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Marrema Regency Pure Veg by StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- kalpana homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- THE TROPICAL BLISS unit of HOLIDAY CLUB INN, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dhrisha Mohatsav By Alcor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shivalik kanyal cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Him Taj by StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Him Taj by StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Him Taj by StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Snow Range Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel The Royal kingdom Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Massif Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Revendels by Nagpals, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Orchard Homes Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hidden Heaven, Near Nature Park, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Royal Rajasthan Regency - Hotel & Restaurant, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- By The Way, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Thakur Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Pine Grove, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel The royal kingdom manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Village House Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Himachal Heights, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Explore Cafe & Cabins, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Aesthetic Nest Home Stay Manali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jack of all, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxe Signature, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bayith Inn,dragon chowk, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Heavens Orchard, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Chatanya Cottages, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

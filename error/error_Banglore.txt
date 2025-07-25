@@ -1,0 +1,502 @@
+hotel name --- Hilton Bangalore Embassy GolfLinks, key -- cancelType, error -- list index out of range 
+hotel name --- Hilton Bangalore Embassy GolfLinks, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Bengaluru City Centre - An Accor Brand, key -- cancelType, error -- list index out of range 
+hotel name --- ibis Bengaluru City Centre - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- Sliceinn Sylva, Wilson Garden, Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Sanctum Suites Whitefield Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Oak Madiwala Lake Park Formerly BTM, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Modern Comfortable 1BHK Prime location Service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- RRR Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- IverBlue, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- ibis Bengaluru Hebbal - An Accor Brand, key -- cancelType, error -- list index out of range 
+hotel name --- ibis Bengaluru Hebbal - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- Grand Mercure Bangalore - An Accor Brand, key -- cancelType, error -- list index out of range 
+hotel name --- Grand Mercure Bangalore - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- Guest house near Biec exhibition center, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Royal Sterling- Manyata Tech Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Comfy 1BHK near Kadugodi Metro, key -- cancelType, error -- list index out of range 
+hotel name --- Comfy 1BHK near Kadugodi Metro, key -- paymenttype, error -- list index out of range 
+hotel name --- Comfy 1BHK near Kadugodi Metro, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- GTS SUITES, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Crown Suites - Nr Sony Signals, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Dreamy Nest HSR Layout, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Empire International Church Street, key -- cancelType, error -- list index out of range 
+hotel name --- Empire International Church Street, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel RMS Comforts - Nr Yeshwantpur Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- J C Comforts, key -- paymenttype, error -- list index out of range 
+hotel name --- Sliceinn Gulmohar- Near Kempegowda International Airport, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Bengaluru Hosur Road - An Accor Brand, key -- cancelType, error -- list index out of range 
+hotel name --- ibis Bengaluru Hosur Road - An Accor Brand, key -- paymenttype, error -- list index out of range 
+hotel name --- 116 Home Tales by Tipiverse, BTM Layout - NO CAR PARKING, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - HAL Old Airport Rd, key -- paymenttype, error -- list index out of range 
+hotel name --- Ayra Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Taj Yeshwantpur Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- Lilac Hotel, 5th Block, key -- paymenttype, error -- list index out of range 
+hotel name --- Seasons Suites at Koramangala, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Fortune Park JP Celestial, Bengaluru - Member ITC Hotels' Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Wandr Hotel- Near MG Road, key -- cancelType, error -- list index out of range 
+hotel name --- Wandr Hotel- Near MG Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Casa Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel GR Lake View - BTM Layout, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - Indiranagar, key -- paymenttype, error -- list index out of range 
+hotel name --- X by Bloom l Indiranagar, key -- paymenttype, error -- list index out of range 
+hotel name --- Goshen Inn Suites and Serviced Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Hilton Bengaluru Embassy Manyata Business Park, key -- cancelType, error -- list index out of range 
+hotel name --- Hilton Bengaluru Embassy Manyata Business Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Temple Tree Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Savi Inn - Nr Mantri Square Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel The Black Stone, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel The Black Stone, key -- paymenttype, error -- list index out of range 
+hotel name --- La Marvella, Bengaluru, key -- cancelType, error -- list index out of range 
+hotel name --- La Marvella, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- Ega Orchid, Luxury Apartment in Brookefield, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Rotano Grand - Nr Marathahalli Bridge, key -- paymenttype, error -- list index out of range 
+hotel name --- Daffodil Delight - Manyata Tech Park, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Royal Suites - Nr Gopalan innovation mall, key -- paymenttype, error -- list index out of range 
+hotel name --- StayMazing Manyata-1BHK Boutique AC Apartments -Couple Friendly, key -- cancelType, error -- list index out of range 
+hotel name --- StayMazing Manyata-1BHK Boutique AC Apartments -Couple Friendly, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Prime The Vintage Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Cozy Room 1Bhk with Lift 501, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ramamurthy Sleeps6 2bedroom Tv Wifi, key -- cancelType, error -- list index out of range 
+hotel name --- Ramamurthy Sleeps6 2bedroom Tv Wifi, key -- paymenttype, error -- list index out of range 
+hotel name --- Ramamurthy Sleeps6 2bedroom Tv Wifi, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SPLENDID SHUBHAM SERVICED APARTMENTS, key -- paymenttype, error -- list index out of range 
+hotel name --- Gokulam Grand Hotel & Spa Bangalore, key -- cancelType, error -- list index out of range 
+hotel name --- Gokulam Grand Hotel & Spa Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ellegant Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Emara Grand - HAL Old Airport Road, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Oriental Suites III - BTM Mico Layout, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Tree Suites - Bangalore Airport Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Sanctum Suites Domlur Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Sky View Palace - Marathahalli Outer Ring Road, key -- paymenttype, error -- list index out of range 
+hotel name --- BloomSuites I Electronics City, key -- paymenttype, error -- list index out of range 
+hotel name --- Trinity Hotel Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- Lazdana Hotel Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Rotano Suites - Yelahanka, key -- paymenttype, error -- list index out of range 
+hotel name --- Palm Rooms Near CHRISTH UNIVERSITY&DAIRY CIRCLE, key -- cancelType, error -- list index out of range 
+hotel name --- Palm Rooms Near CHRISTH UNIVERSITY&DAIRY CIRCLE, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - HSR Club, key -- paymenttype, error -- list index out of range 
+hotel name --- Cozy Room 1Bhk with Lift 201, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Grand Continent Hebbal A Sarovar Portico Affiliate Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Grand Continent Hebbal A Sarovar Portico Affiliate Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Hotel MG Road Dunsvirk Inn by Embassy Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Bhagini Icon Premier Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Cozy Room 1Bhk with Lift 403, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Royal Stay I - Mahadevapura, key -- paymenttype, error -- list index out of range 
+hotel name --- Terrace Gardens, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Champion Gateway - Yelahanka, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Frazer Suites - Nr Bangalore Cantt Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Park Inn & Suites by Radisson Bengaluru Yelahanka, key -- cancelType, error -- list index out of range 
+hotel name --- Park Inn & Suites by Radisson Bengaluru Yelahanka, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Pavithraa Edition - Nr Yeshwantpur Circle, key -- paymenttype, error -- list index out of range 
+hotel name --- SFO Hotel and Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Bangalore Gate Hotel & Conferences, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Manyu Inn - Nr Haralur Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Royalwood Deluxe, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel E City Inn - 3km from Infosys Campus, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Metro Suites - Nr ESI Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The Prime, key -- paymenttype, error -- list index out of range 
+hotel name --- Crest Executive Suites, Whitefield, key -- paymenttype, error -- list index out of range 
+hotel name --- Adarsh Hamilton, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Bangalore- Whitefield, key -- paymenttype, error -- list index out of range 
+hotel name --- Guesture Stays - Dwellington, Electronics City Phase 2, key -- paymenttype, error -- list index out of range 
+hotel name --- The Paul Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- De Mandarin, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal Platinum Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Sri Krishna Suites - Bellandur, key -- paymenttype, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur road with lift 102, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- X by Bloom I Hebbal Manyata Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Ekaa Keys By Bestinn Leisure - Banglore, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal Grand - Basaveshwar Nagar, key -- paymenttype, error -- list index out of range 
+hotel name --- Suraksha Stay ITPL Hotel Banglore, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Shivaals Residency - Rajajinagar, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Le Grandeur, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Le Grandeur, key -- paymenttype, error -- list index out of range 
+hotel name --- Sanctum Suites BEL Road Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Windfall Service Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Kings Suites HRBR Layout - Nr Manyata Tech Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Palm Meadows Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Liwa - The Transit Hotel, Bengaluru, key -- cancelType, error -- list index out of range 
+hotel name --- Liwa - The Transit Hotel, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- SS Lumina Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- SS Lumina Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Shangri-La Bengaluru, key -- cancelType, error -- list index out of range 
+hotel name --- Shangri-La Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Grand Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Two Bedroom Independent Als Home, key -- cancelType, error -- list index out of range 
+hotel name --- Two Bedroom Independent Als Home, key -- paymenttype, error -- list index out of range 
+hotel name --- The Pride Hotel, Bangalore, key -- cancelType, error -- list index out of range 
+hotel name --- The Pride Hotel, Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Relax Suites, key -- cancelType, error -- list index out of range 
+hotel name --- Relax Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Primera Extended Stay Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Redmoon Suites - Nr Brookfield, key -- paymenttype, error -- list index out of range 
+hotel name --- Sree Lakshmi Comfort, key -- paymenttype, error -- list index out of range 
+hotel name --- ibis Bengaluru Outer Ring Road, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Studios - Koramangala, key -- paymenttype, error -- list index out of range 
+hotel name --- Big Banyan Vineyard & Resort, key -- cancelType, error -- list index out of range 
+hotel name --- Big Banyan Vineyard & Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Turning Point - Nr Ulsoor Lake, key -- paymenttype, error -- list index out of range 
+hotel name --- 3Bhk Service Apartment with Kitchen Manyata tech Park Hebbal, key -- cancelType, error -- list index out of range 
+hotel name --- 3Bhk Service Apartment with Kitchen Manyata tech Park Hebbal, key -- paymenttype, error -- list index out of range 
+hotel name --- The Lalit Ashok, key -- cancelType, error -- list index out of range 
+hotel name --- The Lalit Ashok, key -- paymenttype, error -- list index out of range 
+hotel name --- Regenta Place Bangalore, Cunningham Road, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel The BTM Palace - BTM Layout, key -- paymenttype, error -- list index out of range 
+hotel name --- Blue Bliss Hotels By PPH Living Infantry Road, key -- cancelType, error -- list index out of range 
+hotel name --- Blue Bliss Hotels By PPH Living Infantry Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Urban Jade, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Urban Jade, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemon Tree Premier, Ulsoor Lake, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- 278 Home Tales by Tipiverse, Koramangala, key -- paymenttype, error -- list index out of range 
+hotel name --- Click Hotel Vista-International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- HOTEL ABOOZ, key -- cancelType, error -- list index out of range 
+hotel name --- HOTEL ABOOZ, key -- paymenttype, error -- list index out of range 
+hotel name --- Ginger Bangalore- Inner Ring Road, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Park View 1BHK HSR Layout - Terrace Garden, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Park View 1BHK HSR Layout - Terrace Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- DayOne Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Vivanta Bengaluru Residency Road, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Chris - Nr Vydehi Hospital, key -- paymenttype, error -- list index out of range 
+hotel name --- Ixora Suites, key -- cancelType, error -- list index out of range 
+hotel name --- Ixora Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel High Rise - Marathalli, key -- paymenttype, error -- list index out of range 
+hotel name --- Royal Orchid Resort & Convention Centre, Yelahanka Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Astra Suites - HSR Main Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Shreyas Villa Spacious 5BHK Retreat, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Monarch Brigade Road, key -- cancelType, error -- list index out of range 
+hotel name --- Monarch Brigade Road, key -- paymenttype, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur road with lift 203, key -- cancelType, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur road with lift 203, key -- paymenttype, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur road with lift 203, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Metro Suites, key -- cancelType, error -- list index out of range 
+hotel name --- Metro Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Quality Comforts Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sri Udupi park phoenix mall, key -- cancelType, error -- list index out of range 
+hotel name --- Sri Udupi park phoenix mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Sapphire Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Sapphire Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel U.T.ELITE, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel U.T.ELITE, key -- paymenttype, error -- list index out of range 
+hotel name --- Utse Suites, key -- cancelType, error -- list index out of range 
+hotel name --- Utse Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- HRBR Enclave, key -- cancelType, error -- list index out of range 
+hotel name --- HRBR Enclave, key -- paymenttype, error -- list index out of range 
+hotel name --- Parijatha Gateway, key -- cancelType, error -- list index out of range 
+hotel name --- Parijatha Gateway, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royale Basant Residency - Gandhinagar, key -- paymenttype, error -- list index out of range 
+hotel name --- HomeSlice Sarjapur - 1BHK Serviced Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- HomeSlice Nazaara, HomeStay in BTM, key -- paymenttype, error -- list index out of range 
+hotel name --- Zip By Spree Hotels Brookefield, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Spiro Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Ramanashree Richmond, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Ramanashree Richmond, key -- paymenttype, error -- list index out of range 
+hotel name --- Keys Select by Lemon Tree Hotels, Hosur Road, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- MANNINA MANE Vasa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Galaxy Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Grand View Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Grand View Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Select JP Cosmos, Bengaluru - Member ITC Hotels' Group, key -- cancelType, error -- list index out of range 
+hotel name --- Fortune Select JP Cosmos, Bengaluru - Member ITC Hotels' Group, key -- paymenttype, error -- list index out of range 
+hotel name --- Comfy 2-bedroom House in Sanjaynagar, Bengaluru, key -- cancelType, error -- list index out of range 
+hotel name --- Comfy 2-bedroom House in Sanjaynagar, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- Olive Serviced Apartments HSR Layout, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Serviced Apartments HSR Layout, key -- paymenttype, error -- list index out of range 
+hotel name --- Our Native Village, key -- paymenttype, error -- list index out of range 
+hotel name --- St. Mark's Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- 4Bhk Penthouse in Central Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- 4Bhk Penthouse in Central Bengaluru, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Mayuri Residency - Marathahalli, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Sri Sai Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Sathya Comforts - Nr Commercial Street, key -- paymenttype, error -- list index out of range 
+hotel name --- Nahar Heritage Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- M's Cozy Unwind - Zinnia, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- juSTa Off MG Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Kargil Stays- Dedicated 1BHK Flat with Balcony, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Jagadish International-Sankey Road, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Jagadish International-Sankey Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Suraksha Stay Kundalahalli, key -- paymenttype, error -- list index out of range 
+hotel name --- Bengaluru Marriott Hotel Whitefield, key -- paymenttype, error -- list index out of range 
+hotel name --- La Sara Grand, key -- paymenttype, error -- list index out of range 
+hotel name --- The Taaj Inn, key -- cancelType, error -- list index out of range 
+hotel name --- The Taaj Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Aries Lakeview Penthouse, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Attide Biz, key -- cancelType, error -- list index out of range 
+hotel name --- Attide Biz, key -- paymenttype, error -- list index out of range 
+hotel name --- Citrine, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Willow Tree, key -- paymenttype, error -- list index out of range 
+hotel name --- 2390 Home Tales by Tipiverse, HSR Layout, key -- paymenttype, error -- list index out of range 
+hotel name --- Joy Lux Stay, key -- cancelType, error -- list index out of range 
+hotel name --- Joy Lux Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- La Sara Gateway, key -- paymenttype, error -- list index out of range 
+hotel name --- Krishna Homes, key -- cancelType, error -- list index out of range 
+hotel name --- Krishna Homes, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Avora Tree By Rivido Kempegowda Airport Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Homestay Near Nandi, Muddenahalli, key -- paymenttype, error -- list index out of range 
+hotel name --- PVR Suites off Bannerghatta Road, key -- cancelType, error -- list index out of range 
+hotel name --- PVR Suites off Bannerghatta Road, key -- paymenttype, error -- list index out of range 
+hotel name --- The City Boho, Luxe 3BHK Jayanagar -Great Location, key -- cancelType, error -- list index out of range 
+hotel name --- The City Boho, Luxe 3BHK Jayanagar -Great Location, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Dasya - Formerly Nice Stay The Business Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Keys Select by Lemon Tree Hotels, Whitefield, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Atithi Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel orchid inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Aiden by Best Western Hennur Bengaluru, key -- cancelType, error -- list index out of range 
+hotel name --- Aiden by Best Western Hennur Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- Classia Suites, key -- cancelType, error -- list index out of range 
+hotel name --- Classia Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Cosmo Annora, key -- paymenttype, error -- list index out of range 
+hotel name --- Fortune Suites, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemon Tree Hotel Electronics City, key -- paymenttype, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur road with lift 303, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Shreyas Inn - Kaikondrahalli Lake, key -- paymenttype, error -- list index out of range 
+hotel name --- Sheraton Grand Bengaluru Whitefield Hotel & Convention Center, key -- cancelType, error -- list index out of range 
+hotel name --- Sheraton Grand Bengaluru Whitefield Hotel & Convention Center, key -- paymenttype, error -- list index out of range 
+hotel name --- X by Bloom l Manyata, key -- paymenttype, error -- list index out of range 
+hotel name --- Atmosfera Bengaluru, India, key -- cancelType, error -- list index out of range 
+hotel name --- Atmosfera Bengaluru, India, key -- paymenttype, error -- list index out of range 
+hotel name --- Sri Krishna Lodge Marathalli, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Olive Service Apartments - Koramangala, key -- cancelType, error -- list index out of range 
+hotel name --- Olive Service Apartments - Koramangala, key -- paymenttype, error -- list index out of range 
+hotel name --- Ivory Apartment in Hennur with Comfort, key -- cancelType, error -- list index out of range 
+hotel name --- Ivory Apartment in Hennur with Comfort, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal Wood Premier - Domlur, key -- paymenttype, error -- list index out of range 
+hotel name --- Leroy Grand - Yeshwanthpur, key -- paymenttype, error -- list index out of range 
+hotel name --- 2BHK in Heart of Kormangala, key -- cancelType, error -- list index out of range 
+hotel name --- 2BHK in Heart of Kormangala, key -- paymenttype, error -- list index out of range 
+hotel name --- Namma HomeSlice, Balcony Rooms in Brookefield, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Astra Berry's - Nr Marathahalli Main Road, key -- paymenttype, error -- list index out of range 
+hotel name --- I Nest BY D2V Madiwala, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Castle Hebbal Service Apartments, key -- cancelType, error -- list index out of range 
+hotel name --- Castle Hebbal Service Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Welcome Inn Express, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Empark, key -- paymenttype, error -- list index out of range 
+hotel name --- Tranquil Serviced Apartments - Sarjapur, key -- paymenttype, error -- list index out of range 
+hotel name --- Rustic Village Farmhouse, key -- paymenttype, error -- list index out of range 
+hotel name --- Rentnstay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tea Pavilion, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Ginger Suites - Nr BHEL LTD, key -- paymenttype, error -- list index out of range 
+hotel name --- Bloom Hotel - Brookefield, key -- paymenttype, error -- list index out of range 
+hotel name --- SS Lumina Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Akshaya Aura, key -- paymenttype, error -- list index out of range 
+hotel name --- Monarch Luxur - Infantry Road, key -- cancelType, error -- list index out of range 
+hotel name --- Monarch Luxur - Infantry Road, key -- paymenttype, error -- list index out of range 
+hotel name --- The Den, Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- Vanusa Residency, key -- cancelType, error -- list index out of range 
+hotel name --- Vanusa Residency, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel U.T.Elegance, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel U.T.Elegance, key -- paymenttype, error -- list index out of range 
+hotel name --- Gubbi Goodu Green Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Plaza Heights, key -- paymenttype, error -- list index out of range 
+hotel name --- Jamesville-4BHK Villa, Wi-Fi, SmartTV - CityCentre, key -- cancelType, error -- list index out of range 
+hotel name --- Jamesville-4BHK Villa, Wi-Fi, SmartTV - CityCentre, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxury Apartment In Indiranagar, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gateway Inn, key -- cancelType, error -- list index out of range 
+hotel name --- Gateway Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Grand Krishna Rooms, key -- paymenttype, error -- list index out of range 
+hotel name --- Nalapad's Hotel Bangalore International, key -- paymenttype, error -- list index out of range 
+hotel name --- Stayhomestays Grande, key -- cancelType, error -- list index out of range 
+hotel name --- Stayhomestays Grande, key -- paymenttype, error -- list index out of range 
+hotel name --- Stayhomestays Grande, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Danny's Villa-2 bedrooms with parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 1BHK near Sarjapur with lift 501, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabExpress Ivory Pearl - Nr Sony Signal, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel RLV Green Palace - Nr Kengeri Satellite Town, key -- paymenttype, error -- list index out of range 
+hotel name --- Charming 3BHK 100 Mbps- 19th Floor for Family, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Pentouz - A Boutique Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Habitat Comforts, key -- paymenttype, error -- list index out of range 
+hotel name --- Melange Luxury Serviced Apartments, key -- cancelType, error -- list index out of range 
+hotel name --- Melange Luxury Serviced Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Sri Krishna Inn - Kempegowda Airport Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Sai Grand Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 493 Home Tales by Tipiverse, Koramangala, key -- paymenttype, error -- list index out of range 
+hotel name --- HomeSlice Manzil - 1BHK in HSR, key -- paymenttype, error -- list index out of range 
+hotel name --- FabExpress Rithun Residency - Jayanagar Anjaneyaswamy Temple, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Whitefield Suites - Nr ITPL Main raod, key -- paymenttype, error -- list index out of range 
+hotel name --- 37th Crescent Hotel Bengaluru, key -- paymenttype, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur with lift 502, key -- cancelType, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur with lift 502, key -- paymenttype, error -- list index out of range 
+hotel name --- 1BHK near Sarjapur with lift 502, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Fiesta Grand, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tara Suites Premium rooms in Central Indiranagar, key -- cancelType, error -- list index out of range 
+hotel name --- Tara Suites Premium rooms in Central Indiranagar, key -- paymenttype, error -- list index out of range 
+hotel name --- Spring Valley Villa, key -- cancelType, error -- list index out of range 
+hotel name --- Spring Valley Villa, key -- paymenttype, error -- list index out of range 
+hotel name --- The Continentti Whitefield, key -- paymenttype, error -- list index out of range 
+hotel name --- juSTa MG Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Arabian Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sanctum Suites Richmond Road Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Cocoon Suites - Kalyan Nagar, key -- paymenttype, error -- list index out of range 
+hotel name --- juSTa Indiranagar, key -- paymenttype, error -- list index out of range 
+hotel name --- Galaxy Ivory Corporate Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Memories Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Liverpool Hotels Marathahalli, Outer Ring Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Sampada Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Sampada Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Champion Residency - KR Puram, key -- paymenttype, error -- list index out of range 
+hotel name --- FabHotel Royal Comfort Madiwala, key -- paymenttype, error -- list index out of range 
+hotel name --- ICON Express by BHAGINI Hoodi, key -- cancelType, error -- list index out of range 
+hotel name --- ICON Express by BHAGINI Hoodi, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Grand Hotel Near Kempegowda International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- 144 Tipiverse, key -- paymenttype, error -- list index out of range 
+hotel name --- T Square, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Vista Suites - Frazer Town, key -- paymenttype, error -- list index out of range 
+hotel name --- La Sara Comforts, key -- paymenttype, error -- list index out of range 
+hotel name --- Mystic Apartotel Hebbal, key -- paymenttype, error -- list index out of range 
+hotel name --- Octave Kanthi Comforts, key -- paymenttype, error -- list index out of range 
+hotel name --- SaffronStays Niranta- 4-BDR villa on golf course near Bangalore, key -- cancelType, error -- list index out of range 
+hotel name --- SaffronStays Niranta- 4-BDR villa on golf course near Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at M Villa with Breakfast Included, key -- paymenttype, error -- list index out of range 
+hotel name --- Elegant Queen Room with Private Balcony & AC, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Seasons Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ghar-fully furnished house with 2 Bedroom hall and kitchen, key -- paymenttype, error -- list index out of range 
+hotel name --- The Green Path Eco Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vista Suites, Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Stay On The Way Bangalore Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Royal Inn - Electronic City, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Royal Inn - Electronic City, key -- paymenttype, error -- list index out of range 
+hotel name --- D'Habitat Serviced Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- D'Habitat Serviced Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Pph Royal GS Comforts Opp Mall of Asia, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Aasare Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tipiverse 144, key -- paymenttype, error -- list index out of range 
+hotel name --- Stayzone 365 Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Townhouse Whitefield Railway Station Formerly Kadugudi Whitefield, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- RV Whitefield Hostel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SAP Golden Grande Electronic City, key -- cancelType, error -- list index out of range 
+hotel name --- SAP Golden Grande Electronic City, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Dvaraka Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- The Urban Nest, key -- cancelType, error -- list index out of range 
+hotel name --- The Urban Nest, key -- paymenttype, error -- list index out of range 
+hotel name --- Sai Grand Villa Hotel Near Bangalore Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Avi Fortune Suites - Near Bangalore International Airport, key -- paymenttype, error -- list index out of range 
+hotel name --- Bessavn - Cozy 2BHK Guest House, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- malnad in bangalore, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sri Krishna Residency Bangalore, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- hotel royal suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sai Bliss Residency, Manyata Tech Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Idam Na Mama, key -- paymenttype, error -- list index out of range 
+hotel name --- StayMazing Citadel -2BHK Boutique AC Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lagoon Luxe Pool Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- FabHotel Platinum Palace - Nr Magadi Main Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Caramel Hotels, key -- cancelType, error -- list index out of range 
+hotel name --- Caramel Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- M's Cozy Unwind - Lily, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxurious Retro-Modern Villa House for Rent, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sai Teja hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aero View Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Galaxy 4th Block by RedOlive 4th block JAYANAGAR WIFI, key -- paymenttype, error -- list index out of range 
+hotel name --- Luxury 3BHK in KR Puram Stunning Views on 15 Floor, Pool & Private Garden, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HomeSlice Espacio, key -- paymenttype, error -- list index out of range 
+hotel name --- Tulip Gardens, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sakura Inn and Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Humble Family Abode, key -- cancelType, error -- list index out of range 
+hotel name --- Humble Family Abode, key -- paymenttype, error -- list index out of range 
+hotel name --- Sindhu Suites - Premium 2 BHK Apartment RMV II Stage Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Sliceinn Prasanthi 3 BHK- Indiranagar, Bangalore, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Pentouz on 100 Feet Road Indiranagar - An Urban Luxury Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- Silverlinecloudpool, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dunhill Jungle View, key -- cancelType, error -- list index out of range 
+hotel name --- Dunhill Jungle View, key -- paymenttype, error -- list index out of range 
+hotel name --- Ram Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO Studio Koramangala - Terrace Garden, Parking, key -- cancelType, error -- list index out of range 
+hotel name --- BluO Studio Koramangala - Terrace Garden, Parking, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO Studio Koramangala - Terrace Garden, Parking, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Deluxe 2BHK Opp Whitefield Metro, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Luxury 1bhk in Manyata Thanisandra, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Accor Inn, Bangalore, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Accor Inn, Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Premium 3bhk furnished apartment - gated community, key -- cancelType, error -- list index out of range 
+hotel name --- Premium 3bhk furnished apartment - gated community, key -- paymenttype, error -- list index out of range 
+hotel name --- Premium 3bhk furnished apartment - gated community, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gatsby Grandeur 5 Bhk Villa with Private theater, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- L A V Mansion, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Nektar Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 1BHK HSR Layout - Terrace Garden, Balcony, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 1BHK HSR Layout - Terrace Garden, Balcony, key -- paymenttype, error -- list index out of range 
+hotel name --- BluO 1BHK HSR Layout - Terrace Garden, Balcony, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Akshatha Home Stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Welcome Inn Express, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3bhk villa at koramangala, key -- cancelType, error -- list index out of range 
+hotel name --- 3bhk villa at koramangala, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel SMT INN, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SSN Home Stays in Bangalore near PLAY Arena, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at Hillside Harmony Pvt Pool & Free Breakfast, key -- paymenttype, error -- list index out of range 
+hotel name --- Lotus farm villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Matoshri, key -- cancelType, error -- list index out of range 
+hotel name --- Matoshri, key -- paymenttype, error -- list index out of range 
+hotel name --- Matoshri, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aari Farms- The Exotic Celebrations, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Heiwa by Hodo stays, key -- cancelType, error -- list index out of range 
+hotel name --- Heiwa by Hodo stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Tara Suites YL Lotus, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- La Sara Hometel, key -- paymenttype, error -- list index out of range 
+hotel name --- The Sunshine Bungalow, key -- cancelType, error -- list index out of range 
+hotel name --- The Sunshine Bungalow, key -- paymenttype, error -- list index out of range 
+hotel name --- Golden Residency, Gandhi Nagar Bangalore, key -- cancelType, error -- list index out of range 
+hotel name --- Golden Residency, Gandhi Nagar Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Classy 1bhk near brigade,mg road, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HomeSlice Yellow, key -- paymenttype, error -- list index out of range 
+hotel name --- StayVista at The Goldilocks with Pvt Pool & Gym, key -- paymenttype, error -- list index out of range 
+hotel name --- Elegant Rooms And Suites, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Home Tales 1 - by Tipiverse, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel White Feather, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel White Feather, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sagar Niwas - Furnished short stay flats 1BHK and 2BHK, key -- cancelType, error -- list index out of range 
+hotel name --- Sagar Niwas - Furnished short stay flats 1BHK and 2BHK, key -- paymenttype, error -- list index out of range 
+hotel name --- Spacious 3BHK High floor East Bangalore with full equipped kitchen- 26A, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aurum Heights2BHKNr Manipal HospitalRed Olive, key -- paymenttype, error -- list index out of range 
+hotel name --- Aurum Heights2BHKNr Manipal HospitalRed Olive, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Essence - By Govindam - Luxury 1 BHK suite, key -- cancelType, error -- list index out of range 
+hotel name --- The Essence - By Govindam - Luxury 1 BHK suite, key -- paymenttype, error -- list index out of range 
+hotel name --- Dunhill Royal Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- AVM Comforts Inn Bangalore, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sri HOME STAY -FULLY FURNISHED LUXURY 2 BEDROOM SERVICED APPARTMENT, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- AnuBNK whitefield, key -- paymenttype, error -- list index out of range 
+hotel name --- Purple Brigade, Bangalore, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2BHK Cozy Apartment Near IKEA & BIEC Bangalore, key -- cancelType, error -- list index out of range 
+hotel name --- 2BHK Cozy Apartment Near IKEA & BIEC Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Heaven of Peace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- VRR Astoria Hotel & Convention Center, key -- paymenttype, error -- list index out of range 
+hotel name --- Partha Residency, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Nebula by Red Olive4th Block JayanagarHCG, key -- paymenttype, error -- list index out of range 
+hotel name --- The Nebula by Red Olive4th Block JayanagarHCG, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 4 BHK Luxury Penthouse- Sliceinn Velvet, Wilson Garden, Bangalore, key -- paymenttype, error -- list index out of range 
+hotel name --- Room in Bengaluru, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- WHITE HOSUE LIVING iNN, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 1BHK near Sarjapur road with lift 101, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sripavani Comforts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Entire terrace Penthouse - Near Manyata Tech Park, key -- cancelType, error -- list index out of range 
+hotel name --- Entire terrace Penthouse - Near Manyata Tech Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Entire terrace Penthouse - Near Manyata Tech Park, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- GoSavvy Executive Residences - Three Bedroom, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- BluO 1BHK City Centre HSR Layout - Balcony, Terrace Garden, key -- cancelType, error -- list index out of range 
+hotel name --- BluO 1BHK City Centre HSR Layout - Balcony, Terrace Garden, key -- paymenttype, error -- list index out of range 
+hotel name --- Aster service Apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Manjappa Villa, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Temple View Shivaya Namah, key -- cancelType, error -- list index out of range 
+hotel name --- Temple View Shivaya Namah, key -- paymenttype, error -- list index out of range 
+hotel name --- Temple View, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Furnished Flat in Whitefield, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mayur Paradise, key -- paymenttype, error -- list index out of range 
+hotel name --- Mayur Paradise, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dhwani - two bedroom home with patio, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Deluxe 2BHK for Families- Opp Whitefield Metro, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Family Friendly Studio Apartment -3, key -- cancelType, error -- list index out of range 
+hotel name --- Family Friendly Studio Apartment -3, key -- paymenttype, error -- list index out of range 
+hotel name --- Family Friendly Studio Apartment -3, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SSN HomeStays - Gayatri Vrindavan Near PLAY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3bhk flat at doddaballapur, yelanka, key -- cancelType, error -- list index out of range 
+hotel name --- 3bhk flat at doddaballapur, yelanka, key -- paymenttype, error -- list index out of range 
+hotel name --- 3bhk flat at doddaballapur, yelanka, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 2-4 Accommodation Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- 3 Bedroom Luxurious Bungalow, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Champion Inn near Yeswantpur Junction Railway Station, key -- paymenttype, error -- list index out of range 
+hotel name --- Thirumala Luxury Home, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Marine Melody Manor, key -- cancelType, error -- list index out of range 
+hotel name --- Marine Melody Manor, key -- paymenttype, error -- list index out of range 
+hotel name --- Marine Melody Manor, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Modern Comfortable 2BHK Service apartments, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Modern 3BHK with fully equipped kitchen on 15Floor only for families, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Central Meridian by StayJade3BHKRichmond Park, key -- paymenttype, error -- list index out of range 
+hotel name --- Central Meridian by StayJade3BHKRichmond Park, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 

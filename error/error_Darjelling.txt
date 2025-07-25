@@ -1,0 +1,266 @@
+hotel name --- Pahari Soul, key -- paymenttype, error -- list index out of range 
+hotel name --- Haven Eleven Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Haven Eleven Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Pineridge Hotel at Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Norbu's Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Golden Orchid, key -- paymenttype, error -- list index out of range 
+hotel name --- Monratino The snow roost- 10 mins walking distance from mall road- Attached balcony with Kanchenjunga Mountain View-Kitchen available, key -- paymenttype, error -- list index out of range 
+hotel name --- The West Gate Posada By Summit, key -- paymenttype, error -- list index out of range 
+hotel name --- Light Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Summit Oakden Resort & Spa Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Sterling Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Mall Stone Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- Villa Everest, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Montana Suites & Spa at Mall, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Swiss Heritage Resort & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Yashshree Mall Road Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Viceroy, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Hermon Hotel & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Sinclairs Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Grace Boutique Hotel & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Arcadia Heritage Resort, key -- paymenttype, error -- list index out of range 
+hotel name --- Sunshraya Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Sunshraya Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Mount Lungta Boutique Hotel & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Little Singamari Home Stay, key -- paymenttype, error -- list index out of range 
+hotel name --- THE ENGLISH COTTAGE, key -- paymenttype, error -- list index out of range 
+hotel name --- The Revett, key -- paymenttype, error -- list index out of range 
+hotel name --- Ki Kiba Dhee, key -- cancelType, error -- list index out of range 
+hotel name --- Ki Kiba Dhee, key -- paymenttype, error -- list index out of range 
+hotel name --- Treebo Eeshan Rodhi Resort, Darjeeling, key -- cancelType, error -- list index out of range 
+hotel name --- Treebo Eeshan Rodhi Resort, Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Tara Palace Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Planter's Heritage By Cilantro Collection - A Unit of Jigden Hotel and Resort, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Silver Spring Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- The Silver Spring Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- The Guiding Monk Home Stays, key -- paymenttype, error -- list index out of range 
+hotel name --- Monratino Himadrie -2 mins walk from Mall Road - All rooms have Kanchenjunga Mountain View, key -- paymenttype, error -- list index out of range 
+hotel name --- Yumasham Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Marigold Manor Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Rambler's Nesting Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Rambler's Nesting Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Sampang Hotel and Restaurant, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Simbosa, key -- cancelType, error -- list index out of range 
+hotel name --- Simbosa, key -- paymenttype, error -- list index out of range 
+hotel name --- Vilasa Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Vilasa Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- INDUS MOUNT ROYALE HOTEL - Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- B&B Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- RISE N SHINE HOMESTAY, key -- paymenttype, error -- list index out of range 
+hotel name --- Tashiling Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Aradhya Apartments, key -- paymenttype, error -- list index out of range 
+hotel name --- Angel Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Jetsunma Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Red Panda Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Red Panda Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Alpenglow Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Darjeeling Homestay Nyano Ghar, key -- cancelType, error -- list index out of range 
+hotel name --- Darjeeling Homestay Nyano Ghar, key -- paymenttype, error -- list index out of range 
+hotel name --- Daphne House, key -- paymenttype, error -- list index out of range 
+hotel name --- Priyatam Stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Himalayan Window, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- MAMTA HOMESTAY, key -- cancelType, error -- list index out of range 
+hotel name --- MAMTA HOMESTAY, key -- paymenttype, error -- list index out of range 
+hotel name --- Tathagata Farm, key -- paymenttype, error -- list index out of range 
+hotel name --- Sparid Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- hotel Seven Seventeen, key -- cancelType, error -- list index out of range 
+hotel name --- hotel Seven Seventeen, key -- paymenttype, error -- list index out of range 
+hotel name --- Tigerhill Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Pranav Homestays, key -- paymenttype, error -- list index out of range 
+hotel name --- Pranav Homestays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lamahatta Rai Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ging Tea House, key -- cancelType, error -- list index out of range 
+hotel name --- Ging Tea House, key -- paymenttype, error -- list index out of range 
+hotel name --- Neema's bnb, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Yashshree Sanderling Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Aarna Valaya, key -- paymenttype, error -- list index out of range 
+hotel name --- Urban Black Hotel, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Smriya Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Poshtel, Meghma , Sandakphu, key -- paymenttype, error -- list index out of range 
+hotel name --- Moutain Souls A 3BHK Studio Apartment, key -- cancelType, error -- list index out of range 
+hotel name --- Moutain Souls A 3BHK Studio Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Moutain Souls A 3BHK Studio Apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sai Darshan Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Sai Darshan Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Bubble Beds, key -- paymenttype, error -- list index out of range 
+hotel name --- Sagarmatha Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Greenland, key -- cancelType, error -- list index out of range 
+hotel name --- Vamoose Greenland, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Greenland, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Shangrila Regency, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel Shangrila Regency, key -- paymenttype, error -- list index out of range 
+hotel name --- Zambala Retreat & Spa Darjeeling, key -- cancelType, error -- list index out of range 
+hotel name --- Zambala Retreat & Spa Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Lemon Tree Homestay Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- deepahomestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ukiyocafeandstays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Summit Enigma Resort & Spa , Lamahatta, key -- paymenttype, error -- list index out of range 
+hotel name --- Summit Enigma Resort & Spa , Lamahatta, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Banabas Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- The Cloud Balcony, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- sunset nest Drokpas rest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sai Maple Eco Resort, Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Sai Maple Eco Resort, Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sumitel Hotel 500 meters from Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Yangzi stays, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Himalayan Workation, key -- paymenttype, error -- list index out of range 
+hotel name --- New, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lhasa Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- HILLYHOOD HOMESTAY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kinley Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mount Conifer Suites & Spa, key -- paymenttype, error -- list index out of range 
+hotel name --- Darjeeling Homes The Glory, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Holiday Homestay, Mungpoo, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Swagatam Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- CHHOTA RANGEET HoMESTAY, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rock view stay, key -- cancelType, error -- list index out of range 
+hotel name --- Rock view stay, key -- paymenttype, error -- list index out of range 
+hotel name --- Rock view stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sunset nest Lillus apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mamring Home stay - Philamon Mukhia, key -- paymenttype, error -- list index out of range 
+hotel name --- Orange Pekoe 2 bedroom apartment, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Primrose Apartment, key -- paymenttype, error -- list index out of range 
+hotel name --- Astoria Rest Nest Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Arya Treetops And Tea Trails by VEO - Part of StayVista, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Himalaya Gateway Residency In Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lamahatta Rai Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Darjeeling Homes The Grace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PRAKRITREE Cottage & Farms, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mane Dara homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel White Yak, key -- cancelType, error -- list index out of range 
+hotel name --- Hotel White Yak, key -- paymenttype, error -- list index out of range 
+hotel name --- Sumitel Vista 800m from Mall Road, key -- paymenttype, error -- list index out of range 
+hotel name --- Chhota Haazri, By The Rajbari Bawali, key -- paymenttype, error -- list index out of range 
+hotel name --- Chhota Haazri, By The Rajbari Bawali, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Peaceful Palace, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Queen, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose View Point, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose View Point, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Adithyanaman Cottage Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Mountain valley home stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Kundu By StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Stay by Tenzing Rock, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Adrija Luxury homes, Kanchenjunga View, 2000 sqft, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hillcrest Prapti Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Albatross, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Rhododendron, key -- cancelType, error -- list index out of range 
+hotel name --- Vamoose Rhododendron, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Rhododendron, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Quaint Wood Cottage, key -- cancelType, error -- list index out of range 
+hotel name --- Vamoose Quaint Wood Cottage, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Quaint Wood Cottage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Gaurav Retreat By StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Gaurav Retreat By StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Gaurav Retreat By StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Tin Tin Boutique Bijanbari, key -- paymenttype, error -- list index out of range 
+hotel name --- Hillcrest Prapti Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Khaling Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Khaling Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Tamang, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Tamang, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Salakha, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Salakha, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- New Mandala (Mahalsha Spa & Resort), key -- paymenttype, error -- list index out of range 
+hotel name --- New Mandala (Mahalsha Spa & Resort), key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rongong Farms - A unit of Dream stay Group of Hotels, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain View Home Stay by StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Mountain View Home Stay by StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain View Home Stay by StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sandeep Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Sandeep Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain Paradise Homestay By StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Mountain Paradise Homestay By StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Mountain Paradise Homestay By StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SNUG Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Orion Retreat, key -- paymenttype, error -- list index out of range 
+hotel name --- DP Homestaayz By StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- DP Homestaayz By StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- DP Homestaayz By StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Dikis, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Dikis, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Poomong, key -- cancelType, error -- list index out of range 
+hotel name --- Vamoose Poomong, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Poomong, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tamanna Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- bnb, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose D'souza, key -- cancelType, error -- list index out of range 
+hotel name --- Vamoose D'souza, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose D'souza, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Homestay 38 sittong-3, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Trio Paradise Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Trio Paradise Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- SUMNIMA HOMESTAYS, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Himalayan Santi 2, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Samjhana Farmhouse restaurant & caffe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ratna Homestay & Restaurant, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Burdwan Palace - A journey into Timeless Legacy, Darjeeling, key -- cancelType, error -- list index out of range 
+hotel name --- Burdwan Palace - A journey into Timeless Legacy, Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Burdwan Palace - A journey into Timeless Legacy, Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Khaling Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- StayApart - Chiabari Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- StayApart - Chiabari Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- StayApart - Chiabari Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Cedar Inn, key -- paymenttype, error -- list index out of range 
+hotel name --- Traditional Hotel & Restaurant !! Kurseong !! Best Hotel in Kurseong, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Hill Queen near Sherpa Gumba Darjeeling Mall 5 Min Couple Friendly, key -- paymenttype, error -- list index out of range 
+hotel name --- Miracle, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- NRS Norling Retreat - Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Q SAINA Mapham, key -- paymenttype, error -- list index out of range 
+hotel name --- THE RETREAT, DARJEELING, key -- paymenttype, error -- list index out of range 
+hotel name --- VMA stay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sumitel Sanderling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel premium Good Morning, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Magnolia Farmhouse and Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Toy Train Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sewaney homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Sewaney homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Sewaney homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel D. Sangay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Echo Hotel and Spa, Mall Road by Tej Hotels and Resorts, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Z Adarash, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Tapovan Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotal Season, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Breeze Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- The Breeze Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- The Breeze Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Amarjeet Hotel, key -- cancelType, error -- list index out of range 
+hotel name --- Amarjeet Hotel, key -- paymenttype, error -- list index out of range 
+hotel name --- View Point Residency , Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- PHR North Point Hotel Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- PHR North Point Hotel Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- DARJEELING HOTEL PREMIUM TREEPLE TREE Near Mall Road - A Top Rated Hotel In Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Trio Paradise, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Highlander's Inn by Ivy Group of Hotels, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bethel Homestay, Darjeeling, key -- paymenttype, error -- list index out of range 
+hotel name --- Himawas, key -- cancelType, error -- list index out of range 
+hotel name --- Himawas, key -- paymenttype, error -- list index out of range 
+hotel name --- Hotel Lago Luxe, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Hotel Darj Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vantage Point Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sagarmatha Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Whistle Stop, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- The Sherpas Rest, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Ganga Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Lake Kalibari Homes, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Laskus Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Vamoose Mendo Lamu Homestay, key -- cancelType, error -- list index out of range 
+hotel name --- Vamoose Mendo Lamu Homestay, key -- paymenttype, error -- list index out of range 
+hotel name --- Vamoose Mendo Lamu Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Kanchenjunga Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Outstation, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Greenwood Homestays, Rohini, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Snow View Homestay Dawaipani By StayApart, key -- cancelType, error -- list index out of range 
+hotel name --- Snow View Homestay Dawaipani By StayApart, key -- paymenttype, error -- list index out of range 
+hotel name --- Snow View Homestay Dawaipani By StayApart, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Rudransh homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Outstation, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Dangia Delight Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- DARJEELING HOTEL H - STAY INN Near Mall Road - Restaurant And Private Parking Facilities - Family Hotel - A Top Rated Hotel In Darjeeling, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Shree Balaji homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Goo Zimba Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Four Season Homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bon Best Inn, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Bon The Rink Heritage, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Sanjeevini homestay, key -- review review_count, error -- 'NoneType' object has no attribute 'find_all' 
+hotel name --- Madys view -Aaple Ghar, key -- cancelType, error -- list index out of range 
+hotel name --- Madys view -Aaple Ghar, key -- paymenttype, error -- list index out of range 
